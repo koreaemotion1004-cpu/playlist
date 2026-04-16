@@ -1,0 +1,36 @@
+# 전체 작업 워크플로우
+
+## "시작하자" → 완료까지
+
+### Step 1: 가사 생성
+- wiki/lyrics-formula.md 참조
+- wiki/rhyme-structures.md 참조
+- wiki/song-form.md 참조
+- 10곡 단위로 생성 (5구조 x 2곡)
+- 출력 포맷: 제목 + 송폼 태그만 (괄호, 감정%, 마커 금지)
+
+### Step 2: Suno 프롬프트 생성
+- wiki/suno-core-dna.md의 Core DNA 고정
+- wiki/suno-variation-guide.md 참조하여 트랙별 1~2축 변주
+- Style of Music + Lyrics 세트로 출력
+
+### Step 3: 제목 생성
+- wiki/seo-title-strategy.md 참조
+- 히트 제목 키워드 블록 교차 삽입
+- 시크릿 모드 검색 테스트
+
+### Step 4: 설명글 생성
+- wiki/youtube-description.md 참조
+- 타임라인 받은 후 작성
+- SEO 최적화 5파트 구조
+
+### Step 5: 렌더링
+- 이퀄라이저: 투명 WebM, 720p, 30fps, 병렬처리
+- FullPlaylist 디자인: 얇은 라인 파형 + 하단 중앙 텍스트 (변경 금지)
+- 완료 시 자동 폴더 열기
+
+### Step 6: 업로드
+- 제목 + 설명글 + 태그 세트 적용
+
+---
+최종 업데이트: 2026-04-16
