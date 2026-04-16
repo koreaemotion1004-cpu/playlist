@@ -1,0 +1,51 @@
+{
+  "project_name": "260414",
+  "songs": [
+    {
+      "title": "A Saxophone in the Stairwell",
+      "duration_sec": 134.72
+    },
+    {
+      "title": "Before the City Wakes",
+      "duration_sec": 191.36
+    },
+    {
+      "title": "Bitter First, Sweet After",
+      "duration_sec": 190.0
+    },
+    {
+      "title": "Honey in the Espresso",
+      "duration_sec": 147.68
+    },
+    {
+      "title": "Nobody Knows the Pianist's Name",
+      "duration_sec": 182.8
+    },
+    {
+      "title": "The Jazz That Followed Me Home",
+      "duration_sec": 188.4
+    },
+    {
+      "title": "The Last Song of Summer",
+      "duration_sec": 206.32
+    },
+    {
+      "title": "The Long Way Home",
+      "duration_sec": 201.8
+    },
+    {
+      "title": "The Menu Nobody Reads",
+      "duration_sec": 153.0
+    },
+    {
+      "title": "The Table With the Wobbly Leg",
+      "duration_sec": 167.72
+    }
+  ],
+  "reference_titles": [
+    "WARM CAFE JAZZ ☕ 穏やかに過ごすためのSlow jazz",
+    "HAPPY DAY JAZZ ☕ 軽やかに過ごす時間のためのやさしいジャズ"
+  ],
+  "extra_mood": "",
+  "timeline": "00:00 A Saxophone in the Stairwell\n02:14 Before the City Wakes\n05:26 Bitter First, Sweet After\n08:36 Honey in the Espresso\n11:03 Nobody Knows the Pianist's Name\n14:06 The Jazz That Followed Me Home\n17:14 The Last Song of Summer\n20:41 The Long Way Home\n24:03 The Menu Nobody Reads\n26:36 The Table With the Wobbly Leg"
+}

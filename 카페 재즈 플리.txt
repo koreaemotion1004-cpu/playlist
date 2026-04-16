@@ -1,0 +1,309 @@
+[Suno AI 프롬프트 모음 - 일본 카페 재즈 BGM]
+Vintage Japanese Jazz Kissa style,
+strict 69 BPM, steady tempo, no swing, no quantized tight grid.
+
+Warm acoustic upright piano,
+simple chord voicing (maj7 and minor7 only, no extended tensions),
+loop-based harmonic progression,
+no dramatic chord movement.
+
+Deep woody upright bass,
+minimal walking,
+mostly root and fifth sustained notes,
+rounded low-end tone.
+
+Gentle brushed drum kit,
+no ride cymbal,
+no fills,
+very light snare brush texture,
+stable minimal rhythm.
+
+Intimate near-mic female storytelling vocal,
+breathy and soft,
+slightly indistinct phrasing,
+conversational tone,
+no strong melodic singing,
+no vibrato emphasis.
+
+1970s analog recording warmth,
+subtle tape saturation,
+high-end roll-off around 8kHz,
+short room reverb (under 1.2s),
+soft compression,
+warm midrange focus.
+
+Minimalist loop structure,
+no build, no drop,
+no dynamic peaks,
+psychological comfort and late-afternoon cafe mood,
+designed for long-form background listening.
+
+
+@@@@@@
+
+Cozy vintage jazz instrumental for café background music,
+very slow and relaxed tempo, around 70 BPM,
+minimal movement, loop-based structure.
+
+Warm upright piano as the main instrument,
+soft upright bass underneath,
+very gentle brushed drums with no swing.
+
+Subtle female vocal presence,
+soft spoken and whispered female voice,
+wordless or indistinct phrases,
+blended very low in the mix and treated like an instrument,
+used purely as background atmosphere, not as a song.
+
+No intro, no build, no drop,
+same calm energy throughout the track.
+
+Clean but warm sound,
+soft compression, no bright highs,
+no lo-fi noise, no modern textures.
+
+No clear lyrics, no vocal melody,
+no saxophone, no brass, no guitar leads.
+Unobtrusive, calm, Scandinavian-style café atmosphere,
+perfect for long listening while studying or working.
+Same style and mood, around 68 BPM, with even softer vocals and drums.
+
+또는
+
+Same style and structure, around 72 BPM, with slightly clearer vocal texture but still subtle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Soft cafe swing song, 74 BPM, very light swing feel,
+Warm piano as the main instrument,
+Very soft muted guitar used only as subtle texture,
+Female vocal with calm, intimate delivery,
+Minimal percussion,
+Rhythm carried gently by vocal phrasing and piano chords,
+Energy gradually decreases as the song progresses,
+Vocals become softer over time,
+Ending feels calmer than the beginning,
+Avoid energetic or expressive vocal delivery throughout,
+Intimate, cozy, background-friendly cafe mood
+No saxophone, no trumpet,
+No jazz trio, no walking bass,
+No strong rhythm section,
+No dramatic build or emotional climax
+
+@@@@@@@@@@@@@@
+
+Soft cafe swing song, 74 BPM, extremely subtle swing feel (almost straight),
+Warm piano as the main instrument,
+Very soft muted guitar used only as subtle texture,
+Female vocal delivered lazily and intimately, almost indifferent,
+Minimal percussion,
+
+Rhythm carried gently by vocal phrasing and piano chords,
+
+Loop-friendly structure with repeating, unresolved sections,
+Sections are intentionally repetitive and unresolved,
+Extended instrumental passages between vocal sections,
+
+Energy remains even, then gently settles toward the end,
+Vocals become softer as the song progresses,
+Ending feels calmer than the beginning,
+
+Avoid energetic or expressive vocal delivery throughout,
+Intimate, cozy, background-friendly cafe mood
+
+
+@@@@@@@@@@@@@@@@@@@@@
+
+** 중요 설정 (필독) **
+1. Mode: Custom Mode 사용
+2. Instrumental: 반드시 ON (가사 없음)
+3. Model: v3.5 또는 v4 추천
+4. Lyrics 칸: Instrumental 모드여도 아래 [4. 곡 구조 태그]를 입력하면 구성이 훨씬 좋아집니다.
+
+============================================================
+
+1. [국룰] 편안한 황금 비율 (BPM 85)
+> 특징: 가장 호불호 없는 미디엄 스윙. 브러쉬 드럼(스스슥) 소리 강조.
+
+[Style of Music]
+Jazz Piano Trio, Medium Swing, Brush Drumming, Walking Bass, Acoustic Jazz, 85 BPM, Sophisticated, High Fidelity, Cafe Ambience, Soft Piano
+
+[긴버전]
+Jazz Piano Trio, Medium Swing, Brush Drumming, Walking Bass, 85 BPM, Acoustic Jazz, Progressive Jazz, Long Jam Session, Extended Structure, Improvisation
+============================================================
+
+2. [감성] 낭만적이고 부드러운 느낌 (BPM 80)
+> 특징: 멜로디가 예쁜 유러피안/J-Jazz 스타일. 독서나 비 오는 날 추천.
+
+[Style of Music]
+Contemporary Jazz, Lyrical Piano, Soft Jazz, European Jazz Trio, Walking Bass, Mellow, Relaxing, 80 BPM, Warm Tone, Intimate, Instrumental
+[긴버전]
+European Jazz Trio, Lyrical Piano, Soft Jazz, Walking Bass, 80 BPM, Mellow, Progressive Jazz, Extended Structure, Long Improvisation, Masterpiece
+============================================================
+
+3. [세련] 도시적인 스타벅스 느낌 (BPM 84)
+> 특징: 기존 90에서 속도를 낮춘 쿨 재즈. 깔끔하고 시크한 느낌 (카공족 타겟).
+
+[Style of Music]
+Cool Jazz, West Coast Jazz, Smooth Piano, Light Brush Drums, Walking Bass, 84 BPM, Sophisticated, Urban Cafe Ambience, Clean Tone, Instrumental
+[긴버전]
+Cool Jazz, West Coast Jazz, Smooth Piano, Light Brush Drums, Walking Bass, 84 BPM, Progressive Jazz, Long Jam Session, Extended Structure, Urban Ambience
+============================================================
+4. [새벽] 깊은 밤의 위로 (BPM 70)
+> 특징: 아주 느린 템포. 심장이 편안해지는 속도. 잠들기 전이나 늦은 밤 혼자만의 시간에 듣기 좋은 재즈 발라드.
+
+Jazz Piano Trio, Slow Ballad, Romantic Jazz, Soft Brush Drums, Deep Double Bass, 70 BPM, Midnight Ambience, Mellow, Warm Tone, Progressive Jazz, Long Jam Session, Extended Structure, Masterpiece
+
+[Part 1: The Night Begins]
+[Intro]
+(Very slow and emotional piano intro, softest brush drums enter, setting a deep night atmosphere, 00:00-00:50)
+
+[Verse 1]
+(Gentle and lyrical piano melody, slow walking bass, relaxing ballad feel)
+
+[Verse 2]
+(Repeat melody with deep emotion, soft cymbal swells, warm tone)
+
+[Chorus]
+(Beautiful and romantic harmony, peaceful resolution, comforting vibe)
+
+[Part 2: Deep Emotion]
+[Piano Solo 1]
+(Slow improvised piano solo, sparse notes, focusing on emotion and touch, using silence as music)
+
+[Bridge]
+(Minimal accompaniment, bass plays deep root notes, piano plays soft arpeggios)
+
+[Bass Solo]
+(Double bass takes the lead, very deep and woody tone, slow rhythmic groove, intimate feeling)
+
+[Piano Solo 2]
+(Building up slightly, more melodic lines, sentimental jazz scales)
+
+[Part 3: Sweet Dreams]
+[Theme Reprise]
+(Return to main melody, very soft and gentle, sleep inducing)
+
+[Outro]
+(Tempo slows down even more, final chord fades out very slowly, silence lingers, complete relaxation)
+============================================================
+Jazz Piano Trio, Medium Swing, Brush Drumming, Walking Bass, 85 BPM, Progressive Jazz, Long Jam Session, Extended Structure, Improvisation, Masterpiece
+
+============================================================
+4. [필수] 곡 구조 태그 (Lyrics 칸에 입력)
+> 팁: Instrumental 모드여도 이걸 넣어야 곡이 3분 내내 지루하지 않고 기승전결이 생깁니다.
+
+[Intro]
+(Slow build up, soft piano chords, light brush drums enter gradually, 00:00-00:40)
+
+[Verse 1]
+(Elegant piano melody begins, steady walking bass line, medium swing feel, establishing the main theme)
+
+[Verse 2]
+(Repeat theme with variations, wider piano range, add light cymbal rides)
+
+[Chorus]
+(Rich harmonies, sophisticated jazz rhythm, warm and relaxing tone, comfort feeling)
+
+[Bridge 1]
+(Piano improvisation, light and airy, transition to bass solo)
+
+[Bass Solo]
+(Double bass takes the lead, deep and woody tone, rhythmic groove, minimal piano accompaniment, long duration)
+
+[Piano Solo]
+(Extended improvised piano solo, playful and melodic, clear high notes, jazzy scales, building intensity)
+
+[Drum Break]
+(Brush drum solo, rhythmic texture, soft but groovy)
+
+[False Ending]
+(Music slows down as if ending, silence for 1 second...)
+
+[Theme Reprise]
+(Music returns suddenly with full energy, main melody returns, cheerful vibe)
+
+[Final Chorus]
+(Full trio playing together, emotional and grand)
+
+[Outro]
+(Slow down tempo significantly, light cymbal shimmers, final jazz chord lingers, fade out slowly, 03:30-04:00)
+
+
+
+그래도 2분에서 끊긴다면? (최후의 수단: Extend)
+[Piano Solo 2]
+(Continuing improvisation, sophisticated jazz lines, clear tone)
+
+[Bridge 2]
+(Soft breakdown, emotional chord progression, slow tempo)
+
+[Theme Reprise]
+(Return to original melody, warm and cozy ending atmosphere)
+
+[Outro]
+(Fade out slowly, relaxing finish)
+이렇게 이어 붙이면 4분짜리 완벽한 곡이 됩니다. 일단은 크레딧 아끼셔야 하니 위의 '긴 버전 구조'로 먼저 시도해보세요!
+
+초등학생도 따라 할 수 있게, 딱 4단계로 나눠서 아주 쉽게 정리했습니다. 이 내용을 메모장이나 카톡 나에게 보내기에 저장해두고, 곡 만들 때마다 보면서 따라 하세요! 📝
+
+🎵 [Suno AI] 4분짜리 곡 만들기 치트키
+준비물: 내가 만든 2분짜리 노래 (Part 1)
+
+1단계: "이어 붙이기" 버튼 누르기
+마음에 드는 곡(2분짜리) 옆에 있는 점 3개 [...] 를 누르세요.
+
+[Extend] (익스텐드) 버튼을 클릭하세요.
+
+(뜻: "이 노래 뒤에 더 이어 붙일래!")
+
+2단계: "어디서부터" 만들지 정하기
+[Extend from] 시간을 02:00 근처로 맞추세요.
+
+화면에 **분홍색(KEEP)**과 **회색(RECREATE)**이 보이죠?
+
+🩷 분홍색: "앞부분은 마음에 드니까 살려줘."
+
+🩶 회색: "여기부터 뒷부분은 새로 만들어줘."
+
+3단계: "뒷부분 내용" 적기 (제일 중요!)
+왼쪽 [Lyrics] 칸에 있는 글자를 싹 지우세요.
+
+아래 **"2절 가사"**를 복사해서 붙여넣으세요.
+
+Plaintext
+
+[Piano Solo 2]
+(Continuing improvisation, sophisticated jazz lines)
+
+[Theme Reprise]
+(Return to original melody, warm atmosphere)
+
+[Outro]
+(Fade out slowly, relaxing finish)
+이제 [Create] 버튼 꾹! 누르기.
+
+4단계: "합체" 시키기 (완성)
+잠시 기다리면 [Part 2] 라는 곡이 새로 나옵니다.
+
+들어보고 자연스러우면, 그 곡 옆의 점 3개 [...] 를 누르세요.
+
+[Get Full Song] (겟 풀 송)을 클릭하세요.
+
+(뜻: "앞부분이랑 뒷부분 본드로 붙여서 하나로 줘!")

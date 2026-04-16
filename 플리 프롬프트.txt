@@ -1,0 +1,88 @@
+느리고 잔잔한 카페 재즈 버전(Section Prompt)
+[Intro, 72 BPM, warm jazz piano / soft Rhodes, minimal motif]
+[Build, 74 BPM, upright bass (soft walking, low-intensity), very light brushed drums]
+[Peak, 76 BPM, gentle guitar comping, subtle pad or soft strings (very low), no brass, no funk]
+[Bridge, 70 BPM, soft flute or muted sax short phrases (no long solo), spacious chords]
+[Outro, 72 BPM, Rhodes + piano, fade out with room ambience]
+
+“일본 감성” 살짝 넣은 버전(원하면)
+(코토/샤쿠하치 자체는 카페 재즈에서 튀는 경우가 많아서, 아주 ‘살짝’ 텍스처로만 쓰는 형태로 조정)
+
+[Intro, 70 BPM, warm Rhodes, koto as faint texture (sparingly, very low)]
+[Build, 72 BPM, upright bass, soft brush kit, minimal chord movement]
+[Peak, 74 BPM, jazz guitar comping, no brass, keep dynamics gentle]
+[Bridge, 68 BPM, shakuhachi replaced with soft flute / airy sax (short phrases only), mellow chords]
+[Outro, 70 BPM, Rhodes + piano, quiet cafe room tone, fading groove]
+
+
+느리게(추천 1) — “Slow / Calm / 70–80 BPM” 버전
+Prompt Instrumental cafe jazz background music, slow tempo (70–80 BPM). Warm mellow jazz piano as lead, soft upright bass, very light brushed drums (subtle, low in the mix), gentle swing kept minimal. Subtle room ambience like a quiet coffee shop at night. Minimal melody, minimal chord movement, focus-friendly, no vocals, no dramatic builds, no sharp high frequencies. Soft dynamics, steady groove, loopable, relaxing and elegant.
+
+더 느리게(추천 2) — 드럼 거의 제거(“piano trio but drums barely there”)
+Prompt Instrumental slow cafe jazz BGM (around 65–75 BPM). Warm jazz piano lead, upright bass, almost no drums (only faint brushes or soft percussion hits). Calm, spacious, lots of silence between phrases. Subtle cafe room tone. No vocals, no solos that stand out, no big changes, no crescendos. Smooth loopable structure, consistent quiet dynamics, relaxing and elegant.
+
+느리지만 지루하지 않게(추천 3) — “ballad / lullaby jazz” 방향
+Prompt Instrumental jazz ballad cafe background music, slow (70 BPM). Tender jazz piano, soft upright bass, brushed drums extremely gentle, dreamy cozy ambience. Simple motif, long sustained chords, warm tone, very smooth. No vocals, no dramatic builds, no bright highs. Loopable, steady, calm, perfect for study and late-night work.
+
+
+
+
+
+
+
+
+
+1. Vintage soul-funk, instrumental only, deep groove, syncopated basslines, retro drums, electric organ, brass stabs
+
+2. Groovy vintage funk, brass-driven, electric bass, soulful organ, 70s-style groove
+
+3. Retro soul-funk instrumental, tight drums, warm bassline, wah guitar
+
+4. Soul‑funk instrumental, 100‑108 BPM, deep groove, syncopated basslines, retro drums, electric organ, brass stabs
+
+5. Groovy funk instrumental, midtempo (about 104 BPM), brass riffs, warm bass, soulful organ
+
+6. Vintage soul-funk instrumental, 100 BPM, warm tape saturation, syncopated basslines, retro drums, electric organ, mellow brass
+
+7. Vintage soul-funk instrumental, 95 BPM, warm tape saturation, syncopated basslines, retro drums, electric organ, mellow brass, laid-back groove
+
+8. Soul-funk instrumental, mellow grooves, warm electric piano, soft retro drums, jazzy chords, laid-back basslines
+
+9. Downtempo groove, retro soul vibe, cozy and reflective, electric piano and muted drums only
+
+
+✅ ③ 프롬프트 통합 버전 (다기능/만능용)
+Vintage soul-funk instrumental, around 98–104 BPM, syncopated basslines, retro drums with deep pocket, warm electric organ, mellow brass, jazzy chords, laid-back groove, warm tape texture
+
+Soul-funk instrumental storytelling piece, dynamic tempo progression from 92 to 108 BPM and back to 94 BPM, deep groove basslines, retro drums evolving from soft brushes to punchy kicks, warm electric organ, mellow brass, jazzy chords, laid-back intro leading to energetic peak and calm reflective outro, cinematic soul-funk flow
+
+---------
+[Intro, 92 BPM, warm electric piano, koto melody]
+[Build, 98 BPM, rhythm guitar, bass groove]
+[Peak, 106 BPM, brass section, energetic funk groove]
+[Bridge, 100 BPM, shakuhachi solo, mellow chords]
+[Outro, 93 BPM, soft Rhodes, fading groove]
+-----------
+
+🎚️ 템포 기준 분류
+🟩 Midtempo / 리듬감 있는 (100–108 BPM)
+
+Soul‑funk instrumental, 100‑108 BPM, deep groove, syncopated basslines, retro drums, electric organ, brass stabs
+
+Groovy funk instrumental, midtempo (about 104 BPM), brass riffs, warm bass, soulful organ
+
+Vintage soul-funk instrumental, 100 BPM, warm tape saturation, syncopated basslines, retro drums, electric organ, mellow brass
+
+Vintage soul-funk, instrumental only, deep groove, syncopated basslines, retro drums, electric organ, brass stabs
+
+Groovy vintage funk, brass-driven, electric bass, soulful organ, 70s-style groove
+
+Retro soul-funk instrumental, tight drums, warm bassline, wah guitar
+
+🟨 느긋한 템포 / 감성 강조 (95 BPM 이하)
+
+Vintage soul-funk instrumental, 95 BPM, warm tape saturation, syncopated basslines, retro drums, electric organ, mellow brass, laid-back groove
+
+Soul-funk instrumental, mellow grooves, warm electric piano, soft retro drums, jazzy chords, laid-back basslines
+
+Downtempo groove, retro soul vibe, cozy and reflective, electric piano and muted drums only
