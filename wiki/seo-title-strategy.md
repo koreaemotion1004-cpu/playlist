@@ -68,6 +68,68 @@
 - Sepia Lounge 검색 → Vintage Noir Jazz 블록으로 잡힘
 - 두 채널 트래픽 동시 흡수
 
+## ⭐ 다국어 제목 전략 (2026-04-17 발견)
+
+### 핵심 원칙
+**한 제목 = 한 언어.** 여러 언어 번역은 YouTube Studio "다른 언어 추가" 기능 활용.
+
+### 검증 사례: Coffee Shop Vibes
+- 영어 원어: `Rainy Jazz Cafe - Slow Jazz Music in Coffee Shop Ambience for Work, Study and Relaxation`
+- 일본어 버전: `Rainy Jazz Cafe - 仕事、勉強、リラクゼーションのためのコーヒーショップアンビエンスでのスロージャズミュージック`
+- **성과: 4657만뷰 / 855 VPH / 3년 지속 성장 (40.9x 배수)**
+
+### 왜 한 제목에 섞으면 안 되는가
+- 영어권: 중간 일본어 키워드로 단절감
+- 일본어권: 양 끝 영어로 키워드 약함
+- 70자 제한 초과 → 검색 결과에서 잘림
+- 알고리즘이 언어 분류 혼란
+
+### 올바른 설정 방법
+1. YouTube Studio → 동영상 업로드
+2. 원어를 메인 시장 언어로 설정 (우리: English)
+3. **"다른 언어 추가"** 클릭
+4. 일본어 / 한국어 등 추가 → 각 언어로 제목·설명 입력
+
+### 각 언어별 70자 풀가동
+| 언어 | 제목 구조 |
+|------|----------|
+| English (원어) | `[Brand] ☕ [Mood/Season] in a [Place] \| [Use Case]` |
+| 日本語 | `[Brand] ☕ [気分/季節] [場所]で \| [用途]のためのBGM` |
+| 한국어 | `[Brand] ☕ [분위기/계절] [장소] \| [용도]를 위한 BGM` |
+
+## Cafe BGM 확정 공식 (Vol.12 검증)
+
+### 원어 제목 템플릿
+```
+Home Cafe Jazz ☕ [Era] [Weather/Time] [Place] | [Use Case]
+```
+
+### 검증된 성공 예시 (Vol.12)
+```
+Home Cafe Jazz ☕ Vintage 1940s Rainy Afternoon in a Cozy Coffee Shop | Cafe Ambience for Work & Study
+```
+
+**매칭 트래픽 풀:**
+- Coffee Shop Vibes (4657만뷰, 855 VPH)
+- Lepreezy (526만뷰, 699 VPH)
+
+### 필수 키워드 요소
+| # | 요소 | 예시 | 역할 |
+|---|------|------|------|
+| 1 | 브랜드 | `Home Cafe Jazz` | 기존 트래픽 상속 |
+| 2 | 이모지 | `☕` | 시각 앵커 |
+| 3 | 시대 | `Vintage 1940s` | Lepreezy 풀 |
+| 4 | 날씨/시간 | `Rainy Afternoon` | 감성 키워드 |
+| 5 | 장소 | `in a Cozy Coffee Shop` | Coffee Shop Vibes 풀 ⭐ |
+| 6 | 장르 | `Cafe Ambience` | 공통 검색어 |
+| 7 | Use Case | `for Work & Study` | 검색 의도 포획 |
+
+### NOIR 시리즈 공식 (Vol.13~)
+```
+[Mood Phrase]. [Emoji] Vintage Noir Jazz for [Specific Use Case]
+```
+참고: [[noir-vibes-case-study]]
+
 ## 제목 구조 규칙
 - Home Café Jazz ☕ 같은 브랜드 키워드는 맨 앞 배치
 - 【途中広告なし】 브랜드 접두사는 절대 금지
