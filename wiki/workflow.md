@@ -45,6 +45,12 @@
 - FullPlaylist 디자인: 얇은 라인 파형 + 하단 중앙 텍스트 (변경 금지)
 - 완료 시 `사용한 곡/playlist-video/YYMMDD/` 폴더 다시 열기
 
+### Step 5.5: 메타데이터 주입
+- wiki/metadata-seo.md 참조
+- ffmpeg로 webm 파일에 메타정보 주입 (재인코딩 없이 `-c copy`)
+- Title / Artist / Album / Genre / Comment / Keywords 필수
+- YouTube 봇이 긁어가서 SEO 신호 강화
+
 ### Step 6: 업로드
 - 제목 + 설명글 + 태그 세트 적용
 
