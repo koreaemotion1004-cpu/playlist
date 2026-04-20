@@ -217,4 +217,81 @@ All rights reserved.
 - **AI 고지 필수** (YouTube 정책 대응)
 
 ---
-최종 업데이트: 2026-04-17
+
+## ⭐ YouTube 자동완성 = 제목 공식 검증 시그널 (2026-04-20)
+
+### 핵심 원리
+YouTube 검색창 자동완성 드롭다운에 뜨는 예측어는 **YouTube가 임의로 만드는 것이 아님.**
+실제로 **많은 사람이 그 문장을 그대로 검색했을 때만** 자동완성에 진입한다.
+→ 자동완성 순서 = 실제 검색량 순위 (높을수록 상위).
+
+### 두 종류의 자동완성 진입
+| 유형 | 예시 | 의미 |
+|------|------|------|
+| **일반명사/장르어** | `vintage soul funk`, `soul funk playlist` | 당연히 뜸. 누구나 쓰는 키워드. |
+| **영상 제목 구절** ⭐ | `vintage soul funk grooves you've been waiting for` | **특정 채널의 영상 제목이 검색량으로 자동완성 진입** — 그 제목 공식이 바이럴됐다는 증거. |
+
+### 영상 제목이 자동완성에 오른다는 것의 의미
+1. **다수 사용자가 제목을 기억하거나 복붙해서 재검색** → 검색 임계치 돌파
+2. **그 문장이 장르 관용구로 학습됨** → 사람들이 `vintage soul funk`만 쳐도 뒤에 이 표현을 기대
+3. **YouTube 알고리즘이 이 패턴을 "고 CTR + 고 유지율"로 인식** → 유사 제목 상위 노출 유리
+
+### 검증 사례: BoomSlick 제목 프랜차이즈
+**Soul Funk 키워드 리서치 (2026-04-20):**
+
+"vintage soul" 자동완성 순위:
+1. vintage soul funk grooves
+2. vintage soul funk
+3. vintage soul type beat
+4. vintage soul chamber
+5. vintage soul christmas
+6. **vintage soul funk grooves you've been waiting for** ← BoomSlick ep4 (64만뷰) 제목이 그대로 진입
+7. vintage soul r&b
+8. vintage soul rare
+9. **vintage soul-funk grooves you've been searching for minimal soul funk playlist** ← BoomSlick ep9 제목 그대로 진입
+
+→ BoomSlick은 이 패턴 하나로 **검색어 자체를 만들었고**, 시리즈 영상마다 조회수 40만~64만을 찍음.
+
+### 실전 활용: 자동완성 진입 제목에 편승하기
+
+**자동완성에 오른 제목 공식은 YouTube가 스스로 광고해주는 무료 유입 경로다.**
+
+```
+사용자가 "vintage soul" 타이핑
+→ 자동완성이 "vintage soul funk grooves you've been waiting for" 제안
+→ 사용자 무의식 클릭
+→ 우리가 같은 패턴 쓰면 결과 페이지에 동시 노출
+```
+
+### ⚠️ 복제 금지 — 변형 규칙 필수
+YouTube는 **100% 동일 제목 복제**를 감지해서 노출을 억제한다.
+→ 핵심 구조는 유지하되 **키워드 1~2개는 반드시 변형.**
+
+| 원본 패턴 (금지) | 변형 (허용) |
+|----------------|------------|
+| Vintage Soul-Funk Grooves You've Been Waiting For | Vintage Soul Funk Groove You've Been **Craving** |
+| Vintage Soul-Funk Grooves You've Been Waiting For | **Rare** Soul-Funk Grooves You've Been **Searching For** |
+| Vintage Soul-Funk Grooves You've Been Waiting For | Vintage Soul Funk Groove You've Been **Missing** |
+
+### 자동완성 리서치 실전 명령어
+자동완성 데이터는 Google Suggest API로 직접 조회 가능:
+```
+https://suggestqueries.google.com/complete/search?client=youtube&ds=yt&q=[키워드]
+```
+→ 새 장르·새 시장 진입 전 반드시 이 쿼리로 **진입 제목·진입 키워드**를 먼저 확인.
+
+### Soul Funk 핵심 트래픽 키워드 TOP 7 (자동완성 교차 검증)
+| 순위 | 키워드 | 근거 |
+|-----|-------|-----|
+| 1 | **Groove** | 4개 쿼리 전부 1~2위 |
+| 2 | **Vintage** | "Vintage Soul Funk" 복합어 최상위 |
+| 3 | **Mix** | 장시간 BGM 수요 |
+| 4 | **Playlist** | Mix 동급 |
+| 5 | **Rare** | 희귀·발굴 감성 |
+| 6 | **70s / Old School** | 시대감 고정 수요 |
+| 7 | **You've Been [Verb]ing For** | BoomSlick 프랜차이즈 패턴 |
+
+→ 상세 내용: [[소울펑크]] Mellow_Funk 공식 섹션 참고.
+
+---
+최종 업데이트: 2026-04-20
