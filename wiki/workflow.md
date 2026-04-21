@@ -1,10 +1,28 @@
 # 전체 작업 워크플로우
 
-## "시작하자" 트리거 동작
-1. `사용한 곡/playlist-video/YYMMDD/` 날짜 폴더 생성
-2. 해당 폴더 열기 (explorer)
-3. 렌더링 시작
-4. 완료 시 해당 폴더 다시 열기
+## ⭐ 트리거 명령어 (2026-04-20 개편)
+
+### 🎬 "시작" 또는 "시작하자" (새 Vol 작업)
+```
+내가 "시작" 치면 → 자동 실행:
+    ① 제목 생성 (title-direction-master 공식 자동 적용)
+       - Vol 번호 확인 → 홀수 A공식 / 짝수 B공식
+       - Use Case 라이브러리에서 미사용 1개 선택
+    ② 가사 10곡 (Track 10 → 01 역순)
+    ③ Suno 프롬프트 10곡 (Track 10 → 01 역순)
+```
+
+### 🎨 "랜더링" 또는 "랜더링 시작" (mp3 렌더링)
+```
+내가 "랜더링" 치면 → 자동 실행:
+    1. `사용한 곡/playlist-video/YYMMDD/` 날짜 폴더 생성
+    2. 해당 폴더 열기 (explorer)
+    3. ProRes 4444 렌더링 시작
+    4. 메타데이터 주입
+    5. 완료 시 폴더 다시 열기
+```
+
+---
 
 ## ⭐ 전역 규칙 (모든 장르 공통)
 
@@ -25,6 +43,11 @@
 ```
 1곡 × 10 렌더링 → 1개 플레이리스트 영상 편집(CapCut) → 1개 업로드
 ```
+
+### ⭐ 제목 생성 A/B 로테이션
+- **홀수 Vol (13, 15, 17...)** → A 공식 (`Rainy 1940s Coffee Shop Ambience`)
+- **짝수 Vol (14, 16, 18...)** → B 공식 (`& Jazz` 패턴)
+- 상세: [[title-direction-master]]
 
 ### ⭐ BPM 기승전결 곡선 규칙 (Soul Funk / Neo Soul 전용)
 
@@ -64,49 +87,101 @@ BPM:        78   79   80   81   82   83   84   85   78   72
 - `사용한 곡/playlist-video/YYMMDD/` → 렌더링 영상 출력 폴더 (날짜별)
 - `wiki/` → 가사 + 프롬프트 + 전략 아카이브
 
-## 전체 워크플로우
+---
 
-### Step 1: 가사 생성
-- wiki/lyrics-formula.md 참조
-- wiki/rhyme-structures.md 참조
-- wiki/song-form.md 참조
-- 10곡 단위로 생성 (5구조 x 2곡)
+## 🎬 전체 워크플로우 (단계별 상세)
+
+### Step 1: "시작" — 제목 + 가사 + 프롬프트 자동 생성
+명령어: `시작` 또는 `시작하자`
+
+#### 1-1. 제목 생성
+- [[title-direction-master]] A/B 공식 참조
+- Vol 번호에 따라 공식 자동 선택 (홀수=A, 짝수=B)
+- Use Case 라이브러리에서 미사용 1개 자동 선택
+- 독창 구문 자동 생성
+- 시크릿 모드 검증 권장
+
+#### 1-2. 가사 생성 (Track 10 → 01 역순)
+- [[lyrics-formula]] 참조 (빌보드 공식)
+- [[lyrics-formula-noir]] 참조 (Noir 전용)
+- [[rhyme-structures]] 참조 (5구조 × 2곡)
+- [[song-form]] 참조 (송폼 구조)
 - 출력 포맷: 제목 + 송폼 태그만 (괄호, 감정%, 마커 금지)
-- ⭐ **생성 순서: Track 10 → 09 → 08 → ... → 01 (역순)** — 모든 장르 공통 규칙
 
-### Step 2: Suno 프롬프트 생성
-- wiki/suno-core-dna.md의 Core DNA 고정
-- wiki/suno-variation-guide.md 참조하여 트랙별 1~2축 변주
+#### 1-3. Suno 프롬프트 생성 (Track 10 → 01 역순)
+- [[suno-core-dna]] Core DNA 5 필수 태그 확인
+- [[suno-variation-guide]] 트랙별 1~2축 변주
+- 장르별 템플릿 적용:
+  - Cafe Jazz/Noir: [[lyrics-formula-noir]]
+  - Soul Funk: [[소울펑크]]
+  - Gospel: [[가스펠]]
+  - Neo Soul: [[네오소울]]
 - Style of Music + Lyrics 세트로 출력
 
-### Step 3: 제목 생성
-- wiki/seo-title-strategy.md 참조
-- 히트 제목 키워드 블록 교차 삽입
-- 시크릿 모드 검색 테스트
+### Step 2: mp3 준비 (수동)
+- Suno에서 10곡 생성
+- mp3 다운로드
+- `사용한 곡/volXX/` 폴더에 저장
+- 파일명 규칙: `Track XX. 제목.mp3`
 
-### Step 4: 설명글 생성
-- wiki/youtube-description.md 참조
+### Step 3: "랜더링" — mp3 영상 렌더링
+명령어: `랜더링` 또는 `랜더링 시작`
+
+#### 3-1. 렌더링
+- 출력 경로: `사용한 곡/playlist-video/YYMMDD/prores_v2/`
+- ProRes 4444 + 알파 채널 (yuva444p10le)
+- 1280x720 HD + PNG image format
+- 순차 렌더링 (동시 실행 시 오디오 충돌)
+- 파일명: `Track XX. 제목.mov` (하이픈 금지, 공백)
+
+#### 3-2. 메타데이터 주입
+- [[metadata-seo]] 참조
+- ffmpeg로 mov 파일에 메타정보 주입
+- Title / Artist / Album / Genre / Keywords 필수
+
+### Step 4: 설명글 생성 (수동 요청)
+- [[youtube-description]] 참조
+- [[romance-novel-formula]] (Cafe Jazz 라인)
 - 타임라인 받은 후 작성
 - SEO 최적화 5파트 구조
 
-### Step 5: 렌더링
-- 출력 경로: `사용한 곡/playlist-video/YYMMDD/` (out/ 폴더 사용 금지)
-- 날짜 폴더 생성 → 열기
-- 파일명 규칙: `Track XX. 제목.webm` (하이픈 금지, 공백으로)
-  - GOOD: `Track 01. The Matchbox on the Counter.webm`
-  - BAD: `The-Matchbox-on-the-Counter.webm`
-- 이퀄라이저: 투명 WebM, 720p, 30fps, 병렬처리
-- FullPlaylist 디자인: 얇은 라인 파형 + 하단 중앙 텍스트 (변경 금지)
-- 완료 시 `사용한 곡/playlist-video/YYMMDD/` 폴더 다시 열기
+### Step 5: CapCut 편집 (수동)
+- ProRes .mov 파일 CapCut에 드래그
+- 배경 이미지/영상 합성
+- 투명 인식 자동
+- 최종 영상 출력 (MP4)
 
-### Step 5.5: 메타데이터 주입
-- wiki/metadata-seo.md 참조
-- ffmpeg로 webm 파일에 메타정보 주입 (재인코딩 없이 `-c copy`)
-- Title / Artist / Album / Genre / Comment / Keywords 필수
-- YouTube 봇이 긁어가서 SEO 신호 강화
-
-### Step 6: 업로드
+### Step 6: 업로드 (수동)
 - 제목 + 설명글 + 태그 세트 적용
+- YouTube Studio 다국어 설정 (선택)
+- 공개 or 예약 업로드
+
+### Step 7: 커밋 푸시 (명령어: `커밋 푸시`)
+- wiki 아카이브 저장
+- git add/commit/push
 
 ---
-최종 업데이트: 2026-04-16
+
+## 🚫 절대 규칙 (위반 금지)
+
+1. **Mysig 특수 키워드 사용 금지** (VPH 16~24 냉각기)
+2. **한국어 제목 키워드 금지** (일본·영어 타겟)
+3. **【途中広告なし】 브랜드 접두사 금지**
+4. **Track 순서 1→10 정순 생성 금지** (역순 10→01만)
+5. **Core DNA 5 필수 태그 누락 금지** (특히 [Mesmerizing Melody])
+6. **렌더링 out/ 폴더 사용 금지** (날짜 폴더 직접 출력)
+7. **렌더링 동시 실행 5개+ 금지** (오디오 충돌, 순차 권장)
+
+---
+
+## 📚 워크플로우 관련 위키 링크
+
+- [[title-direction-master]] — 제목 생성 A/B 마스터 전략
+- [[lyrics-formula]] / [[lyrics-formula-noir]] — 가사 공식
+- [[suno-core-dna]] — Suno Core DNA
+- [[소울펑크]] / [[가스펠]] / [[네오소울]] — 장르별 공식
+- [[metadata-seo]] — 메타데이터 주입 공식
+- [[storage-management]] — 용량 관리 정책
+
+---
+최종 업데이트: 2026-04-20
