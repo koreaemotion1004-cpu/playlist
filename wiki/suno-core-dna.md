@@ -30,6 +30,31 @@ Acoustic piano trio: warm acoustic upright piano, deep woody upright bass walkin
 ## Exclude (Core에 내장)
 strictly no horns, no trumpet, no saxophone, no brass
 
+## ⭐ Vintage Japanese Jazz Kissa — 기본형 프롬프트 (Cafe Line 1)
+
+**용도:** Line 1 Cafe Jazz 가장 기본형. Vol.14~ 카페 BGM 피벗 시 베이스 템플릿.
+
+```
+[Hypnotic Bass]
+[Moody Melody]
+[Vintage Japanese Jazz Kissa]
+[Quiet Cafe Mood]
+[Lo-Fi Aesthetic]
+[68 BPM]
+[Slow and Lazy Feel]
+[Minimalist Arrangement]
+[1970s Analog Warmth]
+[Intimate Breathy Female Alto Vocal]
+[Relaxed Delivery Behind the Beat]
+[Low-Mixed Intimate Vocal]
+
+Warm acoustic upright piano, deep woody upright bass walking line, soft brushed snare drum shuffle, and muted hollow-body electric guitar comping. Strictly no horns, no trumpet, no saxophone, no brass. Subtle vinyl crackle, tape saturation, softened high end, and muffled analog warmth. Quiet nostalgic cafe atmosphere, understated groove, and background-friendly long-play pacing.
+```
+
+**사용법:**
+- 이 기본형에서 BPM / Mood / Feel / Arrangement / Vocal 세부 / Texture 6축 중 1~2축만 트랙별로 변주
+- 나머지 태그는 고정 유지 (앨범 일관성)
+
 ## ⭐ 필수 고정 태그 5개 (모든 장르 공통 — 절대 누락 금지)
 
 아래 5개 태그는 **Cafe Jazz / Noir Jazz / Soul Funk** 등 **모든 라인에서 필수**:
@@ -58,4 +83,4 @@ strictly no horns, no trumpet, no saxophone, no brass
 - Texture 추가 요소 (vinyl crackle 강도, rain ambience...)
 
 ---
-최종 업데이트: 2026-04-17
+최종 업데이트: 2026-04-21
