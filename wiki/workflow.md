@@ -27,6 +27,25 @@
          · Line 5 Neo Soul: #1 Mac Ayres 2017 / #2 D'Angelo 2000 / #3 Tom Misch 2018
        - 1곡당 앵커 1명 고정 (섞지 않음)
        - 도입부 허밍·애드립 금지 태그 5개 자동 포함 (suno-no-intro-humming.md)
+
+       ★★ 방법 B 강제 규칙 (Suno 필터 우회 — 위반 시 프롬프트 리젝트) ★★
+       - 브래킷 태그 [...] 뿐 아니라 descriptive body(설명 단락)에도
+         아티스트/앨범/유명 곡명 절대 사용 금지
+       - 반드시 "[연도] + [스타일 서술어]" 포맷만 사용
+       - 실수 예시 (금지):
+         ❌ "Bill Withers Just As I Am era warmth"
+         ❌ "Curtis Mayfield Superfly era groove"
+         ❌ "Norah Jones Come Away With Me era"
+         ❌ "Mac Ayres Drive Slow style"
+         ❌ "D'Angelo Voodoo era drum pocket"
+       - 올바른 예시:
+         ✅ "1971 intimate baritone soul era warmth"
+         ✅ "1972 urban cinematic soul funk groove"
+         ✅ "2002 intimate female jazz era delivery"
+         ✅ "2017 modern neo soul laid-back baritone style"
+         ✅ "2000 deep lo-fi neo soul drum pocket"
+       - 장르 이름 + 악기 묘사는 허용 (Suno 공식 태그로 취급)
+       - Suno가 아티스트 이름 감지하면 프롬프트 리젝트 또는 다른 스타일로 생성
 ```
 
 ### 🎨 "랜더링" 또는 "랜더링 시작" (mp3 렌더링)

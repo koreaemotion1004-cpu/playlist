@@ -255,21 +255,26 @@ hybrid of jazz and neo soul, unhurried mood
 
 ## 💡 벤치마크 사용법
 
-### 방법 A: Suno 프롬프트에 아티스트 이름 직접 삽입
+### ⚠️ 방법 A: 아티스트 이름 직접 삽입 (Suno 필터 리스크 — 비추천)
 ```
 [Intimate Breathy Female Alto Vocal]
-[Norah Jones 2002 Era Delivery]   ← 핵심 앵커 태그
+[Norah Jones 2002 Era Delivery]   ← 실제 필터 걸림 사례 있음
 [Vintage Japanese Jazz Kissa]
 ```
-→ Suno가 "Come Away With Me" 앨범 무드를 정확히 재현
+→ Suno가 감지하면 프롬프트 리젝트 또는 다른 스타일로 생성
+→ **2026-04-24 기준: 실제 경고 발생 확인됨. 사용 금지.**
 
-### 방법 B: 가수 이름 금지 시 (저작권 우려) → 연도 + 스타일
+### ⭐ 방법 B: 연도 + 스타일 (강제 규칙 · 기본값) ⭐
 ```
 [2002 intimate female jazz vocal era]
 [1955 smoky noir jazz female alto style]
 [1971 warm baritone soul era]
 [2018-2020 modern neo soul intimate baritone]
 ```
+**필수 적용 범위:**
+- 브래킷 태그 [...] — 모든 곳
+- Descriptive body(설명 단락) — 모든 곳 ⚠️ **자주 놓침 주의**
+- 채널·앨범명·곡명 어디에도 실명 삽입 금지
 
 ### 방법 C: 3명 앵커 로테이션 (10곡 앨범 시)
 - Track 01~03: 메인 앵커 #1 (핵심 정체성)
@@ -296,11 +301,12 @@ hybrid of jazz and neo soul, unhurried mood
 
 ## ⚠️ 주의사항
 
-1. **아티스트 이름 사용 시 Suno 필터 가능** → 연도+스타일 대안 준비
-2. **유명 곡명 직접 삽입 금지** (저작권 필터)
-3. **앵커 + 장르 태그 조합** 필수 — 앵커만 쓰면 장르 블러
-4. **한 프롬프트에 앵커 1명만** (여러 명 섞으면 정체성 뭉개짐)
-5. **10곡 앨범은 3앵커 로테이션 권장** (방법 C)
+1. **방법 B 강제 (필수)** — 2026-04-24부터 방법 A는 Suno 필터 걸림 확인됨. 반드시 "연도+스타일"만 사용
+2. **Descriptive body 체크** — 태그는 고쳐도 설명 단락에 실명 남아있는 경우 빈번. 저장 전 grep 검증 권장
+3. **유명 곡명/앨범명도 금지** — "Just As I Am era", "Voodoo era", "Come Away With Me" 등 전부 금지
+4. **앵커 + 장르 태그 조합** 필수 — 앵커만 쓰면 장르 블러
+5. **한 프롬프트에 앵커 1명만** (여러 명 섞으면 정체성 뭉개짐)
+6. **10곡 앨범은 3앵커 로테이션 권장** (방법 C)
 
 ---
 
