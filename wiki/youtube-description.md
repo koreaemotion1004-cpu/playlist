@@ -29,5 +29,28 @@
 - # 제거, 콤마로 구분
 - 예: スロージャズ, 作業用BGM, SlowMorningJazz, CafeJazz
 
+## 🚫 절대 금지 문구 (저작권 보호)
+
+**다음 표현 설명글·소개·아카이브·어디에도 절대 사용 금지:**
+- `商用利用OK` / `商用利用可能` / `商用利用自由`
+- `Free for commercial use`
+- `Royalty free` / `著作権フリー`
+- `자유롭게 사용` / `무료 사용 가능`
+
+**이유:** 상업 이용 허가 = 저작권 권리 포기. 내 창작물·수익 보호에 치명적.
+
+## ✅ 권장 저작권 표기
+
+```
+© 2026 途中広告なし All rights reserved.
+無断転載・再配布・商用利用を固く禁じます。
+```
+
+영문:
+```
+© 2026 途中広告なし All rights reserved.
+Unauthorized reproduction, redistribution, and commercial use strictly prohibited.
+```
+
 ---
-최종 업데이트: 2026-04-16
+최종 업데이트: 2026-04-24

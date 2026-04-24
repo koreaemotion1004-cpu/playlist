@@ -113,7 +113,8 @@ Composed by J. Okamura, arranged by T. Okamura.
 
 この音楽はAIを活用して制作されています。
 一曲一曲、温かく穏やかなカフェの雰囲気を大切に作っています。
-商用利用OK。
+© 2026 途中広告なし All rights reserved.
+無断転載・再配布・商用利用を固く禁じます。
 
 カフェBGM, ジャズ, 1940年代, ヴィンテージジャズ, スロージャズ, 作業用BGM, 勉強用BGM, リラックスBGM, コーヒーショップ, 雨の日ジャズ, おうちカフェ, CafeJazz, VintageJazz, 1940sJazz, RelaxingJazz
 ```
