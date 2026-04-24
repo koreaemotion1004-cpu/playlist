@@ -10,6 +10,23 @@
        - Use Case 라이브러리에서 미사용 1개 선택
     ② 가사 10곡 (Track 10 → 01 역순)
     ③ Suno 프롬프트 10곡 (Track 10 → 01 역순)
+       ★ 자동 적용 규칙 (suno-artist-benchmark.md 참조) ★
+       - 방법 B: 아티스트 이름 대신 "연도 + 스타일" 포맷 사용 (저작권 필터 우회)
+         예: [2002 intimate female jazz vocal era]
+             [1955 smoky noir jazz female alto style]
+             [1971 warm baritone soul era]
+             [2018-2020 modern neo soul intimate baritone]
+       - 방법 C: 3앵커 로테이션
+         · Track 01~03 → 라인 메인 앵커 #1 (핵심 정체성)
+         · Track 04~06 → 라인 메인 앵커 #2 (변주·보강)
+         · Track 07~10 → 라인 메인 앵커 #3 (다양성·마무리)
+       - 앵커 매트릭스:
+         · Line 1 Cafe:     #1 Norah Jones 2002 / #2 Diana Krall 1997 / #3 Madeleine Peyroux 2004
+         · Line 2 Noir:     #1 Julie London 1955 / #2 Peggy Lee 1956 / #3 Billie Holiday 1958
+         · Line 3 Soul Funk: #1 Bill Withers 1971 / #2 Curtis Mayfield 1970 / #3 Donny Hathaway 1970
+         · Line 5 Neo Soul: #1 Mac Ayres 2017 / #2 D'Angelo 2000 / #3 Tom Misch 2018
+       - 1곡당 앵커 1명 고정 (섞지 않음)
+       - 도입부 허밍·애드립 금지 태그 5개 자동 포함 (suno-no-intro-humming.md)
 ```
 
 ### 🎨 "랜더링" 또는 "랜더링 시작" (mp3 렌더링)
@@ -185,4 +202,4 @@ BPM:        78   79   80   81   82   83   84   85   78   72
 - [[storage-management]] — 용량 관리 정책
 
 ---
-최종 업데이트: 2026-04-20
+최종 업데이트: 2026-04-24
