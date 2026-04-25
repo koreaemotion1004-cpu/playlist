@@ -934,11 +934,12 @@ Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive 
 ## 다음 스텝
 1. ✅ 제목 확정
 2. ✅ 10곡 가사·Suno 프롬프트 완료 (Track 10 → 01 역순 생성)
-3. ☐ Suno 렌더링 (곡당 1~2 테이크)
-4. ☐ mp3 다운로드 → `사용한 곡/soulfunk-vol02/`
-5. ☐ 영상 렌더링 (ProRes 4444)
-6. ☐ 설명글 작성 (Soul Funk 별도 공식 · 소설형 X · BoomSlick 템플릿 차용)
-7. ☐ CapCut 편집 + YouTube 업로드
+3. ✅ Suno 렌더링 (10곡 mp3 완료)
+4. ✅ mp3 다운로드 → `사용한 곡/playlist-video/260425/soulfunk-vol02/`
+5. ✅ 영상 렌더링 (10곡 ProRes 4444 + yuva444p10le 알파, Radial Bars Mild)
+6. ✅ 설명글 작성 (영문 + 한국어)
+7. ✅ 재생목록 제목·설명글 작성 (영문 + 한국어)
+8. ☐ CapCut 편집 + YouTube 업로드
 
 ---
 
@@ -955,4 +956,208 @@ Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive 
 - ✅ 구체 이미지 중심 (추상 표현 최소화)
 
 ---
-최종 업데이트: 2026-04-24
+
+# 📺 YouTube 업로드 자산 (확정)
+
+## 영상 설명글 (English)
+
+```
+dim the lamp, pour the bourbon neat.
+soul funk for velvet midnight hours.
+let the bassline settle in the leather.
+no rush, no noise, just slow deep groove.
+subscribe for more vintage soul funk nights.
+
+━━━━━━━━━━━━━━━━━━━━
+🥃 Velvet Midnight Bourbon — Slow Deep Groove
+
+When the night slows down, the bourbon deepens, and the groove settles into velvet — this is the playlist for that hour.
+
+This collection of vintage soul funk is built for late-night lounges, the corner booth you always take, and the quiet conversations between a bassline and a glass of amber. Deep warm baritone vocals. Tight 84 BPM pocket. Rhodes stabs, muted wah guitar, crisp dry snare. No bright hook, no polish — just raw 1970s analog warmth and a groove that never rushes.
+
+Perfect for:
+• Late-night bourbon sessions
+• Vinyl lounge hours
+• Slow evenings after a long day
+• Background grooves for reading, reflection, or quiet conversation
+• Soulful work & study soundtracks
+
+━━━━━━━━━━━━━━━━━━━━
+📀 TRACKLIST
+
+00:00 Velvet Booth, Silent Nod
+03:02 Bourbon on the Counter
+06:06 The Hour No One Names
+09:23 Jukebox Still Knows Me
+12:41 Smoke Through the Curtain
+15:49 Midnight in the Brass Mirror
+19:32 Three Fingers, No Ice
+22:55 The Pianist in the Corner
+26:38 Last Cigarette of the Set
+29:59 The Door Stays Open Till Four
+
+━━━━━━━━━━━━━━━━━━━━
+🎷 Midnight Funk Bureau — Vintage soul funk for the quiet hours of the night.
+
+This music is produced with the help of AI.
+Each track is crafted to hold the vintage lounge atmosphere — low-lit, late, and unhurried.
+
+© 2026 Midnight Funk Bureau. All rights reserved.
+Unauthorized reproduction, redistribution, and commercial use strictly prohibited.
+
+━━━━━━━━━━━━━━━━━━━━
+SoulFunk, VintageSoulFunk, DeepFunk, SlowDeepGroove, MidnightFunk, RareGroove, 70sSoul, MinimalGroove, LaidBackGroove, BourbonLounge, VelvetGroove, OldSchoolSoul, RetroSoul, VinylVibes, AnalogSound, FocusMusic, StudyMusic, LoungeMusic
+```
+
+## 영상 설명글 (한국어)
+
+```
+램프를 낮추고, 버번을 잔에 따른다.
+벨벳처럼 깊어지는 자정의 사운드.
+베이스라인이 가죽 시트 위로 가라앉는 시간.
+서두름도, 잡음도 없이, 오직 슬로우 딥 그루브.
+빈티지 소울펑크의 밤 — 구독으로 함께하세요.
+
+━━━━━━━━━━━━━━━━━━━━
+🥃 Velvet Midnight Bourbon — Slow Deep Groove
+
+밤이 천천히 익어가고, 버번이 깊어지고, 그루브가 벨벳 위로 자리잡는 시간 — 그 한 시간을 위한 플레이리스트입니다.
+
+빈티지 소울펑크 컬렉션. 늦은 밤 라운지, 늘 앉는 구석 부스, 베이스라인과 호박빛 잔 사이의 조용한 대화를 위해 만들어졌습니다. 깊고 따뜻한 남성 바리톤 보컬. 84 BPM의 단단한 펑크 포켓. 로즈 스탭, 머트 와우 기타, 드라이한 스네어. 화려한 훅도 매끈한 광택도 없이 — 거친 1970년대 아날로그 따뜻함과 결코 서두르지 않는 그루브만.
+
+이런 순간에 어울립니다:
+• 늦은 밤 버번 한 잔
+• 빈티지 바이닐 라운지의 시간
+• 긴 하루 끝의 느린 저녁
+• 독서·사색·조용한 대화의 배경음
+• 작업·공부에 깊이 스며드는 소울풀 사운드트랙
+
+━━━━━━━━━━━━━━━━━━━━
+📀 트랙리스트
+
+00:00 Velvet Booth, Silent Nod
+03:02 Bourbon on the Counter
+06:06 The Hour No One Names
+09:23 Jukebox Still Knows Me
+12:41 Smoke Through the Curtain
+15:49 Midnight in the Brass Mirror
+19:32 Three Fingers, No Ice
+22:55 The Pianist in the Corner
+26:38 Last Cigarette of the Set
+29:59 The Door Stays Open Till Four
+
+━━━━━━━━━━━━━━━━━━━━
+🎷 Midnight Funk Bureau — 밤의 조용한 시간을 위한 빈티지 소울펑크.
+
+이 음악은 AI를 활용해 제작되었습니다.
+한 곡 한 곡, 빈티지 라운지의 분위기 — 어둑하고 늦은, 서두르지 않는 결을 살려 만들었습니다.
+
+© 2026 Midnight Funk Bureau. All rights reserved.
+무단 전재·재배포·상업적 이용을 엄격히 금지합니다.
+
+━━━━━━━━━━━━━━━━━━━━
+소울펑크, 빈티지소울펑크, 슬로우딥그루브, 자정의버번, 벨벳그루브, 딥펑크, 레어그루브, 70년대소울, 올드스쿨소울, 라운지뮤직, 작업용BGM, 공부용BGM, 힐링음악, 밤에듣기좋은노래, 감성플리, SoulFunk, VintageSoulFunk, DeepFunk, SlowDeepGroove, MidnightFunk
+```
+
+---
+
+# 🎵 재생목록 (Channel-wide Soul Funk Playlist)
+
+## 제목 (확정)
+
+```
+Vintage Soul Funk | Slow Deep Groove for Late Night Bar Lounge
+```
+
+**선정 근거 (실측 VPH 기반):**
+- `Vintage Soul Funk` — 3채널 공통 헤더 (BoomSlick / BOOM PULSE / MonoLux 검증)
+- `Late Night Bar` — Mellow_Funk VPH 346 챔피언 (2026-04-24 측정)
+- `Slow Deep Groove` — 챔피언 영상 꼬리 키워드
+- 65자 (50~100자 SEO 최적 길이)
+
+## 재생목록 설명글 (English)
+
+```
+Vintage soul funk for late night bar lounges, slow deep groove sessions, and the quiet hours after the world has gone home — this is the playlist for that hour.
+
+A curated collection of vintage 70s soul funk built for late night bar lounges, vinyl lounges, and bourbon evenings. Deep warm baritone vocals, tight 84 BPM funk pockets, raw 1970s analog warmth, percussive Rhodes stabs, muted wah guitar, and crisp dry snare. No bright hooks, no polish — just slow deep groove that never rushes. The kind of groove you put on when the lamp goes low and the bourbon settles.
+
+🎵 What's inside:
+• Vintage soul funk for late night bar lounges
+• Slow deep groove sessions for unwinding after work
+• Velvet midnight sessions with deep warm baritone vocals
+• Minimal soul funk for vinyl lounges and amber whiskey bars
+• Old school 70s soul funk with raw analog warmth
+• Late night bar background music for slow conversations
+• Soul funk for studying, reading, and quiet reflection
+• Rare groove deep cuts in the spirit of 1970s lounges
+
+🎷 New volumes added regularly. Each volume is a 30+ minute curated mix themed around a color and scene — Velvet Midnight Bourbon, Emerald Late Night Bar, Amber Whiskey Bar, and more — slow deep groove sessions for late nights, weekends, and the quiet hours of the city.
+
+Subscribe for more vintage soul funk, late night bar lounge vibes, and slow deep groove mixes.
+
+━━━━━━━━━━━━━━━━━━━━
+🥃 Midnight Funk Bureau — Vintage soul funk for the quiet hours of the night.
+
+This music is produced with the help of AI.
+Each track is crafted to hold the vintage lounge atmosphere — low-lit, late, and unhurried.
+
+© 2026 Midnight Funk Bureau. All rights reserved.
+Unauthorized reproduction, redistribution, and commercial use strictly prohibited.
+
+━━━━━━━━━━━━━━━━━━━━
+Vintage Soul Funk, Slow Deep Groove, Late Night Bar Lounge, Soul Funk Lounge Mix, Deep Funk, Rare Groove, 70s Soul, Old School Soul, Vintage 70s Funk, Minimal Soul Funk, Late Night Bar Music, Bourbon Lounge, Vinyl Lounge, Lounge Music, Soul Funk Playlist, Soul Funk Mix, Late Night Music, Slow Soul, Deep Soul Funk, Velvet Soul Funk, Amber Lounge, Midnight Funk, Retro Soul, Analog Soul, Soulful Vocals, Funk Pocket, Rhodes Soul, Lounge Bar Music, Background Music for Bar, Late Night Vibes, Slow Deep Sessions, Vintage Lounge, Late Night Lounge, FocusMusic, StudyMusic
+```
+
+## 재생목록 설명글 (한국어)
+
+```
+늦은 밤 바 라운지, 슬로우 딥 그루브의 시간, 세상이 모두 잠든 뒤의 조용한 시간을 위한 빈티지 소울펑크 플레이리스트입니다.
+
+1970년대 빈티지 소울펑크 큐레이션. 늦은 밤 바 라운지, 바이닐 라운지, 버번 한 잔의 저녁을 위해 만들어진 컬렉션입니다. 깊고 따뜻한 남성 바리톤 보컬, 84 BPM의 단단한 펑크 포켓, 거친 1970년대 아날로그 따뜻함, 로즈 스탭, 머트 와우 기타, 드라이한 스네어. 화려한 훅도 매끈한 광택도 없이 — 결코 서두르지 않는 슬로우 딥 그루브만. 램프를 낮추고, 버번이 잔에 가라앉을 때 어울리는 그루브를 담았습니다.
+
+🎵 이 플레이리스트에 담긴 것:
+• 늦은 밤 바 라운지를 위한 빈티지 소울펑크
+• 일과 후 마음을 풀어주는 슬로우 딥 그루브
+• 깊고 따뜻한 바리톤 보컬의 벨벳 미드나잇 세션
+• 바이닐 라운지·앰버 위스키 바를 위한 미니멀 소울펑크
+• 거친 아날로그 따뜻함의 올드스쿨 70년대 소울펑크
+• 조용한 대화를 위한 늦은 밤 라운지 배경음악
+• 작업·독서·사색을 위한 깊이 흐르는 소울펑크
+• 1970년대 라운지 정신의 레어 그루브 딥 컷
+
+🎷 새 볼륨이 꾸준히 추가됩니다. 각 볼륨은 색과 장면을 테마로 한 30분 이상의 큐레이션 믹스 — Velvet Midnight Bourbon, Emerald Late Night Bar, Amber Whiskey Bar 등 — 늦은 밤, 주말, 도시의 조용한 시간을 위한 슬로우 딥 그루브 세션입니다.
+
+빈티지 소울펑크, 늦은 밤 바 라운지 무드, 슬로우 딥 그루브 믹스를 더 듣고 싶다면 구독해주세요.
+
+━━━━━━━━━━━━━━━━━━━━
+🥃 Midnight Funk Bureau — 밤의 조용한 시간을 위한 빈티지 소울펑크.
+
+이 음악은 AI를 활용해 제작되었습니다.
+한 곡 한 곡, 빈티지 라운지의 분위기 — 어둑하고 늦은, 서두르지 않는 결을 살려 만들었습니다.
+
+© 2026 Midnight Funk Bureau. All rights reserved.
+무단 전재·재배포·상업적 이용을 엄격히 금지합니다.
+
+━━━━━━━━━━━━━━━━━━━━
+빈티지소울펑크, 슬로우딥그루브, 늦은밤바라운지, 소울펑크라운지믹스, 딥펑크, 레어그루브, 70년대소울, 올드스쿨소울, 빈티지70년대펑크, 미니멀소울펑크, 늦은밤바음악, 버번라운지, 바이닐라운지, 라운지뮤직, 소울펑크플레이리스트, 소울펑크믹스, 늦은밤음악, 슬로우소울, 딥소울펑크, 벨벳소울펑크, 앰버라운지, 미드나잇펑크, 레트로소울, 아날로그소울, 작업용BGM, 공부용BGM, 힐링음악, 밤에듣기좋은노래, 감성플리, 빈티지라운지, 라운지바음악, Vintage Soul Funk, Slow Deep Groove, Late Night Bar Lounge, Soul Funk Lounge Mix
+```
+
+---
+
+## 영상 렌더링 (확정 스펙)
+
+- 폴더: `사용한 곡/playlist-video/260425/soulfunk-vol02/`
+- 10곡 모두 **ProRes 4444 + yuva444p10le** (알파 채널)
+- 1280×720, 투명 배경
+- Radial Bars Mild ([[soulfunk-waveform-radial-mild]] 참조)
+- 메타데이터 주입 완료 (Midnight Funk Bureau 브랜드)
+- 총 용량 ~3.57 GB
+
+## 오프닝 5줄 공식 참조
+
+- 메인·변주 4종 → [[opening-line-formula]] Soul Funk Line 3 섹션 참조
+- Vol.02 메인: `dim the lamp, pour the bourbon neat...`
+
+---
+최종 업데이트: 2026-04-25 (10곡 렌더 완료 + 영상·재생목록 설명글 영문/한국어 확정)

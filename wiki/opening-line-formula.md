@@ -168,10 +168,86 @@ subscribe for more intimate noir hours.
 - 썸네일 텍스트로 축약 가능 (Line 2만)
 
 ## 주의사항
-- Soul Funk 라인은 별도 공식 필요 (이 공식 사용 금지)
 - 모두 소문자 시작 (café jazz 예시처럼)
 - Line 2 장르 키워드는 제목과 일치시킬 것
 - Line 5 subscribe 문구는 매 영상 동일하게 유지 (구독자 인식)
 
 ---
-최종 업데이트: 2026-04-17
+
+## Soul Funk 오프닝 공식 (Line 3 전용 · 2026-04-25 신설)
+
+### 공식 구조
+
+```
+Line 1: [Low-key action] + [sensory cue].                       → 차분한 동작 + 감각 큐
+Line 2: soul funk for [scene/mood].                              → 장르 + 장면·무드
+Line 3: let the [instrument/groove] [verb] your [space/mind].   → 그루브가 주어
+Line 4: no [X], no [Y], just [Z].                                → 3-비트 대비
+Line 5: subscribe for more [genre descriptor].                   → 구독 CTA
+```
+
+### Cafe Jazz와 차이
+
+| 슬롯 | Cafe Jazz | Soul Funk |
+|------|----------|-----------|
+| Line 2 장르 | `café jazz for` | `soul funk for` |
+| Line 3 주체 | music / notes / piano | **bassline / rhodes / groove / pocket / wah** |
+| 소품 | cup / window / morning / coffee | **booth / bourbon / velvet / amber lamp / needle** |
+| 무드 | 훈훈한 카페 | 늦은 밤 라운지 (절제·차분) |
+
+### Soul Funk 단어 라이브러리
+
+| 슬롯 | 단어 풀 |
+|------|--------|
+| **Line 1 동작** | dim, pour, slide into, drop (the needle), lean back, close (the door), settle, ease in |
+| **Line 1 소품** | bourbon, amber lamp, booth, velvet, leather, needle, glass, whiskey |
+| **Line 2 장면** | velvet midnight, late night bourbon, bourbon lounge, vinyl lounge, after-hours, amber room, slow unwinding |
+| **Line 3 주체** | bassline, rhodes, groove, pocket, horn, drum, wah guitar |
+| **Line 3 동사** | settle, carry, breathe, hold, take, drift through, wrap |
+| **Line 3 장소** | leather, booth, corner, tired bones, quiet room, shoulders |
+| **Line 4 없음** | rush, noise, clock, calls, hurry, voices, screen, chatter |
+| **Line 4 있음** | slow deep groove, pocket and groove, warm bourbon air, 70s warmth, velvet silence |
+| **Line 5 장르** | vintage soul funk nights, velvet funk evenings, deep soul funk sessions, slow deep funk nights |
+
+---
+
+## Vol.02 — Velvet Midnight Bourbon ⭐
+
+### 메인
+```
+dim the lamp, pour the bourbon neat.
+soul funk for velvet midnight hours.
+let the bassline settle in the leather.
+no rush, no noise, just slow deep groove.
+subscribe for more vintage soul funk nights.
+```
+
+### 변주 A — 그루비 강조
+```
+slide into the booth, pour two fingers.
+soul funk for late night bourbon lounges.
+let the rhodes carry the corner quiet.
+no hurry, no voices, just pocket and groove.
+subscribe for more velvet funk evenings.
+```
+
+### 변주 B — 내향·회복
+```
+close the door, dim the amber lamp.
+soul funk for your slow unwinding hours.
+let the groove take what the day held tight.
+no clock, no calls, just warm bourbon air.
+subscribe for more deep soul funk sessions.
+```
+
+### 변주 C — 빈티지·바이닐
+```
+drop the needle, lean back in the velvet.
+soul funk for late night vinyl lounge hours.
+let the pocket breathe into your tired bones.
+no screen, no chatter, just 70s warmth.
+subscribe for more slow deep funk nights.
+```
+
+---
+최종 업데이트: 2026-04-25 (Soul Funk Line 3 공식 신설)
