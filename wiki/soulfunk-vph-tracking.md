@@ -116,4 +116,122 @@ Vol 기획 전 반드시 수행:
 | Vol.03 | `Emerald Late Night Bar  Slow Deep Groove` (예정) | Emerald 129 + Late Night Bar 346 | 측정 예정 |
 
 ---
-최종 업데이트: 2026-04-24 (Mellow_Funk 최근 25개 기준 초기 측정)
+
+## 📊 2026-04-25 측정 — Vintage Park 채널 (@vintage-park)
+
+**두 번째 레퍼런스 채널.** Soul Funk Line 3 신규 벤치마크 추가.
+
+### 🏆 바이럴 히트 2개 (초기 업로드 급상승)
+
+| Vol | 제목 | 업로드 | 경과일 | 조회수 | 좋아요 | **VPH** |
+|:---:|---|:---:|:---:|---:|---:|---:|
+| **13** | Vintage Grooves to **Trust Yourself** \| Vintage Soul Funk Playlist | 01-13 | 102일 | **630,181** | 12,877 | **🏆 257** |
+| **11** | **Good Times Flow** – 70s Soul Funk Grooves \| Vintage Soul Funk Playlist | 01-07 | 108일 | **429,919** | 7,106 | **🥈 166** |
+
+### ⚠️ 최근 15개 (참사)
+
+| Vol | 업로드 | 경과일 | 조회 | VPH |
+|:---:|:---:|:---:|---:|---:|
+| 40 | 04-24 | 1일 | 353 | 14.7 |
+| 39 | 04-18 | 7일 | 1,232 | 7.3 |
+| 38 | 04-16 | 9일 | 780 | 3.6 |
+| 37 | 04-09 | 16일 | 1,350 | 3.5 |
+| 36 | 04-01 | 24일 | 2,261 | 3.9 |
+| 35 | 03-26 | 30일 | 4,537 | 6.3 |
+| 32 | 03-17 | 39일 | 3,262 | 3.5 |
+| 31 `Believe in Yourself` | 03-14 | 42일 | 1,295 | **1.3** ⚠️ |
+| 26 | 02-18 | 66일 | 4,135 | 2.6 |
+
+### 💡 핵심 인사이트
+
+**충격 지점:**
+- Vol.13 `Trust Yourself` VPH 257 vs Vol.31 `Believe in Yourself` VPH 1.3 → **같은 공식, 200배 차이**
+- 최근 15개 평균 VPH = ~4 (챔피언 2개와 40~60배 차이)
+- **"제목 공식"만으론 부족** — 채널 초기 모멘텀·알고리즘 타이밍이 결정적
+
+**히트 2개 공통점:**
+- 업로드 시기: **채널 첫 달** (초기 모멘텀)
+- **감정 훅** 키워드 (Trust Yourself / Good Times)
+- 공통 꼬리 `Vintage Soul Funk Playlist` (3채널 공통 검증)
+- Vol 번호 명시 `| vol.XX`
+- 재생 시간 **75~91분** (업계 평균)
+
+---
+
+## 🎯 우리 채널 적용 5가지 액션 (2026-04-25 확정)
+
+### 1️⃣ ⭐ 재생 시간 대폭 확대 (최우선)
+
+| 채널 | 평균 | 비고 |
+|---|:---:|---|
+| Vintage Park | 75~91분 | 히트 2개 기준 |
+| Mellow_Funk | 2시간 내외 | 챔피언 VPH 346 |
+| BoomSlick | 3시간+ | 주 레퍼런스 |
+| **우리 Vol.02** | **33분** | ⚠️ **업계 1/3** |
+
+**Vol.03부터 즉시 적용:**
+- 10곡 → **20~25곡** 확장 (총 60~75분)
+- 또는 곡 반복 편집 (같은 10곡 2회)
+- 또는 Suno 각 곡 더 길게 재생성
+
+### 2️⃣ 제목에 `| vol.XX` 명시
+
+- Vintage Park 100% 일관, Mellow_Funk도 `| EP 4` 사용
+- 시리즈 시그널 = 알고리즘 "컬렉션" 인식
+
+**Vol.03 제목 개정:**
+- Before: `Soul Funk Lounge Mix | Emerald Late Night Bar  Slow Deep Groove`
+- After: `Soul Funk Lounge Mix | Emerald Late Night Bar | vol.03`
+
+### 3️⃣ `Vintage Soul Funk Playlist` 꼬리 키워드 추가 고려
+
+- Vintage Park 100% 일관 사용 (3채널 공통 검증)
+- 우리 제목에 미포함
+- **Vol.03 후보:** `Soul Funk Lounge Mix | Emerald Late Night Bar | Vintage Soul Funk Playlist vol.03` (단 60자 이내 유지)
+
+### 4️⃣ 감정 훅 키워드 실험 (Vol.04~)
+
+Vintage Park 히트 2개 키워드: `Trust Yourself`, `Good Times Flow`
+
+**우리 감정 키워드 후보 라이브러리:**
+- `Feel Your Shadow` — 소울 깊이
+- `Slow Down & Feel` — 회복
+- `Deep in the Groove` — 몰입
+- `Nothing to Prove` — 자기 확신
+- `Let It Go` — 해방
+- `Come Back to You` — 자기 회복
+- `Ease Your Mind` — 이완
+
+→ Vol.04~ 중 **1~2개 감정 테마 실험** → VPH 비교
+
+### 5️⃣ 초기 업로드 집중도
+
+- Vintage Park 히트 2개 = **채널 첫 1~2개월** 업로드
+- 초기에 알고리즘 기회 극대화
+- 우리도 Vol.01~05 구간 **주 1~2회 집중 업로드**
+
+---
+
+## 🔁 재측정 체크리스트 (v2 — 두 레퍼런스 포함)
+
+Vol 기획 전 반드시 수행:
+
+1. `yt-dlp`로 **Mellow_Funk 최근 25개** + **Vintage Park 최근 15개** 추출
+2. 각 영상 VPH 재계산 (경과일 × 24 분모)
+3. TOP 8 / 검증 키워드 / 실패 키워드 업데이트
+4. **감정 훅 키워드** 신규 히트 스캔
+5. 기획 Vol 제목과 현재 TOP 5 매칭 + 감정 훅 후보 비교
+
+---
+
+## 🎯 적용 내역 업데이트
+
+| Vol | 제목 | 근거 | 결과 |
+|:---:|---|---|:---:|
+| Vol.01 | (Amber 테마 추정) | - | - |
+| Vol.02 | `Velvet Midnight Bourbon  Slow Deep Groove` | 기획 당시 위키 참조 | ⚠️ `Midnight Bourbon` VPH 3.5 실측 실패. **보류** (업로드 후 VPH 모니터링 중) |
+| Vol.03 | `Soul Funk Lounge Mix \| Emerald Late Night Bar \| vol.03` (개정) | Late Night Bar 346 + Vol 번호 명시 (Vintage Park 공식) | 측정 예정 |
+| Vol.04~ | 감정 훅 테마 실험 (TBD) | Trust Yourself / Good Times Flow 공식 차용 | 측정 예정 |
+
+---
+최종 업데이트: 2026-04-25 (Vintage Park 추가 측정 + 5가지 액션 확정)

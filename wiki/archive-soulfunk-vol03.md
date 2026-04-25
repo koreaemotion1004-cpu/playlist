@@ -9,13 +9,23 @@
 
 ---
 
-## 최종 확정 제목
+## 최종 확정 제목 (2026-04-25 개정 · Vintage Park 분석 반영)
 
 ```
-Soul Funk Lounge Mix | Emerald Late Night Bar  Slow Deep Groove
+Soul Funk Lounge Mix | Emerald Late Night Bar | vol.03
 ```
 
-### 제목 키워드 지도 (실측 VPH 기반 · 2026-04-24)
+### 주요 변경점 (2026-04-25)
+- 기존: `Soul Funk Lounge Mix | Emerald Late Night Bar  Slow Deep Groove` (60자)
+- 개정: `Soul Funk Lounge Mix | Emerald Late Night Bar | vol.03` (52자)
+- 이유: **Vol.XX 시리즈 시그널 추가** (Vintage Park / Mellow_Funk 공통 공식). Slow Deep Groove 꼬리는 설명글·해시태그에 이전.
+- 근거: [[soulfunk-vph-tracking]] 2026-04-25 측정 (Vintage Park 히트 영상 100% `| vol.XX` 포맷)
+
+### 추가 예정 액션 (Vintage Park 분석 반영)
+- **재생 시간 확대 필수:** 10곡(33분) → 20~25곡(60~75분) 또는 곡 반복 편집
+- 업계 평균: Vintage Park 75~91분 / Mellow_Funk 2시간 / BoomSlick 3시간+
+
+### 제목 키워드 지도 (실측 VPH 기반 · 2026-04-25 업데이트)
 | 요소 | 실측 VPH | 역할 |
 |------|:---:|------|
 | `Soul Funk Lounge Mix` | 챔피언 공통 헤더 | Mellow_Funk 공식 복제 |
