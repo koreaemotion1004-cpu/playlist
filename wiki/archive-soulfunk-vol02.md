@@ -9,11 +9,34 @@
 
 ---
 
-## 최종 확정 제목
+## 최종 확정 제목 (2026-04-25 v2 개정)
 
 ```
-Soul Funk Lounge Mix | Velvet Midnight Bourbon  Slow Deep Groove
+🥃 Soul Funk Lounge Mix | Velvet Midnight Bourbon • vol.01
 ```
+
+### 채널 발행 순서 vs 내부 위키 번호 (중요)
+
+| 분류 | 번호 | 비고 |
+|---|:---:|---|
+| **채널 공개 발행 순서** | **vol.01** ⭐ | Midnight Funk Bureau **첫 번째 업로드** |
+| 내부 위키 파일명 | archive-soulfunk-vol02.md | Soul Funk 시리즈 내부 기획 순서 (Vol.01 Amber 미발행) |
+
+→ **유튜브 제목은 채널 공개 순서 (vol.01) 사용.** 위키 파일명은 git 히스토리 보존 위해 vol02 유지.
+
+### 개정 이력
+| 버전 | 제목 | 자수 |
+|---|---|:---:|
+| v1 | `Soul Funk Lounge Mix \| Velvet Midnight Bourbon  Slow Deep Groove` | 60 |
+| **v2** ⭐ | **`🥃 Soul Funk Lounge Mix \| Velvet Midnight Bourbon • vol.01`** | **53** |
+
+### v2 변경점 (Mellow_Funk 챔피언 정확 복제)
+- 🥃 emoji 추가 (모바일 검색 시각 앵커, Bourbon 키워드와 매칭)
+- `• vol.01` 추가 (시리즈 컬렉션 시그널)
+- `Slow Deep Groove` 제거 (설명글·해시태그로 이전)
+- 자수 60 → 53 (모바일 잘림 위험 감소)
+
+**🚨 작업 필요:** YouTube Studio에서 영상 제목 수동 편집
 
 ### 제목 키워드 지도 (Mellow_Funk 공식 준수)
 | 요소 | 내용 | 역할 |

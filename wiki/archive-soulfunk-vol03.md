@@ -9,18 +9,28 @@
 
 ---
 
-## 최종 확정 제목 (2026-04-25 2차 개정 · Mellow_Funk D13 분석 반영)
+## 최종 확정 제목 (2026-04-25 v4 — 채널 발행 순서 적용)
 
 ```
-🥃 Soul Funk Lounge Mix | Emerald Late Night Bar • vol.03
+🥃 Soul Funk Lounge Mix | Emerald Late Night Bar • vol.02
 ```
+
+### 채널 발행 순서 vs 내부 위키 번호
+
+| 분류 | 번호 | 비고 |
+|---|:---:|---|
+| **채널 공개 발행 순서** | **vol.02** ⭐ | Midnight Funk Bureau **두 번째 업로드 예정** |
+| 내부 위키 파일명 | archive-soulfunk-vol03.md | Soul Funk 시리즈 내부 기획 순서 |
+
+→ **유튜브 제목은 채널 공개 순서 (vol.02) 사용.**
 
 ### 개정 이력
 | 버전 | 제목 | 자수 |
 |---|---|:---:|
 | v1 | `Soul Funk Lounge Mix \| Emerald Late Night Bar  Slow Deep Groove` | 60 |
 | v2 | `Soul Funk Lounge Mix \| Emerald Late Night Bar \| vol.03` | 52 |
-| **v3** ⭐ | **`🥃 Soul Funk Lounge Mix \| Emerald Late Night Bar • vol.03`** | **55** |
+| v3 | `🥃 Soul Funk Lounge Mix \| Emerald Late Night Bar • vol.03` | 55 |
+| **v4** ⭐ | **`🥃 Soul Funk Lounge Mix \| Emerald Late Night Bar • vol.02`** | **55** |
 
 ### v3 변경점 (Mellow_Funk 챔피언 정확 복제)
 - 🥃 emoji 추가 (모바일 검색 시각 앵커)
