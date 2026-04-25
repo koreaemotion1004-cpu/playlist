@@ -234,4 +234,114 @@ Vol 기획 전 반드시 수행:
 | Vol.04~ | 감정 훅 테마 실험 (TBD) | Trust Yourself / Good Times Flow 공식 차용 | 측정 예정 |
 
 ---
-최종 업데이트: 2026-04-25 (Vintage Park 추가 측정 + 5가지 액션 확정)
+
+## 🚀 2026-04-25 추가 측정 — Mellow_Funk 챔피언 D13 추적
+
+**대상:** `🎤 Soul Funk Lounge Mix | Late Night Bar • Slow Deep Groove`
+**URL:** https://www.youtube.com/watch?v=wfkkmEVx-3k
+
+### VPH 가속 추이 (감속이 아니라 가속!)
+| 측정 시점 | 경과일 | 조회수 | VPH | 일일 변화 |
+|---|:---:|---:|---:|:---:|
+| 위키 초기 기록 | 8일 | 59,000 | 293 | — |
+| 2026-04-24 | 12일 | 99,878 | 346 | +53 VPH |
+| **2026-04-25 (D13)** | **13일** | **115,834** | **🚀 371** | **+24 VPH** |
+
+**1일 만에 +15,956뷰.** 일반 영상은 시간 지나며 VPH 감소하는데, 이 영상은 **계속 가속**. 알고리즘 적극 푸시 단계.
+
+### 메타 풀데이터 (D13)
+| 항목 | 값 |
+|------|---|
+| 재생시간 | **2시간 4분 (124분 / 7463초)** |
+| 트랙 수 | **16곡** (평균 7.7분/곡) |
+| 좋아요율 | **2.54%** (2,942 / 115,834) |
+| 댓글률 | 0.12% (136 / 115,834) |
+| 해시태그 | **5개만** (#soulfunk #latenightmix #barlounge #slowgroove #mellowfunk) |
+
+### 트랙리스트 패턴 (마지막 트랙 주목)
+```
+0:00     Late Night Bar Lounge
+4:13     Amber Pour Flow
+...
+58:45    Retro Soul Boombox
+1:02:11  Repeat   ← ⭐ 마지막 트랙이 "Repeat"
+```
+→ **곡을 한 번 더 반복 재생시켜 재생시간 인위적 확장** (62분 → 124분)
+
+### 첫 줄 후킹 패턴
+```
+Welcome to the classic night lounge. Sink into the deep red velvet,
+listen to the smooth vocals, and let the slow soul funk groove wash over you.
+```
+- "Welcome to..." 도입어
+- 구체적 감각 (deep red velvet, smooth vocals)
+- 검색 의도 키워드 (late-night relaxation, quiet drink, midnight chill)
+
+---
+
+## 🎯 우리 채널 즉시 적용 (Vol.03부터 강제 적용)
+
+### 1️⃣ ⭐⭐⭐ 재생시간 124분 매칭 (최우선)
+
+**현재 우리 Vol.02:** 33분 (챔피언의 27%)
+**목표:** **60분 이상 (이상적 110~125분)**
+
+**3가지 옵션:**
+- **A. Repeat 트랙 추가** (가장 쉬움) — 10곡 + Track 11 Repeat = 33분 + 33분 = 66분
+- **B. 16곡으로 확장** — Suno 6곡 추가 생성 후 16곡 평균 7.7분 = 110~125분
+- **C. 곡 길이 늘리기** — Suno 재생성 시 각 곡 5~7분으로 조정 → 50~70분
+
+**Vol.03 채택:** A (Repeat) 즉시 적용 + B는 Vol.04~ 점진 도입
+
+### 2️⃣ 마지막 트랙 = "Repeat" 트랙으로 (무조건)
+
+**Mellow_Funk 검증된 트릭:**
+```
+1:02:11  Repeat
+```
+→ 같은 곡을 한 번 더 (CapCut 편집에서 첫 트랙 또는 좋아하는 트랙 복사)
+→ 알고리즘에 "긴 영상" 시그널 + 시청자 retention 보너스
+
+### 3️⃣ 제목 emoji + bullet 포맷
+
+**Mellow_Funk 챔피언:** `🎤 Soul Funk Lounge Mix | Late Night Bar • Slow Deep Groove`
+- emoji 1개 (🎤 / 🥃 / 🍷 / 🎷) — 모바일 검색에서 시각 앵커
+- `|` 메인 구분 + `•` 보조 구분
+
+**Vol.03 적용:** `🥃 Soul Funk Lounge Mix | Emerald Late Night Bar • vol.03`
+
+### 4️⃣ 설명글 첫 줄 = "Welcome to..." 도입어
+
+**Vol.03 첫 줄 후보:**
+- `Welcome to the emerald-lit lounge. Sink into the green glass, let the slow groove pour out at the bar's quiet hour.`
+
+### 5️⃣ 해시태그 5~7개로 압축
+
+**현재 우리:** 18개 (영문) / 35개 (한국어)
+**Mellow_Funk:** 5개만
+
+**Vol.03 영문 해시태그 (5개):**
+```
+#soulfunk #latenightmix #barlounge #slowgroove #vintagesoulfunk
+```
+
+**한국어판 별도 5개:**
+```
+#소울펑크 #라운지뮤직 #슬로우딥그루브 #늦은밤음악 #빈티지소울펑크
+```
+
+---
+
+## 🚨 핵심 깨달음 (전 Vol 적용)
+
+> **이 영상은 13일 지났는데 VPH가 계속 올라간다.**
+
+이게 의미하는 건:
+1. 시청자가 끝까지 듣는다 (124분 retention 좋다)
+2. 알고리즘이 "긴 영상을 끝까지 듣는다"고 판단 → 추천 가중치 ↑
+3. 새 시청자 유입 → 또 끝까지 봄 → 선순환
+
+**33분 영상으로는 이 사이클 진입 불가.** 60분 이상 필수.
+
+---
+최종 업데이트: 2026-04-25 (Mellow_Funk D13 가속 추적 + 5가지 즉시 액션 강화)
