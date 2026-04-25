@@ -1518,8 +1518,153 @@ Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive 
 3. ✅ Suno 렌더링 완료 (16곡 mp3)
 4. ✅ mp3 다운로드 → `사용한 곡/playlist-video/260425/soulfunk-vol02/`
 5. ✅ 영상 렌더링 완료 (16곡 ProRes 4444 + yuva444p10le 알파, Radial Bars Mild, 5.74 GB)
-6. ☐ 설명글 작성 (16곡 트랙리스트 + 감정 훅 강조)
+6. ✅ 설명글 작성 (영문 + 한국어, Mellow_Funk Welcome to 패턴 차용)
 7. ☐ CapCut 편집 + YouTube 업로드
+
+---
+
+# 📺 YouTube 업로드 자산 (vol.02 확정)
+
+## 영상 설명글 (English)
+
+```
+flick the green lamp, pour the slow whiskey.
+soul funk for late night bar lounge hours.
+let the bassline trace your tired shoulders.
+no rush, no proof, just emerald-lit groove.
+subscribe for more vintage soul funk nights.
+
+━━━━━━━━━━━━━━━━━━━━
+🥃 Emerald Late Night Bar — Slow Deep Groove (53 min)
+
+Welcome to the emerald-lit late night bar. Sink into the corner booth, watch the green lamp warm to gold, let the slow soul funk groove pour out at the bar's quiet hour.
+
+A 53-minute curated mix of vintage 70s soul funk built in two parts:
+  Part 1 — late night bar scenes (10 tracks, 0:00~33:34)
+  Part 2 — quiet self-reflection (6 tracks, 33:34~53:54)
+
+Deep warm baritone vocals. Tight 84 BPM funk pockets. Raw 1970s analog warmth. Percussive Rhodes stabs, muted wah guitar, crisp dry snare. No bright hooks, no polish — just slow deep groove for unwinding the day.
+
+Perfect for:
+• Late night bar lounge hours
+• Slow deep groove sessions for unwinding after work
+• Trusting the quiet — nothing to prove tonight
+• Letting the weight come off, carrying it light
+• Finding your own pace, staying easy at home
+• Background grooves for reading, reflection, conversation
+• Vinyl lounge & amber whiskey bar vibes
+
+━━━━━━━━━━━━━━━━━━━━
+📀 TRACKLIST
+
+— Part 1: Emerald Late Night Bar —
+00:00 Green Lamp Comes On
+03:16 First Pour, Emerald Bar
+06:22 Jade in My Glass
+09:44 The Regular's End Seat
+13:10 Bassline on Emerald Floor
+16:49 Green Neon on the Mirror
+20:03 Late Night Bar Still Hums
+23:21 Back Booth, Quiet as Leaves
+27:09 Emerald Fade, Quarter Past
+30:28 Last Pour, Green Lamp Off
+
+— Part 2: Quiet Reflection —
+33:34 Trust the Quiet
+36:39 Nothing to Prove Tonight
+40:16 The Weight Comes Off
+43:28 Carry It Light
+46:58 Find Your Own Pace
+50:23 Stay Easy, Stay Home
+
+━━━━━━━━━━━━━━━━━━━━
+🎷 Midnight Funk Bureau — Vintage soul funk for the quiet hours of the night.
+
+This music is produced with the help of AI.
+Each track is crafted to hold the vintage lounge atmosphere — low-lit, late, and unhurried.
+
+© 2026 Midnight Funk Bureau. All rights reserved.
+Unauthorized reproduction, redistribution, and commercial use strictly prohibited.
+
+━━━━━━━━━━━━━━━━━━━━
+soulfunk, latenightbar, slowdeepgroove, vintagesoulfunkplaylist, midnightfunk, emerald, soulfunkloungemix
+```
+
+## 영상 설명글 (한국어)
+
+```
+초록 램프를 켜고, 위스키 한 잔을 천천히 따른다.
+늦은 밤 바 라운지를 위한 소울펑크 사운드.
+베이스라인이 지친 어깨 위로 가라앉는 시간.
+서두름도, 증명도 없이, 오직 에메랄드빛 그루브.
+빈티지 소울펑크의 밤 — 구독으로 함께하세요.
+
+━━━━━━━━━━━━━━━━━━━━
+🥃 Emerald Late Night Bar — Slow Deep Groove (53분)
+
+에메랄드빛으로 물든 늦은 밤 바에 오신 걸 환영합니다. 구석 부스에 앉아, 초록 램프가 황금빛으로 따뜻해지는 모습을 보고, 바의 조용한 시간 위로 천천히 흐르는 소울펑크 그루브를 마셔보세요.
+
+53분 길이의 빈티지 70년대 소울펑크 큐레이션. 두 파트로 구성:
+  Part 1 — 늦은 밤 바 라운지 장면 (10곡, 0:00~33:34)
+  Part 2 — 조용한 자기성찰 (6곡, 33:34~53:54)
+
+깊고 따뜻한 남성 바리톤 보컬. 84 BPM의 단단한 펑크 포켓. 거친 1970년대 아날로그 따뜻함. 로즈 스탭, 머트 와우 기타, 드라이한 스네어. 화려한 훅도, 매끈한 광택도 없이 — 하루를 풀어주는 슬로우 딥 그루브만.
+
+이런 순간에 어울립니다:
+• 늦은 밤 바 라운지의 시간
+• 일과 후 마음을 풀어주는 슬로우 딥 그루브
+• 침묵을 신뢰하고 — 오늘 밤은 증명할 게 없을 때
+• 무게를 내려놓고, 가볍게 들고 갈 때
+• 자기만의 속도를 찾고, 편안하게 머무를 때
+• 독서·사색·조용한 대화의 배경음
+• 바이닐 라운지와 앰버 위스키 바의 무드
+
+━━━━━━━━━━━━━━━━━━━━
+📀 트랙리스트
+
+— Part 1: Emerald Late Night Bar —
+00:00 Green Lamp Comes On
+03:16 First Pour, Emerald Bar
+06:22 Jade in My Glass
+09:44 The Regular's End Seat
+13:10 Bassline on Emerald Floor
+16:49 Green Neon on the Mirror
+20:03 Late Night Bar Still Hums
+23:21 Back Booth, Quiet as Leaves
+27:09 Emerald Fade, Quarter Past
+30:28 Last Pour, Green Lamp Off
+
+— Part 2: Quiet Reflection —
+33:34 Trust the Quiet
+36:39 Nothing to Prove Tonight
+40:16 The Weight Comes Off
+43:28 Carry It Light
+46:58 Find Your Own Pace
+50:23 Stay Easy, Stay Home
+
+━━━━━━━━━━━━━━━━━━━━
+🎷 Midnight Funk Bureau — 밤의 조용한 시간을 위한 빈티지 소울펑크.
+
+이 음악은 AI를 활용해 제작되었습니다.
+한 곡 한 곡, 빈티지 라운지의 분위기 — 어둑하고 늦은, 서두르지 않는 결을 살려 만들었습니다.
+
+© 2026 Midnight Funk Bureau. All rights reserved.
+무단 전재·재배포·상업적 이용을 엄격히 금지합니다.
+
+━━━━━━━━━━━━━━━━━━━━
+소울펑크, 늦은밤바라운지, 슬로우딥그루브, 빈티지소울펑크플레이리스트, 에메랄드라운지, 미드나잇펑크, 작업용BGM
+```
+
+## ✅ vol.01 대비 차이점 (Vintage Park · Mellow_Funk D13 학습 반영)
+
+| 요소 | vol.01 | vol.02 |
+|---|:---:|:---:|
+| 첫 줄 후킹 | "When the night slows down..." | **"Welcome to..."** (Mellow_Funk 챔피언 패턴) |
+| 트랙 수 | 10곡 | **16곡** |
+| 재생시간 명시 | ❌ | **53 min** Bold |
+| Part 구분 | 단일 흐름 | **Part 1 / Part 2** 명시 (감정 훅 강조) |
+| 해시태그 수 | 18개 | **7개** (Mellow_Funk 5±2 패턴) |
+| 신규 꼬리 키워드 | ❌ | **`vintagesoulfunkplaylist`** (Vintage Park 공통) |
 
 ## ⏱️ 타임라인 (16곡 누적)
 
