@@ -9,34 +9,31 @@
 
 ---
 
-## 최종 확정 제목 (2026-04-25 v2 개정)
+## 최종 확정 제목 (vol.01 — 첫 발행본, 변경 없음)
 
 ```
-🥃 Soul Funk Lounge Mix | Velvet Midnight Bourbon • vol.01
+Soul Funk Lounge Mix | Velvet Midnight Bourbon  Slow Deep Groove
 ```
 
-### 채널 발행 순서 vs 내부 위키 번호 (중요)
+### 채널 발행 순서 vs 내부 위키 번호
 
 | 분류 | 번호 | 비고 |
 |---|:---:|---|
-| **채널 공개 발행 순서** | **vol.01** ⭐ | Midnight Funk Bureau **첫 번째 업로드** |
-| 내부 위키 파일명 | archive-soulfunk-vol02.md | Soul Funk 시리즈 내부 기획 순서 (Vol.01 Amber 미발행) |
+| **채널 공개 발행 순서** | **vol.01** ⭐ | Midnight Funk Bureau **첫 번째 업로드 (이미 발행됨)** |
+| 내부 위키 파일명 | archive-soulfunk-vol02.md | Soul Funk 시리즈 내부 기획 순서 |
 
-→ **유튜브 제목은 채널 공개 순서 (vol.01) 사용.** 위키 파일명은 git 히스토리 보존 위해 vol02 유지.
+### 🛑 제목 변경 정책 (2026-04-25 결정)
 
-### 개정 이력
-| 버전 | 제목 | 자수 |
-|---|---|:---:|
-| v1 | `Soul Funk Lounge Mix \| Velvet Midnight Bourbon  Slow Deep Groove` | 60 |
-| **v2** ⭐ | **`🥃 Soul Funk Lounge Mix \| Velvet Midnight Bourbon • vol.01`** | **53** |
+**vol.01은 손대지 않는다.** 이미 발행되어 알고리즘에 학습된 영상의 제목 변경은 SEO 리셋·구독자 혼란 위험.
 
-### v2 변경점 (Mellow_Funk 챔피언 정확 복제)
-- 🥃 emoji 추가 (모바일 검색 시각 앵커, Bourbon 키워드와 매칭)
-- `• vol.01` 추가 (시리즈 컬렉션 시그널)
-- `Slow Deep Groove` 제거 (설명글·해시태그로 이전)
-- 자수 60 → 53 (모바일 잘림 위험 감소)
+신규 포맷 (`🥃 + bullet + vol.XX`)은 **vol.02 (Emerald) 부터 적용**.
 
-**🚨 작업 필요:** YouTube Studio에서 영상 제목 수동 편집
+### 신규 포맷 미적용 이유
+- 발행본 제목 변경 시 알고리즘 추천 신호 일부 리셋
+- 시청자 검색 결과에 보던 영상이 갑자기 사라짐 (혼란)
+- 단기 트래픽 손실 가능
+
+→ **vol.01 = 발행본 그대로 / vol.02~ = 신규 포맷**으로 양립 운영
 
 ### 제목 키워드 지도 (Mellow_Funk 공식 준수)
 | 요소 | 내용 | 역할 |

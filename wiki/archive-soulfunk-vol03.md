@@ -38,28 +38,31 @@
 - 이유: 챔피언 영상 `🎤 Soul Funk Lounge Mix | Late Night Bar • Slow Deep Groove` 포맷 그대로
 - 근거: [[soulfunk-vph-tracking]] D13 측정 VPH 371 (가속 중)
 
-## 🎯 재생시간 60분+ 의무 액션 (Vintage Park · Mellow_Funk D13 학습)
+## 🎯 재생시간 확장 액션 (vol.02 = 16곡 채택, 2026-04-25 결정)
 
 | 채널 | 평균 | 비고 |
 |---|:---:|---|
-| Mellow_Funk 챔피언 | **124분** | VPH 371 (가속 중) |
+| Mellow_Funk 챔피언 | **124분 / 16곡** | VPH 371 (가속 중) |
 | Vintage Park 히트 | 75~91분 | VPH 257 / 166 |
-| **우리 Vol.02** | **33분** ⚠️ | 챔피언의 27% |
+| Vol.01 (Velvet) | 33분 / 10곡 | 챔피언의 27% (개선 여지) |
+| **vol.02 (Emerald)** ⭐ | **목표 ~55분 / 16곡** | **Suno 6곡 추가 + 감정 훅 도입** |
 
-### Vol.03 채택: Track 11 "Repeat" 추가 ⭐
+### 핵심 결정사항
 
-**Mellow_Funk 검증 트릭:** 마지막 트랙에 곡을 한 번 더 재생 → 재생시간 2배.
+**A. 16곡 구성 (Suno 추가 6곡 생성)**
+- Track 01~10: 기존 장면 기반 (Emerald 라운지 흐름 유지)
+- **Track 11~16: 신규 감정 훅 키워드 도입** (Vintage Park 히트 공식 차용)
 
-**적용 방법:**
-- Track 01~10 (Suno 생성한 10곡) + **Track 11 = "Repeat"** (Track 01 재방송)
-- 또는 좋아하는 트랙 1곡 복사
-- CapCut 편집에서 영상 합성
+**B. 감정 훅 키워드 6개 (Vintage Park "Trust Yourself" / "Good Times Flow" 류)**
+- T11: `Trust the Quiet` — 침묵 신뢰
+- T12: `Nothing to Prove Tonight` — 내려놓음
+- T13: `The Weight Comes Off` — 풀려남
+- T14: `Carry It Light` — 가벼움
+- T15: `Find Your Own Pace` — 자기 속도
+- T16: `Stay Easy, Stay Home` — 머무름
 
-**예상 길이:**
-- Track 01~10 합계: ~33분
-- + Track 11 Repeat (예: Track 01 다시) = ~36분 → **약 66분 총 재생시간**
-
-→ Vol.03부터 **무조건 적용**. Vol.04~ 점진적으로 16곡 확장 검토.
+→ 시청자 감정 대응 (BoomSlick 64만뷰 검증 = "self-reflection, quiet confidence" 주제)
+→ **장면 (T01~10) + 감정 (T11~16) = 두 갈래 SEO 풀 동시 포획**
 
 ### 제목 키워드 지도 (실측 VPH 기반 · 2026-04-25 업데이트)
 | 요소 | 실측 VPH | 역할 |
@@ -74,8 +77,9 @@
 
 ---
 
-## 트랙리스트 (Track 01 → 10)
+## 트랙리스트 (Track 01 → 16, 2026-04-25 확장)
 
+### Part 1: Scene-Based (Emerald Late Night Bar 라운지 흐름)
 | # | 제목 | BPM | 변주 | 앵커 | Phase |
 |---|------|-----|------|------|-------|
 | 01 | Green Lamp Comes On | 84 | 🎤 바리톤 85 | Bill Withers 1971 | 起 Opening |
@@ -89,15 +93,24 @@
 | 09 | Emerald Fade, Quarter Past | 84 | 🎧 그루비 95 | Donny Hathaway 1970 | 結 Closing |
 | 10 | Last Pour, Green Lamp Off | 84 | 🛋️ 바리톤 95 | Donny Hathaway 1970 | 結 Closing |
 
-### 변주 분포
-- 85점: 5곡 (T01~05, 起+承)
-- 95점: 5곡 (T06~10, 轉+結)
-- 전환점: T05 → T06
+### Part 2: Emotional Hook (자기성찰·조용한 자신감 — Vintage Park 공식 차용)
+| # | 제목 | BPM | 변주 | 앵커 | 감정 테마 |
+|---|------|-----|------|------|---------|
+| 11 | Trust the Quiet | 84 | 🎸 그루비 85 | Bill Withers 1971 | 침묵 신뢰 |
+| 12 | Nothing to Prove Tonight | 84 | 🎤 바리톤 85 | Bill Withers 1972 | 내려놓음 |
+| 13 | The Weight Comes Off | 84 | 🎸 그루비 85 | Curtis Mayfield 1971 | 풀려남 |
+| 14 | Carry It Light | 84 | 🛋️ 바리톤 95 | Curtis Mayfield 1972 | 가벼움 |
+| 15 | Find Your Own Pace | 84 | 🎧 그루비 95 | Donny Hathaway 1970 | 자기 속도 |
+| 16 | Stay Easy, Stay Home | 84 | 🛋️ 바리톤 95 | Donny Hathaway 1971 | 머무름 |
 
-### 앵커 로테이션 (방법 C · 3앵커 교대)
-- T01~03: Bill Withers 1971-72
-- T04~06: Curtis Mayfield 1970-72
-- T07~10: Donny Hathaway 1970
+### 변주 분포 (16곡)
+- 85점: 8곡 (T01~05, T11~13)
+- 95점: 8곡 (T06~10, T14~16)
+- 두 사이클 (Part 1·2 각각 起承轉結 미니 곡선)
+
+### 앵커 로테이션 (방법 C · 3앵커 × 2사이클)
+- Part 1 (T01~10): Bill Withers → Curtis Mayfield → Donny Hathaway
+- Part 2 (T11~16): Bill Withers → Curtis Mayfield → Donny Hathaway (반복 + 1971 신규)
 
 ---
 
@@ -979,13 +992,533 @@ Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive 
 
 ---
 
+# Part 2 — Emotional Hook Tracks (T11~16)
+
+**테마:** 자기성찰·조용한 자신감 (Vintage Park "Trust Yourself" / "Good Times Flow" 공식 차용)
+**연결:** Part 1 (장면) 마치고 → 집으로 돌아가는 길의 내면 흐름
+
+---
+
+## Track 11 — Trust the Quiet
+
+**변주:** 🎸 그루비 85 (Part2 起 · 자기성찰 시작)
+**앵커:** `[1971 warm baritone soul era]` (Bill Withers)
+**훅:** `Trust the quiet` (3음절)
+**주제:** 침묵을 신뢰하기 — 답을 찾으려 하지 말고 침묵에 머물기
+
+**Lyrics:**
+```
+[Intro]
+[clean cold open]
+[no humming, no ad-libs]
+Quiet hum
+Slow breath
+
+[Verse 1]
+Stop chasing what the day demands
+Stop talking back to your own hands
+The room is full of nothing wrong
+Listen close, you're already strong
+
+[Pre-Chorus]
+Some answers come without a sound
+Some peace just shows up where you stand
+
+[Chorus]
+Trust the quiet
+Trust the quiet
+Honest, clear, and silent
+Trust the quiet
+
+[Verse 2]
+You say my mind keeps making noise
+I say give it space, no force
+What you need won't shout your name
+What you need stays the same
+
+[Chorus]
+Trust the quiet
+Trust the quiet
+Honest, clear, and silent
+Trust the quiet
+
+[Bridge]
+No proof
+No prize
+Just truth
+In your eyes
+
+[Final Chorus]
+Trust the quiet
+Trust the quiet
+Honest, clear, and silent
+Trust the quiet
+
+[Outro]
+The quiet
+The quiet
+```
+
+**Suno Style of Music:**
+```
+[Hypnotic Bass]
+[Mesmerizing Melody]
+[Soul Funk]
+[84 BPM]
+[Mid-Tempo]
+[Tight Funk Pocket]
+[Deep Head-Nodding Groove]
+[Raw 1970s Analog Warmth]
+[Deep Warm Male Baritone]
+[Present but Restrained Vocal]
+[Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
+[1971 warm baritone soul era]
+[No Intro Humming]
+[Clean Cold Open]
+[No Pop Chorus Lift]
+
+Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, present but restrained, with confident conversational delivery. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+```
+
+---
+
+## Track 12 — Nothing to Prove Tonight
+
+**변주:** 🎤 바리톤 85 (Part2 承 · 내면)
+**앵커:** `[1972 warm baritone soul era]` (Bill Withers)
+**훅:** `Nothing to prove tonight` (5음절)
+**주제:** 오늘 밤은 증명할 게 없다 — 내려놓음
+
+**Lyrics:**
+```
+[Intro]
+[clean cold open]
+[no humming, no ad-libs]
+Soft drink
+Slow night
+
+[Verse 1]
+Coat hung, shoes loose, world outside
+Nobody waiting at the door
+You did enough, you carried right
+Tonight you don't need any more
+
+[Pre-Chorus]
+Set it down, set it slow
+Set it down where things belong
+
+[Chorus]
+Nothing to prove tonight
+Nothing to prove tonight
+Just the warm low light
+Nothing to prove tonight
+
+[Verse 2]
+You say I should keep going
+I say tomorrow will keep coming
+Sit with what you carried home
+Let it find a quieter form
+
+[Chorus]
+Nothing to prove tonight
+Nothing to prove tonight
+Just the warm low light
+Nothing to prove tonight
+
+[Bridge]
+Set down
+Set still
+Soft heart
+Soft will
+
+[Final Chorus]
+Nothing to prove tonight
+Nothing to prove tonight
+Just the warm low light
+Nothing to prove tonight
+
+[Outro]
+Just tonight
+Just tonight
+```
+
+**Suno Style of Music:**
+```
+[Hypnotic Bass]
+[Mesmerizing Melody]
+[Soul Funk]
+[84 BPM]
+[Mid-Tempo]
+[Tight Funk Pocket]
+[Raw 1970s Analog Warmth]
+[Deep Warm Male Baritone]
+[Weighty Baritone Presence]
+[Low Resonant Vocal]
+[Present but Restrained Vocal]
+[Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
+[1972 warm baritone soul era]
+[No Intro Humming]
+[Clean Cold Open]
+[No Pop Chorus Lift]
+
+Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, present but restrained, delivered with calm authority. Keep it grounded, masculine, and vintage without turning pop-forward. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+```
+
+---
+
+## Track 13 — The Weight Comes Off
+
+**변주:** 🎸 그루비 85 (Part2 承 · 풀려남)
+**앵커:** `[1971 urban cinematic soul funk era]` (Curtis Mayfield)
+**훅:** `Weight comes off` (3음절)
+**주제:** 어깨에서 무게가 풀리는 순간
+
+**Lyrics:**
+```
+[Intro]
+[clean cold open]
+[no humming, no ad-libs]
+Loose shoulder
+Long sigh
+
+[Verse 1]
+Bag down by the door
+Coat slung on the chair
+Slow sip in the lamp glow
+Day's grip starts to wear
+
+[Pre-Chorus]
+Pour it down, breathe it slow
+Things you held start to go
+
+[Chorus]
+Weight comes off
+Weight comes off
+World gets soft
+Weight comes off
+
+[Verse 2]
+You say what about tomorrow
+I say tomorrow keeps its own
+Tonight just lift the load
+Tonight just rest your bones
+
+[Chorus]
+Weight comes off
+Weight comes off
+World gets soft
+Weight comes off
+
+[Bridge]
+Slow off
+Slow down
+Slow lift
+Slow round
+
+[Final Chorus]
+Weight comes off
+Weight comes off
+World gets soft
+Weight comes off
+
+[Outro]
+Comes off
+Comes off
+```
+
+**Suno Style of Music:**
+```
+[Hypnotic Bass]
+[Mesmerizing Melody]
+[Soul Funk]
+[84 BPM]
+[Mid-Tempo]
+[Tight Funk Pocket]
+[Deep Head-Nodding Groove]
+[Raw 1970s Analog Warmth]
+[Deep Warm Male Baritone]
+[Present but Restrained Vocal]
+[Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
+[1971 urban cinematic soul funk era]
+[No Intro Humming]
+[Clean Cold Open]
+[No Pop Chorus Lift]
+
+Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, present but restrained, with confident conversational delivery. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+```
+
+---
+
+## Track 14 — Carry It Light
+
+**변주:** 🛋️ 바리톤 95 (Part2 轉 · 결심·전환)
+**앵커:** `[1972 urban cinematic soul funk era]` (Curtis Mayfield)
+**훅:** `Carry it light` (4음절)
+**주제:** 짐을 가볍게 들고 가기
+
+**Lyrics:**
+```
+[Intro]
+[clean cold open]
+[no humming, no ad-libs]
+Quiet vow
+Slow breath
+
+[Verse 1]
+Choose the way you'll carry on
+Choose the steps that make less weight
+Some loads we carry don't belong
+Some we put down, never late
+
+[Pre-Chorus]
+Lift it gentle, lift it slow
+Some things only kindness knows
+
+[Chorus]
+Carry it light
+Carry it light
+Hold it loose, hold it right
+Carry it light
+
+[Verse 2]
+You say is that even strong
+I say strength is when you bend
+Hard's a lie they sold too long
+Soft is how the journey ends
+
+[Chorus]
+Carry it light
+Carry it light
+Hold it loose, hold it right
+Carry it light
+
+[Bridge]
+Light load
+Soft hand
+Long road
+Slow stand
+
+[Final Chorus]
+Carry it light
+Carry it light
+Hold it loose, hold it right
+Carry it light
+
+[Outro]
+Carry light
+Carry light
+```
+
+**Suno Style of Music:**
+```
+[Hypnotic Bass]
+[Mesmerizing Melody]
+[Soul Funk]
+[84 BPM]
+[Mid-Tempo]
+[Tight Funk Pocket]
+[Soft Repeating Motif]
+[Raw 1970s Analog Warmth]
+[Deep Warm Male Baritone]
+[Weighty Baritone Presence]
+[Low Resonant Vocal]
+[Restrained Low-Mixed Vocal]
+[Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
+[Steady Groove Throughout]
+[1972 urban cinematic soul funk era]
+[No Intro Humming]
+[Clean Cold Open]
+[No Pop Chorus Lift]
+
+Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed. Keep the groove steady, smooth, and vintage with no bright hook or glossy pop finish. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+```
+
+---
+
+## Track 15 — Find Your Own Pace
+
+**변주:** 🎧 그루비 95 (Part2 結 · 회복)
+**앵커:** `[1970 gospel-tinged baritone soul era]` (Donny Hathaway)
+**훅:** `Find your own pace` (4음절)
+**주제:** 남의 속도가 아닌 너의 속도
+
+**Lyrics:**
+```
+[Intro]
+[clean cold open]
+[no humming, no ad-libs]
+Slow step
+Own time
+
+[Verse 1]
+Some run faster than the morning
+Some walk slower than the dusk
+Both arrive at honest places
+Both deserve their own enough
+
+[Pre-Chorus]
+Take your steps, take your pace
+Nothing won by running blind
+
+[Chorus]
+Find your own pace
+Find your own pace
+Honest, steady, in place
+Find your own pace
+
+[Verse 2]
+You say I'm always behind
+I say behind compared to who
+There's no clock for being kind
+There's no race for being you
+
+[Chorus]
+Find your own pace
+Find your own pace
+Honest, steady, in place
+Find your own pace
+
+[Bridge]
+Slow walk
+Own ground
+Own time
+Own sound
+
+[Final Chorus]
+Find your own pace
+Find your own pace
+Honest, steady, in place
+Find your own pace
+
+[Outro]
+Own pace
+Own pace
+```
+
+**Suno Style of Music:**
+```
+[Hypnotic Bass]
+[Mesmerizing Melody]
+[Soul Funk]
+[84 BPM]
+[Mid-Tempo]
+[Tight Funk Pocket]
+[Deep Head-Nodding Groove]
+[Soft Repeating Motif]
+[Raw 1970s Analog Warmth]
+[Deep Warm Male Baritone]
+[Restrained Low-Mixed Vocal]
+[Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
+[Steady Groove Throughout]
+[1970 gospel-tinged baritone soul era]
+[No Intro Humming]
+[Clean Cold Open]
+[No Pop Chorus Lift]
+
+Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, restrained and slightly low-mixed. Keep the groove steady, smooth, and replayable with no bright hook or glossy pop lift. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+```
+
+---
+
+## Track 16 — Stay Easy, Stay Home
+
+**변주:** 🛋️ 바리톤 95 (Part2 結 · 깊은 마감)
+**앵커:** `[1971 gospel-tinged baritone soul era]` (Donny Hathaway)
+**훅:** `Stay easy, stay home` (5음절)
+**주제:** 편안함에 머물기, 집에 머물기 — 앨범 최종 마감
+
+**Lyrics:**
+```
+[Intro]
+[clean cold open]
+[no humming, no ad-libs]
+Last lamp
+Soft floor
+
+[Verse 1]
+Out there the city keeps trying
+Out here the room stays still
+Nobody asks where you've been
+Nobody owes you a will
+
+[Pre-Chorus]
+Pull the chair, pour the slow
+Settle where the warm winds blow
+
+[Chorus]
+Stay easy, stay home
+Stay easy, stay home
+Nothing to chase, nothing to roam
+Stay easy, stay home
+
+[Verse 2]
+You say is this all I need
+I say maybe it always was
+Slow night, soft hour, easy light
+Slow night, soft hour, just because
+
+[Chorus]
+Stay easy, stay home
+Stay easy, stay home
+Nothing to chase, nothing to roam
+Stay easy, stay home
+
+[Bridge]
+No race
+No crown
+Slow place
+Settle down
+
+[Final Chorus]
+Stay easy, stay home
+Stay easy, stay home
+Nothing to chase, nothing to roam
+Stay easy, stay home
+
+[Outro]
+Stay home
+Stay home
+```
+
+**Suno Style of Music:**
+```
+[Hypnotic Bass]
+[Mesmerizing Melody]
+[Soul Funk]
+[84 BPM]
+[Mid-Tempo]
+[Tight Funk Pocket]
+[Soft Repeating Motif]
+[Raw 1970s Analog Warmth]
+[Deep Warm Male Baritone]
+[Weighty Baritone Presence]
+[Low Resonant Vocal]
+[Restrained Low-Mixed Vocal]
+[Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
+[Steady Groove Throughout]
+[1971 gospel-tinged baritone soul era]
+[No Intro Humming]
+[Clean Cold Open]
+[No Pop Chorus Lift]
+
+Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed. Keep the groove steady, smooth, and vintage with no bright hook or glossy pop finish. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+```
+
+---
+
 ## 다음 스텝
-1. ✅ 제목 확정 (실측 VPH 기반 · Emerald 129 + Late Night Bar 346)
-2. ✅ 10곡 가사·Suno 프롬프트 완료 (Track 10 → 01 역순 생성)
-3. ☐ Suno 렌더링 (곡당 1~2 테이크)
-4. ☐ mp3 다운로드 → `사용한 곡/soulfunk-vol03/`
-5. ☐ 영상 렌더링 (ProRes 4444)
-6. ☐ 설명글 작성
+1. ✅ 제목 확정 (`🥃 Soul Funk Lounge Mix | Emerald Late Night Bar • vol.02`)
+2. ✅ 16곡 가사·Suno 프롬프트 완료 (Part 1 장면 10곡 + Part 2 감정 훅 6곡)
+3. ☐ Suno 렌더링 (16곡 mp3, 곡당 1~2 테이크)
+4. ☐ mp3 다운로드 → `사용한 곡/playlist-video/YYMMDD/soulfunk-vol02/`
+5. ☐ 영상 렌더링 (16곡 ProRes 4444 알파, Radial Bars Mild)
+6. ☐ 설명글 작성 (16곡 트랙리스트 + 감정 훅 강조)
 7. ☐ CapCut 편집 + YouTube 업로드
 
 ---
@@ -1001,7 +1534,9 @@ Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive 
 - ✅ Call & Response 전 곡 적용
 - ✅ 구체 이미지 중심 (Green lamp / jade / neon / booth / bassline / clock hand / green fade)
 - ✅ 실측 VPH 기반 제목 (Emerald Late Night Bar)
-- ✅ 색 시리즈 중복 회피 (Vol.01 Amber / Vol.02 Velvet / Vol.03 Emerald)
+- ✅ 색 시리즈 중복 회피 (vol.01 Velvet / vol.02 Emerald)
+- ✅ 16곡 구성 (Part 1 장면 10곡 + Part 2 감정 훅 6곡)
+- ✅ 감정 훅 키워드 (Vintage Park "Trust Yourself" 공식 차용 · Vol.02부터 도입)
 
 ---
-최종 업데이트: 2026-04-24
+최종 업데이트: 2026-04-25 (16곡 확장 + 감정 훅 Part 2 신설 · 제목 v4 = 🥃 + vol.02 확정)
