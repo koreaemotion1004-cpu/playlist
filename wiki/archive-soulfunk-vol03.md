@@ -1515,11 +1515,46 @@ Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive 
 ## 다음 스텝
 1. ✅ 제목 확정 (`🥃 Soul Funk Lounge Mix | Emerald Late Night Bar • vol.02`)
 2. ✅ 16곡 가사·Suno 프롬프트 완료 (Part 1 장면 10곡 + Part 2 감정 훅 6곡)
-3. ☐ Suno 렌더링 (16곡 mp3, 곡당 1~2 테이크)
-4. ☐ mp3 다운로드 → `사용한 곡/playlist-video/YYMMDD/soulfunk-vol02/`
-5. ☐ 영상 렌더링 (16곡 ProRes 4444 알파, Radial Bars Mild)
+3. ✅ Suno 렌더링 완료 (16곡 mp3)
+4. ✅ mp3 다운로드 → `사용한 곡/playlist-video/260425/soulfunk-vol02/`
+5. ✅ 영상 렌더링 완료 (16곡 ProRes 4444 + yuva444p10le 알파, Radial Bars Mild, 5.74 GB)
 6. ☐ 설명글 작성 (16곡 트랙리스트 + 감정 훅 강조)
 7. ☐ CapCut 편집 + YouTube 업로드
+
+## ⏱️ 타임라인 (16곡 누적)
+
+```
+00:00  Green Lamp Comes On            / welcome glow session
+03:16  First Pour, Emerald Bar        / opening pour groove
+06:22  Jade in My Glass               / inside-the-cup mood
+09:44  The Regular's End Seat         / regular's corner soul
+13:10  Bassline on Emerald Floor      / floor walk groove
+16:49  Green Neon on the Mirror       / honest reflection soul
+20:03  Late Night Bar Still Hums      / room hum session
+23:21  Back Booth, Quiet as Leaves    / hideaway lounge mood
+27:09  Emerald Fade, Quarter Past     / slow fade groove
+30:28  Last Pour, Green Lamp Off      / closing time soul
+33:34  Trust the Quiet                / inner room session
+36:39  Nothing to Prove Tonight       / soft surrender groove
+40:16  The Weight Comes Off           / shoulders unwind soul
+43:28  Carry It Light                 / quiet strength flow
+46:58  Find Your Own Pace             / steady walk groove
+50:23  Stay Easy, Stay Home           / coming home soul
+```
+
+**총 재생시간: 53:54** (vol.01 33분 → vol.02 54분, **1.6배 확장**)
+
+### 렌더링 학습 (다음 Vol 참고)
+
+**한글+아포스트로피 경로 우회 워크어라운드:**
+- Track 04 "The Regular's End Seat" = `Track 04. The Regular's End Seat.mov`
+- Korean(`사용한 곡`/`플리`) + apostrophe(`Regular's`) 조합에서 ffmpeg 출력 실패
+- 해결: `/tmp/soulfunk-render/` ASCII 임시 경로에서 렌더+메타 → 최종 한글 경로로 `cp`
+- 다음 Vol에서 비슷한 케이스 시 동일 워크어라운드 적용
+
+**렌더링 시간 (16곡 + Track 04 재시도 포함 약 60~70분):**
+- 평균 곡당 약 4분 (ProRes 4444 yuva444p10le, 1280x720, --concurrency=4)
+- I/O 우세 (CPU·GPU 여유)
 
 ---
 
