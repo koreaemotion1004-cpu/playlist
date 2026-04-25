@@ -939,7 +939,19 @@ Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive 
 5. ✅ 영상 렌더링 (10곡 ProRes 4444 + yuva444p10le 알파, Radial Bars Mild)
 6. ✅ 설명글 작성 (영문 + 한국어)
 7. ✅ 재생목록 제목·설명글 작성 (영문 + 한국어)
-8. ☐ CapCut 편집 + YouTube 업로드
+8. ✅ CapCut 편집 완료
+9. ✅ YouTube 업로드 완료 (2026-04-25)
+
+## 🎉 Vol.02 발행 완료 (2026-04-25)
+
+**브랜드:** Midnight Funk Bureau (Line 3 Soul Funk 첫 발행)
+**재생목록:** Vintage Soul Funk | Slow Deep Groove for Late Night Bar Lounge
+**Vol.02 영상 제목:** Soul Funk Lounge Mix | Velvet Midnight Bourbon  Slow Deep Groove
+
+### VPH 모니터링 예정
+- 업로드 후 1일 / 3일 / 7일 / 14일 시점 VPH 측정
+- `Midnight Bourbon` 키워드 실측 검증 (이전 Mellow_Funk 측정 VPH 3.5 — 우리 영상 결과 비교)
+- 결과는 [[soulfunk-vph-tracking]] 에 추가 기록
 
 ---
 
