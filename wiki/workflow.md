@@ -5,9 +5,21 @@
 ### 🎬 "시작" 또는 "시작하자" (새 Vol 작업)
 ```
 내가 "시작" 치면 → 자동 실행:
-    ① 제목 생성 (title-direction-master 공식 자동 적용)
-       - Vol 번호 확인 → 홀수 A공식 / 짝수 B공식
-       - Use Case 라이브러리에서 미사용 1개 선택
+    ⓪ ⭐ 실측 VPH 갱신 (2026-04-25 신설 · 모든 제목 작업의 전제)
+       - yt-dlp로 레퍼런스 채널 최근 15~25개 영상 VPH 즉석 측정
+       - Line 1 Cafe: Coffee Shop Vibes / Lepreezy / Fikatone / Mysig
+       - Line 2 Noir: Sepia Lounge / PinkPantherlounge / NOIR VIBES
+       - Line 3 Soul Funk: Mellow_Funk + Vintage Park (둘 다 필수)
+       - 측정 결과 → wiki/soulfunk-vph-tracking.md (또는 라인별 트래킹) 갱신
+       - 위키 기록 VPH 그대로 사용 금지 (시간 경과로 변동)
+
+    ① 제목 3개 생성 (A/B 테스트용) ⭐ 2026-04-25 개정
+       - 제목 1: 챔피언 영상 정확 매칭 (트래픽 풀 직격)
+       - 제목 2: 인접 트래픽 풀 매칭 (보조 추천 진입)
+       - 제목 3: 차별화 안 (포맷·각도 변경, control)
+       - 모든 안은 ⓪에서 측정한 실측 VPH 데이터 근거로 작성
+       - YouTube Studio A/B 테스트 (영상 단계 노출 분배 14일 측정) 활용
+       - 자세한 전략: [[soulfunk-vph-tracking]] / [[title-direction-master]]
     ② 가사 10곡 (Track 10 → 01 역순)
     ③ Suno 프롬프트 10곡 (Track 10 → 01 역순)
        ★ 자동 적용 규칙 (suno-artist-benchmark.md 참조) ★
