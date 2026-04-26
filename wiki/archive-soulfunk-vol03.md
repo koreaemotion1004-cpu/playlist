@@ -9,10 +9,10 @@
 
 ---
 
-## 최종 확정 제목 (2026-04-25 v4 — 채널 발행 순서 적용)
+## 최종 확정 제목 (2026-04-26 v5 — vol.XX 제거 + Slow Deep Groove 꼬리)
 
 ```
-🥃 Soul Funk Lounge Mix | Emerald Late Night Bar • vol.02
+🥃 Soul Funk Lounge Mix | Emerald Late Night Bar • Slow Deep Groove
 ```
 
 ### 채널 발행 순서 vs 내부 위키 번호
@@ -30,7 +30,14 @@
 | v1 | `Soul Funk Lounge Mix \| Emerald Late Night Bar  Slow Deep Groove` | 60 |
 | v2 | `Soul Funk Lounge Mix \| Emerald Late Night Bar \| vol.03` | 52 |
 | v3 | `🥃 Soul Funk Lounge Mix \| Emerald Late Night Bar • vol.03` | 55 |
-| **v4** ⭐ | **`🥃 Soul Funk Lounge Mix \| Emerald Late Night Bar • vol.02`** | **55** |
+| v4 | `🥃 Soul Funk Lounge Mix \| Emerald Late Night Bar • vol.02` | 55 |
+| **v5** ⭐ | **`🥃 Soul Funk Lounge Mix \| Emerald Late Night Bar • Slow Deep Groove`** | **64** |
+
+### v5 변경점 (2026-04-26 결정)
+- `• vol.02` → **`• Slow Deep Groove`** 교체
+- 이유: Mellow_Funk 챔피언 (`🎤 Soul Funk Lounge Mix | Late Night Bar • Slow Deep Groove`) **정확 포맷 복제**
+- vol 번호는 제거 (시리즈 시그널보다 SEO 키워드 매칭 우선)
+- 향후 모든 Vol 동일 포맷 적용
 
 ### v3 변경점 (Mellow_Funk 챔피언 정확 복제)
 - 🥃 emoji 추가 (모바일 검색 시각 앵커)

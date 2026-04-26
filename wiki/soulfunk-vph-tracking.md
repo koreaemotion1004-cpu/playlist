@@ -37,8 +37,21 @@
 - 모든 안은 ⓪단계 실측 VPH 데이터 근거 (위키 그대로 인용 금지)
 - 챔피언 영상 키워드 정확 매칭 우선
 - emoji + bullet 포맷 통일 (Mellow_Funk 챔피언 검증)
+- **`• Slow Deep Groove` 꼬리 강제** (2026-04-26 결정 — Mellow_Funk 챔피언 정확 복제)
+- ❌ **`• vol.XX` 사용 금지** (2026-04-26 결정 — vol 번호 제거)
 - 60자 이내 (모바일 최적)
 - 제거 위험 키워드 회피 (예: `Bourbon` 단독 → Blues 영토)
+
+### 표준 포맷 (2026-04-26 확정)
+
+```
+[emoji] Soul Funk Lounge Mix | [색] [장면] • Slow Deep Groove
+```
+
+**예시:**
+- ✅ `🥃 Soul Funk Lounge Mix | Amber Late Night Bar • Slow Deep Groove`
+- ❌ `🥃 Soul Funk Lounge Mix | Amber Late Night Bar • vol.03` (vol.XX 제거)
+- ❌ `Soul Funk Lounge Mix | Amber Late Night Bar Slow Deep Groove` (이중 공백)
 
 ---
 

@@ -13,7 +13,12 @@
        - 측정 결과 → wiki/soulfunk-vph-tracking.md (또는 라인별 트래킹) 갱신
        - 위키 기록 VPH 그대로 사용 금지 (시간 경과로 변동)
 
-    ① 제목 3개 생성 (A/B 테스트용) ⭐ 2026-04-25 개정
+    ① 제목 3개 생성 (A/B 테스트용) ⭐ 2026-04-26 재개정
+       - 표준 포맷: [emoji] Soul Funk Lounge Mix | [색] [장면] • Slow Deep Groove
+         예) 🥃 Soul Funk Lounge Mix | Amber Late Night Bar • Slow Deep Groove
+       - ❌ vol.XX 제거 (2026-04-26 결정) — Mellow_Funk 챔피언 정확 복제
+         이전: ❌ "🥃 Soul Funk Lounge Mix | Emerald Late Night Bar • vol.02"
+         이후: ✅ "🥃 Soul Funk Lounge Mix | Emerald Late Night Bar • Slow Deep Groove"
        - 제목 1: 챔피언 영상 정확 매칭 (트래픽 풀 직격)
        - 제목 2: 인접 트래픽 풀 매칭 (보조 추천 진입)
        - 제목 3: 차별화 안 (포맷·각도 변경, control)
