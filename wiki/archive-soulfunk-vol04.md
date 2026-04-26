@@ -1712,4 +1712,138 @@ Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive 
 | 메타태그 활용 | 일부 | **[[lyrics-meta-tags]] 본격 적용** ⭐ |
 
 ---
-최종 업데이트: 2026-04-26 (vol.03 Amber Late Night Bar 16곡 + Mellow_Funk 명령형 첫 도입)
+
+# 📺 YouTube 업로드 자산 (확정)
+
+## 영상 설명글 (English)
+
+```
+turn the amber low, pour the heavy bourbon.
+soul funk for late night bar lounge sessions.
+let the bass walk slow across the wooden floor.
+no rush, no noise, just amber-lit groove.
+subscribe for more vintage soul funk nights.
+
+━━━━━━━━━━━━━━━━━━━━
+🥃 Amber Late Night Bar — Slow Deep Groove (53 min)
+
+Welcome to the amber-lit late night bar. Settle into the corner stool, watch the brass key turn, let the slow whiskey pour as the bar's first glow rises around you.
+
+A 53-minute curated mix of vintage 70s soul funk in two parts:
+  Part 1 — Amber late night bar scenes (10 tracks, 0:00~33:26)
+  Part 2 — Quiet command grooves (6 tracks, 33:26~53:40) ⭐ NEW
+
+Deep warm baritone vocals. Tight 84 BPM funk pockets. Raw 1970s analog warmth. Percussive Rhodes stabs, crisp dry snare, and a steady amber hum throughout. No bright hooks, no polish — just slow deep groove for the long quiet hours.
+
+Perfect for:
+• Late night bar lounge hours
+• Slow deep groove sessions for amber whiskey evenings
+• Letting the hours fade, taking it as it comes
+• Staying right here, slowing it down
+• Keeping it warm and easy through the long night
+• Pouring it slow, pouring it right
+• Background grooves for reading, conversation, reflection
+
+━━━━━━━━━━━━━━━━━━━━
+📀 TRACKLIST
+
+— Part 1: Amber Late Night Bar Scenes —
+00:00 First Glow on the Counter / amber awakening
+03:24 Whiskey Hits the Stand / pour groove
+06:41 Amber in My Hand / inside the glass
+10:04 Same Stool, Same Story / regular's chronicle
+13:34 Bassman in the Corner / floor walking groove
+17:01 Brass Polish, Honest Face / honest reflection
+20:13 Late Bar Keeps Glowing / steady amber hum
+23:33 Window Seat Goes Quiet / hideaway moment
+26:58 Amber Fades to Brown / slow burn fade
+30:17 Last Drop, Lights Down / closing time
+
+— Part 2: Quiet Command Grooves —
+33:26 Stay Right Here Tonight / command warmth
+37:06 Slow It Down, My Friend / command tempo
+40:31 Keep It Warm and Easy / command comfort
+43:35 Let the Hours Fade / command release
+46:49 Pour It Slow, Pour It Right / command rhythm
+50:20 Take It as It Comes / closing acceptance
+
+━━━━━━━━━━━━━━━━━━━━
+🎷 Midnight Funk Bureau — Vintage soul funk for the quiet hours of the night.
+
+This music is produced with the help of AI.
+Each track is crafted to hold the vintage lounge atmosphere — low-lit, late, and unhurried.
+
+© 2026 Midnight Funk Bureau. All rights reserved.
+Unauthorized reproduction, redistribution, and commercial use strictly prohibited.
+
+━━━━━━━━━━━━━━━━━━━━
+soulfunk, latenightbar, slowdeepgroove, vintagesoulfunkplaylist, midnightfunk, amber, soulfunkloungemix
+```
+
+## 영상 설명글 (한국어)
+
+```
+앰버 램프를 낮추고, 묵직한 버번을 천천히 따른다.
+늦은 밤 바 라운지를 위한 소울펑크.
+베이스라인이 나무 바닥 위를 천천히 걸어가도록.
+서두름도, 잡음도 없이, 오직 앰버빛 그루브.
+빈티지 소울펑크의 밤 — 구독으로 함께하세요.
+
+━━━━━━━━━━━━━━━━━━━━
+🥃 Amber Late Night Bar — Slow Deep Groove (53분)
+
+앰버빛으로 물든 늦은 밤 바에 오신 걸 환영합니다. 코너 스툴에 앉아, 황동 열쇠가 돌아가는 걸 보고, 첫 빛이 천천히 번지는 동안 위스키를 따라보세요.
+
+53분 길이의 빈티지 70년대 소울펑크 큐레이션. 두 파트로 구성:
+  Part 1 — 앰버빛 라운지 바의 장면들 (10곡, 0:00~33:26)
+  Part 2 — 조용한 명령형 그루브 (6곡, 33:26~53:40) ⭐ 신규
+
+깊고 따뜻한 남성 바리톤 보컬. 84 BPM의 단단한 펑크 포켓. 거친 1970년대 아날로그 따뜻함. 로즈 스탭, 드라이한 스네어, 그리고 흐름을 잡아주는 앰버빛 허밍. 화려한 훅도 매끈한 광택도 없이 — 길고 조용한 시간을 위한 슬로우 딥 그루브만.
+
+이런 순간에 어울립니다:
+• 늦은 밤 바 라운지의 시간
+• 앰버빛 위스키와 함께하는 슬로우 딥 그루브 세션
+• 시간을 흘려보내고, 다가오는 대로 받아들일 때
+• 여기 머물고, 천천히 가자는 권유의 마음
+• 따뜻함과 편안함을 긴 밤 내내 지켜낼 때
+• 천천히, 정확히 따르는 손길의 시간
+• 독서·사색·조용한 대화의 배경음
+
+━━━━━━━━━━━━━━━━━━━━
+📀 트랙리스트
+
+— Part 1: 앰버빛 라운지 바의 장면들 —
+00:00 First Glow on the Counter / amber awakening
+03:24 Whiskey Hits the Stand / pour groove
+06:41 Amber in My Hand / inside the glass
+10:04 Same Stool, Same Story / regular's chronicle
+13:34 Bassman in the Corner / floor walking groove
+17:01 Brass Polish, Honest Face / honest reflection
+20:13 Late Bar Keeps Glowing / steady amber hum
+23:33 Window Seat Goes Quiet / hideaway moment
+26:58 Amber Fades to Brown / slow burn fade
+30:17 Last Drop, Lights Down / closing time
+
+— Part 2: 조용한 명령형 그루브 —
+33:26 Stay Right Here Tonight / command warmth
+37:06 Slow It Down, My Friend / command tempo
+40:31 Keep It Warm and Easy / command comfort
+43:35 Let the Hours Fade / command release
+46:49 Pour It Slow, Pour It Right / command rhythm
+50:20 Take It as It Comes / closing acceptance
+
+━━━━━━━━━━━━━━━━━━━━
+🎷 Midnight Funk Bureau — 밤의 조용한 시간을 위한 빈티지 소울펑크.
+
+이 음악은 AI를 활용해 제작되었습니다.
+한 곡 한 곡, 빈티지 라운지의 분위기 — 어둑하고 늦은, 서두르지 않는 결을 살려 만들었습니다.
+
+© 2026 Midnight Funk Bureau. All rights reserved.
+무단 전재·재배포·상업적 이용을 엄격히 금지합니다.
+
+━━━━━━━━━━━━━━━━━━━━
+소울펑크, 늦은밤바라운지, 슬로우딥그루브, 빈티지소울펑크플레이리스트, 미드나잇펑크, 앰버라운지, 작업용BGM
+```
+
+---
+최종 업데이트: 2026-04-26 (vol.03 영상 렌더링 + 설명글 영문/한국어 확정 · 부제 포함 트랙리스트)
