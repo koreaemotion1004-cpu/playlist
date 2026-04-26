@@ -1,4 +1,8 @@
-# Noir 가사 공식 (Vol.13~)
+# Noir 가사 공식 (Line 2, Vol.13~)
+
+> **⭐ 가사 메타태그 마스터 참조: [[lyrics-meta-tags]]** (4개 라인 통합)
+> Noir 권장: `[melancholy piano]` `[horns mournful]` `[muted trumpet, low]` `[detective cool]` `[reverb tail]` `[the last note of the night]`
+> Noir 부정: `NOT bright` / `NOT happy` / `NOT pop production` / `NOT soaring`
 
 ## 핵심 원칙
 제목 = 훅 = Chorus 첫 줄 (기존 빌보드 공식 유지)

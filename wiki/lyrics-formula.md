@@ -1,4 +1,8 @@
-# 빌보드 가사 공식
+# 빌보드 가사 공식 (Line 1 Cafe Jazz)
+
+> **⭐ 가사 메타태그 마스터 참조: [[lyrics-meta-tags]]** (4개 라인 통합)
+> Cafe Jazz 권장: `[brushed drums, slow]` `[warm brass swell]` `[piano alone]` `[wide and warm]` `[full and golden]`
+> Cafe Jazz 부정: `NOT smooth jazz` / `NOT contemporary jazz` / `NO modern production` / `NO pop hooks`
 
 ## 핵심 원칙
 제목 = 훅 = Chorus 첫 줄. 듣는 사람이 Chorus만 들어도 제목을 안다.
