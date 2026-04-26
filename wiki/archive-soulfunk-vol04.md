@@ -198,13 +198,12 @@ First glow
 [Low Resonant Vocal]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [1971 warm baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, present but restrained, delivered with calm authority. Keep it grounded, masculine, and vintage without turning pop-forward. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, present but restrained, delivered with calm authority. Keep it grounded, masculine, and vintage without turning pop-forward. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -294,13 +293,12 @@ On the stand
 [Deep Warm Male Baritone]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [1971 warm baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, present but restrained, with confident conversational delivery. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone, present but restrained, with confident conversational delivery. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -391,13 +389,12 @@ In my hand
 [Low Resonant Vocal]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [1972 warm baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, present but restrained, delivered with calm authority. Keep it grounded, masculine, and vintage without turning pop-forward. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, present but restrained, delivered with calm authority. Keep it grounded, masculine, and vintage without turning pop-forward. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -487,13 +484,12 @@ Same story
 [Deep Warm Male Baritone]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [1970 urban cinematic soul funk era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, present but restrained, with confident conversational delivery. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone, present but restrained, with confident conversational delivery. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -584,13 +580,12 @@ In the corner
 [Deep Warm Male Baritone]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [1970 urban cinematic soul funk era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, present but restrained, with confident conversational delivery. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone, present but restrained, with confident conversational delivery. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -683,14 +678,13 @@ It tells
 [Low Resonant Vocal]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1972 urban cinematic soul funk era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed. Keep the groove steady, smooth, and vintage with no bright hook or glossy pop finish. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed. Keep the groove steady, smooth, and vintage with no bright hook or glossy pop finish. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -781,14 +775,13 @@ Keeps glowing
 [Deep Warm Male Baritone]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1970 gospel-tinged baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, restrained and slightly low-mixed. Keep the groove steady, smooth, and replayable with no bright hook or glossy pop lift. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone, restrained and slightly low-mixed. Keep the groove steady, smooth, and replayable with no bright hook or glossy pop lift. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -881,14 +874,13 @@ Goes quiet
 [Low Resonant Vocal]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1970 gospel-tinged baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed. Keep the groove steady, smooth, and vintage with no bright hook or glossy pop finish. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed. Keep the groove steady, smooth, and vintage with no bright hook or glossy pop finish. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -980,14 +972,13 @@ To brown
 [Deep Warm Male Baritone]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1970 gospel-tinged baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, restrained and slightly low-mixed. Keep the groove steady, smooth, and replayable with no bright hook or glossy pop lift. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone, restrained and slightly low-mixed. Keep the groove steady, smooth, and replayable with no bright hook or glossy pop lift. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -1080,14 +1071,13 @@ Lights down
 [Low Resonant Vocal]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1970 gospel-tinged baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed. Keep the groove steady, smooth, and vintage with no bright hook or glossy pop finish. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed. Keep the groove steady, smooth, and vintage with no bright hook or glossy pop finish. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -1185,13 +1175,12 @@ Right here
 [Deep Warm Male Baritone]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [1971 warm baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, present but restrained, with confident conversational delivery. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone, present but restrained, with confident conversational delivery. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -1282,13 +1271,12 @@ Slow it down
 [Low Resonant Vocal]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [1972 warm baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, present but restrained, delivered with calm authority. Keep it grounded, masculine, and vintage without turning pop-forward. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, present but restrained, delivered with calm authority. Keep it grounded, masculine, and vintage without turning pop-forward. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -1378,13 +1366,12 @@ Keep it warm
 [Deep Warm Male Baritone]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [1971 urban cinematic soul funk era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, present but restrained, with confident conversational delivery. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone, present but restrained, with confident conversational delivery. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -1477,14 +1464,13 @@ Let it fade
 [Low Resonant Vocal]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1972 urban cinematic soul funk era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed. Keep the groove steady, smooth, and vintage with no bright hook or glossy pop finish. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed. Keep the groove steady, smooth, and vintage with no bright hook or glossy pop finish. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -1575,14 +1561,13 @@ Pour it slow
 [Deep Warm Male Baritone]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1970 gospel-tinged baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, restrained and slightly low-mixed. Keep the groove steady, smooth, and replayable with no bright hook or glossy pop lift. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone, restrained and slightly low-mixed. Keep the groove steady, smooth, and replayable with no bright hook or glossy pop lift. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
@@ -1675,14 +1660,13 @@ Take it
 [Low Resonant Vocal]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
-[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1971 gospel-tinged baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [No Pop Chorus Lift]
 
-Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed. Keep the groove steady, smooth, and vintage with no bright hook or glossy pop finish. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
+Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed. Keep the groove steady, smooth, and vintage with no bright hook or glossy pop finish. Start immediately with clear lyrics, with no humming, no vocalizing, and no ad-libs at the beginning.
 ```
 
 ---
