@@ -250,4 +250,80 @@ subscribe for more slow deep funk nights.
 ```
 
 ---
+
+## Vol.03 — Amber Late Night Bar ⭐ (2026-04-26)
+
+### 메인 (설명글에 사용 중)
+```
+turn the amber low, pour the heavy bourbon.
+soul funk for late night bar lounge sessions.
+let the bass walk slow across the wooden floor.
+no rush, no noise, just amber-lit groove.
+subscribe for more vintage soul funk nights.
+```
+
+**한국어:**
+```
+앰버 램프를 낮추고, 묵직한 버번을 천천히 따른다.
+늦은 밤 바 라운지를 위한 소울펑크.
+베이스라인이 나무 바닥 위를 천천히 걸어가도록.
+서두름도, 잡음도 없이, 오직 앰버빛 그루브.
+빈티지 소울펑크의 밤 — 구독으로 함께하세요.
+```
+
+### 변주 A — 부스 입장 (회복·환영)
+```
+slide into the corner, dim the amber lamp.
+soul funk for late night whiskey hours.
+let the rhodes settle in the wooden grain.
+no clock, no calls, just slow gold groove.
+subscribe for more vintage soul funk nights.
+```
+
+**한국어:**
+```
+구석 자리에 깊숙이 앉고, 앰버 램프를 낮춘다.
+늦은 밤 위스키의 시간을 위한 소울펑크.
+로즈가 나무결 사이로 가만히 가라앉도록.
+시계도, 전화도 없이, 오직 슬로우 골드 그루브.
+빈티지 소울펑크의 밤 — 구독으로 함께하세요.
+```
+
+### 변주 B — 명령형 강조 (Mellow_Funk Part 2 매칭) ⭐ vol.03 특화
+```
+stay right here, slow it down tonight.
+soul funk for late night bar lounge sessions.
+let the groove keep what the day held tight.
+no rush, no proof, just take it as it comes.
+subscribe for more vintage soul funk nights.
+```
+
+**한국어:**
+```
+여기에 머물고, 오늘 밤은 천천히 간다.
+늦은 밤 바 라운지를 위한 소울펑크.
+그루브가 하루의 긴장을 거두어 가도록.
+서두름도, 증명도 없이, 오직 다가오는 대로.
+빈티지 소울펑크의 밤 — 구독으로 함께하세요.
+```
+
+### 변주 C — 빈티지·바이닐
+```
+drop the bourbon, lean into the amber.
+soul funk for late night bar vinyl hours.
+let the pocket walk the wooden floor.
+no hurry, no voices, just 70s warmth.
+subscribe for more vintage soul funk nights.
+```
+
+**한국어:**
+```
+버번을 내려놓고, 앰버에 몸을 기댄다.
+늦은 밤 바, 바이닐의 시간을 위한 소울펑크.
+펑크 포켓이 나무 바닥을 천천히 걸어가도록.
+조급함도, 목소리도 없이, 오직 70년대 따뜻함.
+빈티지 소울펑크의 밤 — 구독으로 함께하세요.
+```
+
+---
 최종 업데이트: 2026-04-25 (Soul Funk Line 3 공식 신설)
