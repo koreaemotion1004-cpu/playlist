@@ -60,7 +60,7 @@
 
 ---
 
-## ⭐ 4변주 잠금 템플릿 (2026-04-26 최신 — [Subtle Wah Chicken-Scratch] 제거)
+## ⭐ 4변주 잠금 템플릿 (2026-04-27 — [Subtle Wah Chicken-Scratch] 복원)
 
 ### 🎤 묵직한 바리톤형 85점
 ```
@@ -76,12 +76,13 @@
 [Low Resonant Vocal]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [No Intro Humming]
 [Clean Cold Open]
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, present but restrained, delivered with calm authority. Keep it grounded, masculine, and vintage without turning pop-forward. Groove is the star.
+Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, present but restrained, delivered with calm authority. Keep it grounded, masculine, and vintage without turning pop-forward. Groove is the star.
 ```
 
 ### 🎸 그루비형 85점
@@ -97,12 +98,13 @@ Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, and perc
 [Deep Warm Male Baritone]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [No Intro Humming]
 [Clean Cold Open]
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone, present but restrained, with confident conversational delivery. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Groove is the star.
+Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, present but restrained, with confident conversational delivery. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Groove is the star.
 ```
 
 ### 🎧 그루비형 95점
@@ -119,13 +121,14 @@ Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, 
 [Deep Warm Male Baritone]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [No Intro Humming]
 [Clean Cold Open]
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone, restrained and slightly low-mixed. Keep the groove steady, smooth, and replayable with no bright hook or glossy pop lift. Groove is the star.
+Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, restrained and slightly low-mixed. Keep the groove steady, smooth, and replayable with no bright hook or glossy pop lift. Groove is the star.
 ```
 
 ### 🛋️ 묵직한 바리톤형 95점
@@ -143,13 +146,14 @@ Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, and per
 [Low Resonant Vocal]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [No Intro Humming]
 [Clean Cold Open]
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Minimal vintage soul funk with a tight bass pocket, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed. Keep the groove steady, smooth, and vintage with no bright hook or glossy pop finish. Groove is the star.
+Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed. Keep the groove steady, smooth, and vintage with no bright hook or glossy pop finish. Groove is the star.
 ```
 
 ---
@@ -173,6 +177,7 @@ Minimal vintage soul funk with a tight bass pocket, crisp dry snare, and percuss
 [Low Resonant Vocal]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1970 gospel-tinged soulful baritone era]
 [No Intro Humming]
@@ -180,7 +185,7 @@ Minimal vintage soul funk with a tight bass pocket, crisp dry snare, and percuss
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Minimal vintage soul funk with a tight bass pocket, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed, delivered with quiet resignation. Closing groove — settle and release. Keep the groove steady, smooth, and worn-in with no bright hook or glossy pop finish. Groove is the star.
+Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed, delivered with quiet resignation. Closing groove — settle and release. Keep the groove steady, smooth, and worn-in with no bright hook or glossy pop finish. Groove is the star.
 ```
 
 **Lyrics:**
@@ -262,6 +267,7 @@ Yeah
 [Deep Warm Male Baritone]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1970 gospel-tinged soulful baritone era]
 [No Intro Humming]
@@ -269,7 +275,7 @@ Yeah
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone, restrained and slightly low-mixed, delivered with patient calm. Groove rolls steady — unhurried, grounded, no peaks. Keep it smooth and replayable with no bright hook or glossy pop lift. Groove is the star.
+Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, restrained and slightly low-mixed, delivered with patient calm. Groove rolls steady — unhurried, grounded, no peaks. Keep it smooth and replayable with no bright hook or glossy pop lift. Groove is the star.
 ```
 
 **Lyrics:**
@@ -352,6 +358,7 @@ Yeah
 [Low Resonant Vocal]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1972 urban cinematic soul funk era]
 [No Intro Humming]
@@ -359,7 +366,7 @@ Yeah
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Minimal vintage soul funk with a tight bass pocket, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed, delivered with calm authority. Surrender groove — let the pocket do the work. Keep the groove steady, deep, and vintage with no bright hook or glossy pop finish. Groove is the star.
+Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed, delivered with calm authority. Surrender groove — let the pocket do the work. Keep the groove steady, deep, and vintage with no bright hook or glossy pop finish. Groove is the star.
 ```
 
 **Lyrics:**
@@ -440,13 +447,14 @@ Yeah
 [Deep Warm Male Baritone]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [1971 urban cinematic soul funk era]
 [No Intro Humming]
 [Clean Cold Open]
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone, present but restrained, with direct confident delivery. Call-and-response energy in the bridge. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Groove is the star.
+Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, present but restrained, with direct confident delivery. Call-and-response energy in the bridge. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Groove is the star.
 ```
 
 **Lyrics:**
@@ -528,13 +536,14 @@ Yeah
 [Low Resonant Vocal]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [1972 warm intimate baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, present but restrained, delivered with unhurried calm authority. Settled, no-rush energy. Keep it grounded, masculine, and vintage without turning pop-forward. Groove is the star.
+Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, present but restrained, delivered with unhurried calm authority. Settled, no-rush energy. Keep it grounded, masculine, and vintage without turning pop-forward. Groove is the star.
 ```
 
 **Lyrics:**
@@ -615,13 +624,14 @@ Yeah
 [Deep Warm Male Baritone]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [1971 warm intimate baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone, present but restrained, with strong confident delivery. Call-and-response bridge. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Groove is the star.
+Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, present but restrained, with strong confident delivery. Call-and-response bridge. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Groove is the star.
 ```
 
 **Lyrics:**
@@ -704,6 +714,7 @@ Yeah
 [Low Resonant Vocal]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1971 gospel-tinged soulful baritone era]
 [No Intro Humming]
@@ -711,7 +722,7 @@ Yeah
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Minimal vintage soul funk with a tight bass pocket, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed, delivered with quiet finality. Last-call groove — steady wind-down. Keep the groove smooth, worn-in, and dark with no bright hook or glossy pop finish. Groove is the star.
+Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed, delivered with quiet finality. Last-call groove — steady wind-down. Keep the groove smooth, worn-in, and dark with no bright hook or glossy pop finish. Groove is the star.
 ```
 
 **Lyrics:**
@@ -793,6 +804,7 @@ Yeah
 [Deep Warm Male Baritone]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1970 gospel-tinged soulful baritone era]
 [No Intro Humming]
@@ -800,7 +812,7 @@ Yeah
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone, restrained and slightly low-mixed, delivered with fading warmth. Dimming groove — the room going quiet. Keep the groove steady, slow, and ember-warm with no bright hook or glossy pop lift. Groove is the star.
+Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, restrained and slightly low-mixed, delivered with fading warmth. Dimming groove — the room going quiet. Keep the groove steady, slow, and ember-warm with no bright hook or glossy pop lift. Groove is the star.
 ```
 
 **Lyrics:**
@@ -883,6 +895,7 @@ Yeah
 [Low Resonant Vocal]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1970 gospel-tinged soulful baritone era]
 [No Intro Humming]
@@ -890,7 +903,7 @@ Yeah
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Minimal vintage soul funk with a tight bass pocket, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed, delivered with quiet confrontational honesty. Call-and-response energy in the bridge. Keep the groove heavy, deep, and vintage with no bright hook or glossy pop finish. Groove is the star.
+Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed, delivered with quiet confrontational honesty. Call-and-response energy in the bridge. Keep the groove heavy, deep, and vintage with no bright hook or glossy pop finish. Groove is the star.
 ```
 
 **Lyrics:**
@@ -972,6 +985,7 @@ Yeah
 [Deep Warm Male Baritone]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1970 gospel-tinged soulful baritone era]
 [No Intro Humming]
@@ -979,7 +993,7 @@ Yeah
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone, restrained and slightly low-mixed, delivered with easy settled patience. One-more-drink groove — no rush, no decision. Keep the groove steady, smooth, and undemanding with no bright hook or glossy pop lift. Groove is the star.
+Minimal 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, restrained and slightly low-mixed, delivered with easy settled patience. One-more-drink groove — no rush, no decision. Keep the groove steady, smooth, and undemanding with no bright hook or glossy pop lift. Groove is the star.
 ```
 
 **Lyrics:**
@@ -1062,6 +1076,7 @@ Yeah
 [Low Resonant Vocal]
 [Restrained Low-Mixed Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [Steady Groove Throughout]
 [1972 urban cinematic soul funk era]
 [No Intro Humming]
@@ -1069,7 +1084,7 @@ Yeah
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Minimal vintage soul funk with a tight bass pocket, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed, delivered with deep settled authority. Midnight-depth groove — the room at its heaviest. Keep the groove slow, dark, and cinematic with no bright hook or glossy pop finish. Groove is the star.
+Minimal vintage soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, restrained and slightly low-mixed, delivered with deep settled authority. Midnight-depth groove — the room at its heaviest. Keep the groove slow, dark, and cinematic with no bright hook or glossy pop finish. Groove is the star.
 ```
 
 **Lyrics:**
@@ -1150,13 +1165,14 @@ Yeah
 [Deep Warm Male Baritone]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [1970 urban cinematic soul funk era]
 [No Intro Humming]
 [Clean Cold Open]
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight syncopated bassline up front, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone, present but restrained, with warm observational delivery. Bass-forward groove — the low-end is the hero. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Groove is the star.
+Groove-focused 70s soul funk with a tight syncopated bassline up front, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, present but restrained, with warm observational delivery. Bass-forward groove — the low-end is the hero. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Groove is the star.
 ```
 
 **Lyrics:**
@@ -1237,13 +1253,14 @@ Yeah
 [Deep Warm Male Baritone]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [1970 urban cinematic soul funk era]
 [No Intro Humming]
 [Clean Cold Open]
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone, present but restrained, with casual observational storytelling delivery. Character-study groove — cinematic and warm. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Groove is the star.
+Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, present but restrained, with casual observational storytelling delivery. Character-study groove — cinematic and warm. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Groove is the star.
 ```
 
 **Lyrics:**
@@ -1325,13 +1342,14 @@ Yeah
 [Low Resonant Vocal]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [1972 warm intimate baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, present but restrained, delivered with intimate self-reflective honesty. Warm red-light groove — revealing and accepting. Keep it grounded, masculine, and vintage without turning pop-forward. Groove is the star.
+Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, present but restrained, delivered with intimate self-reflective honesty. Warm red-light groove — revealing and accepting. Keep it grounded, masculine, and vintage without turning pop-forward. Groove is the star.
 ```
 
 **Lyrics:**
@@ -1412,13 +1430,14 @@ Yeah
 [Deep Warm Male Baritone]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [1971 warm intimate baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone, present but restrained, with easy settled arrival delivery. Arrival groove — claiming your space at the bar. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Groove is the star.
+Groove-focused 70s soul funk with a tight syncopated bassline, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone, present but restrained, with easy settled arrival delivery. Arrival groove — claiming your space at the bar. Keep it pocket-driven, body-moving, and vintage without drifting into bright modern pop. Groove is the star.
 ```
 
 **Lyrics:**
@@ -1500,13 +1519,14 @@ Yeah
 [Low Resonant Vocal]
 [Present but Restrained Vocal]
 [Percussive Rhodes Stabs]
+[Subtle Wah Chicken-Scratch]
 [1971 warm intimate baritone soul era]
 [No Intro Humming]
 [Clean Cold Open]
 [Start Directly with Lyrics]
 [No Pop Chorus Lift]
 
-Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, and percussive Rhodes stabs. Deep warm male baritone with weighty low resonance, present but restrained, delivered with warm welcoming authority. Opening groove — the bar comes alive in crimson light. Keep it grounded, inviting, and vintage without turning pop-forward. Groove is the star.
+Groove-focused 70s soul funk with a tight bass pocket, crisp dry snare, percussive Rhodes stabs, and subtle wah chicken-scratch. Deep warm male baritone with weighty low resonance, present but restrained, delivered with warm welcoming authority. Opening groove — the bar comes alive in crimson light. Keep it grounded, inviting, and vintage without turning pop-forward. Groove is the star.
 ```
 
 **Lyrics:**
