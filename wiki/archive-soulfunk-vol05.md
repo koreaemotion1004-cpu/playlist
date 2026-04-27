@@ -1617,4 +1617,205 @@ Yeah
 - **바리톤형:** 8곡 (T01, T03, T06, T08, T10, T12, T14, T16) ✅
 
 ---
-최종 업데이트: 2026-04-27
+
+# 📺 YouTube 업로드 자산 (확정)
+
+## 영상 길이 (실측)
+- **총 길이:** 55:44 (약 56분)
+- **Part 1 끝 / Part 2 시작:** 34:59 (T11)
+
+## 트랙별 타임스탬프 (실측 30fps 기준)
+
+| # | 시작 | 길이 | 제목 / 부제 |
+|---|---|---|---|
+| 01 | 00:00 | 3:19 | The Crimson Hour / first red light |
+| 02 | 03:19 | 3:27 | Bar Stool to Myself / sitting low |
+| 03 | 06:45 | 3:32 | Under the Red Lamp / what the light shows |
+| 04 | 10:18 | 3:23 | Back Booth Regular / same time every night |
+| 05 | 13:41 | 3:36 | Bass Man Keeps the Floor / walking that line |
+| 06 | 17:17 | 3:16 | Deep Red Gets Deeper / the room settles in |
+| 07 | 20:34 | 3:17 | One More and Nothing More / steady low |
+| 08 | 23:51 | 3:25 | Smoke and the Truth / mirror doesn't lie |
+| 09 | 27:16 | 4:11 | Crimson Burns to Embers / dim and slow |
+| 10 | 31:27 | 3:32 | Last Round, Bar Goes Dark / close it out |
+| 11 | 34:59 | 3:10 | Keep Your Head Up Right / command clarity |
+| 12 | 38:09 | 3:38 | Move on Your Own Time / command freedom |
+| 13 | 41:47 | 3:39 | Feel What You Feel / command truth |
+| 14 | 45:25 | 3:07 | Let the Night Work / command surrender |
+| 15 | 48:32 | 3:44 | Find Your Peace Now / command stillness |
+| 16 | 52:17 | 3:27 | Let It Go and Walk / closing release |
+
+---
+
+## 영상 설명글 (English)
+
+```
+sit in the crimson glow, pour the wine red bourbon.
+soul funk for late night bar lounge sessions.
+let the bass settle deep into the wooden floor.
+no rush, no proof, just crimson-burning groove.
+subscribe for more vintage soul funk nights.
+
+━━━━━━━━━━━━━━━━━━━━
+🍷 Crimson Late Night Bar — Slow Deep Groove (56 min)
+
+The bar deepens as the night does. Slide into the back booth, let the red lamp hold you steady, and watch the crimson hour burn slow until the last round walks out into the cool.
+
+A 56-minute curated mix of vintage 70s soul funk in two parts:
+  Part 1 — Crimson late night bar scenes (10 tracks, 0:00~34:59)
+  Part 2 — Quiet command grooves (6 tracks, 34:59~55:44)
+
+Deep warm baritone vocals. Tight 84 BPM funk pockets. Raw 1970s analog warmth. Percussive Rhodes stabs, crisp dry snare, and a subtle wah chicken-scratch carrying the pocket forward. No bright hooks, no polish — just slow deep groove for the hours that settle in.
+
+Perfect for:
+• Late night bar lounge hours when the room goes deep red
+• Slow deep groove sessions for crimson whiskey evenings
+• Sitting low, letting the night work, finding your own peace
+• Keeping your head up right, moving on your own time
+• Feeling what you feel, letting it go and walking it out
+• Long quiet hours after the last round
+• Background grooves for reading, conversation, reflection
+
+━━━━━━━━━━━━━━━━━━━━
+📀 TRACKLIST
+
+— Part 1: Crimson Late Night Bar Scenes —
+00:00 The Crimson Hour / first red light
+03:19 Bar Stool to Myself / sitting low
+06:45 Under the Red Lamp / what the light shows
+10:18 Back Booth Regular / same time every night
+13:41 Bass Man Keeps the Floor / walking that line
+17:17 Deep Red Gets Deeper / the room settles in
+20:34 One More and Nothing More / steady low
+23:51 Smoke and the Truth / mirror doesn't lie
+27:16 Crimson Burns to Embers / dim and slow
+31:27 Last Round, Bar Goes Dark / close it out
+
+— Part 2: Quiet Command Grooves —
+34:59 Keep Your Head Up Right / command clarity
+38:09 Move on Your Own Time / command freedom
+41:47 Feel What You Feel / command truth
+45:25 Let the Night Work / command surrender
+48:32 Find Your Peace Now / command stillness
+52:17 Let It Go and Walk / closing release
+
+━━━━━━━━━━━━━━━━━━━━
+🎷 Midnight Funk Bureau — Vintage soul funk for the quiet hours of the night.
+
+This music is produced with the help of AI.
+Each track is crafted to hold the vintage lounge atmosphere — low-lit, late, and unhurried.
+
+© 2026 Midnight Funk Bureau. All rights reserved.
+Unauthorized reproduction, redistribution, and commercial use strictly prohibited.
+
+━━━━━━━━━━━━━━━━━━━━
+soulfunk, latenightbar, slowdeepgroove, vintagesoulfunkplaylist, midnightfunk, crimson, soulfunkloungemix
+```
+
+## 영상 설명글 (한국어)
+
+```
+크림슨 빛 아래 앉아, 와인빛 버번을 따른다.
+늦은 밤 바 라운지를 위한 소울펑크.
+베이스라인이 나무 바닥 깊이 가라앉도록.
+서두름도, 증명도 없이, 오직 크림슨빛 그루브.
+빈티지 소울펑크의 밤 — 구독으로 함께하세요.
+
+━━━━━━━━━━━━━━━━━━━━
+🍷 Crimson Late Night Bar — Slow Deep Groove (56분)
+
+밤이 깊어지듯, 바도 깊어집니다. 뒷자리 부스에 자리 잡고, 붉은 램프가 당신을 가만히 받쳐주는 동안, 크림슨의 시간이 천천히 타들어 마지막 잔이 차가운 바깥으로 걸어 나갈 때까지 기다려 보세요.
+
+56분 길이의 빈티지 70년대 소울펑크 큐레이션. 두 파트로 구성:
+  Part 1 — 크림슨빛 라운지 바의 장면들 (10곡, 0:00~34:59)
+  Part 2 — 조용한 명령형 그루브 (6곡, 34:59~55:44)
+
+깊고 따뜻한 남성 바리톤 보컬. 84 BPM의 단단한 펑크 포켓. 거친 1970년대 아날로그 따뜻함. 로즈 스탭, 드라이한 스네어, 그리고 포켓을 끌고 가는 은은한 와우 치킨 스크래치. 화려한 훅도 매끈한 광택도 없이 — 가라앉는 시간을 위한 슬로우 딥 그루브만.
+
+이런 순간에 어울립니다:
+• 방이 깊은 붉은빛으로 물드는 늦은 밤 바 라운지의 시간
+• 크림슨빛 위스키와 함께하는 슬로우 딥 그루브 세션
+• 낮게 앉아, 밤이 일하도록 두고, 자신의 평화를 찾을 때
+• 고개를 바로 들고, 자신의 시간으로 움직이라는 권유
+• 느끼는 그대로 느끼고, 놓아주고 걸어 나갈 때
+• 마지막 잔 이후의 길고 조용한 시간
+• 독서·사색·조용한 대화의 배경음
+
+━━━━━━━━━━━━━━━━━━━━
+📀 트랙리스트
+
+— Part 1: 크림슨빛 라운지 바의 장면들 —
+00:00 The Crimson Hour / first red light
+03:19 Bar Stool to Myself / sitting low
+06:45 Under the Red Lamp / what the light shows
+10:18 Back Booth Regular / same time every night
+13:41 Bass Man Keeps the Floor / walking that line
+17:17 Deep Red Gets Deeper / the room settles in
+20:34 One More and Nothing More / steady low
+23:51 Smoke and the Truth / mirror doesn't lie
+27:16 Crimson Burns to Embers / dim and slow
+31:27 Last Round, Bar Goes Dark / close it out
+
+— Part 2: 조용한 명령형 그루브 —
+34:59 Keep Your Head Up Right / command clarity
+38:09 Move on Your Own Time / command freedom
+41:47 Feel What You Feel / command truth
+45:25 Let the Night Work / command surrender
+48:32 Find Your Peace Now / command stillness
+52:17 Let It Go and Walk / closing release
+
+━━━━━━━━━━━━━━━━━━━━
+🎷 Midnight Funk Bureau — 밤의 조용한 시간을 위한 빈티지 소울펑크.
+
+이 음악은 AI를 활용해 제작되었습니다.
+한 곡 한 곡, 빈티지 라운지의 분위기 — 어둑하고 늦은, 서두르지 않는 결을 살려 만들었습니다.
+
+© 2026 Midnight Funk Bureau. All rights reserved.
+무단 전재·재배포·상업적 이용을 엄격히 금지합니다.
+
+━━━━━━━━━━━━━━━━━━━━
+소울펑크, 늦은밤바라운지, 슬로우딥그루브, 빈티지소울펑크플레이리스트, 미드나잇펑크, 크림슨라운지, 작업용BGM
+```
+
+---
+
+## 오프닝 5줄 4종
+
+### 메인 (설명글 사용)
+```
+sit in the crimson glow, pour the wine red bourbon.
+soul funk for late night bar lounge sessions.
+let the bass settle deep into the wooden floor.
+no rush, no proof, just crimson-burning groove.
+subscribe for more vintage soul funk nights.
+```
+
+### 변주 A — 부스 입장 (회복·정착)
+```
+slide into the back booth, dim the red lamp low.
+soul funk for late night whiskey hours.
+let the rhodes settle into the deep red grain.
+no clock, no calls, just crimson-lit groove.
+subscribe for more vintage soul funk nights.
+```
+
+### 변주 B — 명령형 강조 (Mellow_Funk Part 2 매칭) ⭐
+```
+keep your head up right, move on your own time.
+soul funk for late night bar lounge sessions.
+let the groove hold what the day held tight.
+no proof, no hurry, just feel what you feel.
+subscribe for more vintage soul funk nights.
+```
+
+### 변주 C — 빈티지·임버스 (Closing 톤)
+```
+watch the crimson burn down to embers.
+soul funk for late night bar quiet hours.
+let the pocket walk the wooden floor home.
+no bright lights, no rush, just 70s warmth.
+subscribe for more vintage soul funk nights.
+```
+
+---
+최종 업데이트: 2026-04-28 (vol.04 영상 렌더링 완료 + 설명글 영문/한국어 + 오프닝 5줄 4종 확정)
