@@ -70,13 +70,12 @@
 
 → 매 vol 1~2 트랙에 의도적으로 박아서 채널 색깔 형성
 
-### ⭐⭐⭐ D 패턴 — 사용자 채널 챔피언 차용 (38줄, 2026-04-30 신설)
+### ⭐⭐⭐ D 패턴 — 사용자 채널 챔피언 차용 (36줄, 2026-04-30 신설 · 2026-04-30 [Intro] 섹션 제거)
 
 **근거:** 사용자 채널 최고 조회 곡 가사 분석 (Refrain 구조 + 부재의 시 + 단편 Outro)
 
 ```
-[Intro]                          ← 2~4줄, 부정 이미지 시그니처 ("No sound, No voice...")
-[Verse 1]                        ← 4줄 AABB 엄격
+[Verse 1]                        ← 4줄 AABB 엄격 (부정 이미지 시그니처는 이 첫 줄에 통합)
 [Verse 2]                        ← 4줄 AABB 엄격
 [Verse 3]                        ← 4줄 AABB 엄격
 [Refrain]                        ← 4줄 (Chorus 아님!) — Suno 빅 코러스 drop 트리거 회피
@@ -87,17 +86,48 @@
 [Outro, Piano Linger]            ← 단편 4줄, 2~3 단어 짧은 줄, ellipsis로 닫음
 ```
 
-→ 총 **~38줄** (C 패턴과 같은 길이, 다른 구조)
+→ 총 **~36줄** (C 패턴과 비슷한 길이, 다른 구조)
 → 적용 시점: **vol.16부터**
+
+### ⚠️ [Intro] 섹션 제거 이유 (2026-04-30 정정)
+
+이전 D 패턴 정의는 `[Intro]` 섹션에 가사를 박았으나, **Style of Music의 `[Instrumental Jazz Intro 8 Bars]` 태그와 충돌**.
+
+- Style: 8마디 악기만, 가사 진입은 bar 8 이후
+- Lyrics에 `[Intro]` 가사 박으면 Suno가 가사 부름 → 인트로 8마디가 사라지거나 해당 가사가 부르고 다시 Verse 1 부름
+
+**해결:** D 패턴 lyrics 필드에 `[Intro]` 섹션 박지 않음. 8마디 instrumental 인트로는 Style 태그가 처리. 부정 이미지 시그니처는 **Verse 1 첫 줄로 통합**.
+
+**예시:**
+```
+[Verse 1]
+No clatter through the room today
+The morning poured its light away
+The cup is warm, the saucer still
+The window holds its time at will
+```
 
 ### D 패턴 핵심 차별점
 1. **`[Chorus]` → `[Refrain]`** — Suno 빅 코러스 drop 트리거 회피 ⭐⭐⭐
 2. **5 Verses + 2 Refrains** — 빅 빌드업 없이 서사 풍성
 3. **섹션 라벨에 수행 지시 통합** — `[Bridge, Whisper Flow]` `[Outro, Piano Linger]` `[Refrain, Final Low Variation]`
-4. **부정 이미지 시그니처** (Intro) — "No sound, No voice, No trace" 패턴
-5. **단편 Outro** — 2~3 단어 짧은 줄 + ellipsis ("Still warm / Still still / We left / It will...")
-6. **AABB 엄격** — 모든 couplet 정확 끝운
-7. **내부 메타태그 제거** (`[low, intimate]` 등 X) — 라벨로 통합
+4. **단편 Outro** — 2~3 단어 짧은 줄 + ellipsis ("Still warm / Still still / We left / It will...")
+5. **AABB 엄격** — 모든 couplet 정확 끝운
+6. **내부 메타태그 제거** (`[low, intimate]` 등 X) — 라벨로 통합
+7. **lyrics 필드에 `[Intro]` 섹션 박지 않음** — Style 태그 `[Instrumental Jazz Intro 8 Bars]`와 충돌 회피 ⭐⭐⭐
+
+### Verse 1 첫 줄 옵션 (D 패턴 — 다양화 의무)
+
+⚠️ **모든 D 패턴 곡이 "No ___"로 시작하면 모노톤** → 곡마다 다른 오프너 사용 필수.
+
+| 옵션 | 예시 | 사용 빈도 |
+|---|---|---|
+| **A. 구체사물+동사ing+위치** (Velmora 공식) | "Morning coffee in my hand" / "The window holds the light just so" | **D 패턴 곡의 50%** |
+| **B. 부정 이미지 시그니처** (사용자 챔피언) | "No clatter through the room today" / "No sound behind the door we closed" | **D 패턴 곡의 30%** |
+| **C. 시간/계절 풍경** | "The afternoon stayed soft and warm" / "Evening folded slow and low" | **D 패턴 곡의 20%** |
+
+→ vol당 D 패턴 2~4곡 → 각 옵션 1~2곡씩 분배 (같은 옵션 2곡 연속 금지)
+→ 부정 이미지(B)는 **시그니처 톤**이지 **모든 D 곡 의무는 아님**
 
 ---
 
@@ -109,7 +139,7 @@
 - 10곡 중 **A 패턴 (22줄): 1~3곡**
 - 10곡 중 **B 패턴 (26줄): 2~3곡**
 - 10곡 중 **C 패턴 (38줄): 2~3곡**
-- 10곡 중 **D 패턴 (38줄, Refrain): 2~4곡**
+- 10곡 중 **D 패턴 (36줄, Refrain, [Intro] 섹션 없음): 2~4곡**
 - 어느 한 패턴이 5곡 이상 쏠리지 않도록 한다
 
 ### 배치 자유 — 무작위 분포
@@ -123,7 +153,7 @@
 | **A 압축형** | 22 | 짧고 정적 (last sip / closing hour) |
 | **B 균형형** | 26 | 짧고 압축 + Chorus 2회 (quiet moment) |
 | **C 서사형** | 38 | 풍부한 서사 + 시그니처 훅 (morning / golden hour) |
-| **D 명상형** | 38 | 부재의 시 + Refrain (departure / silence) |
+| **D 명상형** | 36 | 부재의 시 + Refrain (departure / silence) — [Intro] 섹션 없음 |
 
 ### 시그니처 훅 분배
 - C 패턴 곡 중 **2곡**에 시그니처 훅 박기 (`Pour it slow, let it stay` 등)
@@ -333,4 +363,4 @@ Outro:    여운, 첫 장면 회귀            → 감정 20%
 - 송폼 태그만 깔끔하게
 
 ---
-최종 업데이트: 2026-04-30 (A/B/C/D 4 패턴 + 10곡 무작위 분포 + Refrain 도입 + Instrumental Jazz Intro 8마디 + 잠금 템플릿 971자 검증)
+최종 업데이트: 2026-04-30 (A/B/C/D 4 패턴 + 10곡 무작위 분포 + Refrain 도입 + Instrumental Jazz Intro 8마디 + 잠금 템플릿 971자 검증 + D 패턴 [Intro] 섹션 제거 — Style 태그 충돌 해결)
