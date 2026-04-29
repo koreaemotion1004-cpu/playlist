@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+/* Remotion 투명 배경 렌더링용 — Tailwind preflight의 흰 배경 제거 */
+html, body {
+  background: transparent !important;
+  background-color: transparent !important;
+}

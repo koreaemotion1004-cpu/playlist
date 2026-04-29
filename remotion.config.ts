@@ -8,6 +8,6 @@
 import { Config } from "@remotion/cli/config";
 import { enableTailwind } from '@remotion/tailwind-v4';
 
-Config.setVideoImageFormat("jpeg");
+Config.setVideoImageFormat("png"); // png = alpha channel 지원 (투명 배경 WebM)
 Config.setOverwriteOutput(true);
 Config.overrideWebpackConfig(enableTailwind);
