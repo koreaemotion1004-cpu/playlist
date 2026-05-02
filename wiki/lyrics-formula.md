@@ -75,13 +75,13 @@
 **근거:** 사용자 채널 최고 조회 곡 가사 분석 (Refrain 구조 + 부재의 시 + 단편 Outro)
 
 ```
-[Verse 1]                        ← 4줄 AABB 엄격 (부정 이미지 시그니처는 이 첫 줄에 통합)
-[Verse 2]                        ← 4줄 AABB 엄격
-[Verse 3]                        ← 4줄 AABB 엄격
+[Verse 1]                        ← 4줄 (라임 구조 자유 — 부정 이미지 시그니처는 이 첫 줄에 통합)
+[Verse 2]                        ← 4줄 (라임 자유)
+[Verse 3]                        ← 4줄 (라임 자유)
 [Refrain]                        ← 4줄 (Chorus 아님!) — Suno 빅 코러스 drop 트리거 회피
-[Verse 4]                        ← 4줄 AABB 엄격
+[Verse 4]                        ← 4줄 (라임 자유)
 [Bridge, Whisper Flow]           ← 4줄 — 라벨에 수행 지시 통합
-[Verse 5]                        ← 4줄 AABB 엄격
+[Verse 5]                        ← 4줄 (라임 자유)
 [Refrain, Final Low Variation]   ← 4줄 — 변주 지시
 [Outro, Piano Linger]            ← 단편 4줄, 2~3 단어 짧은 줄, ellipsis로 닫음
 ```
@@ -112,7 +112,7 @@ The window holds its time at will
 2. **5 Verses + 2 Refrains** — 빅 빌드업 없이 서사 풍성
 3. **섹션 라벨에 수행 지시 통합** — `[Bridge, Whisper Flow]` `[Outro, Piano Linger]` `[Refrain, Final Low Variation]`
 4. **단편 Outro** — 2~3 단어 짧은 줄 + ellipsis ("Still warm / Still still / We left / It will...")
-5. **AABB 엄격** — 모든 couplet 정확 끝운
+5. **AABB 권장 (강제 X)** — couplet 라임 자연스럽게 (강제 시 인공적 / 2026-05-03 강제 해제)
 6. **내부 메타태그 제거** (`[low, intimate]` 등 X) — 라벨로 통합
 7. **lyrics 필드에 `[Intro]` 섹션 박지 않음** — Style 태그 `[Instrumental Jazz Intro 8 Bars]`와 충돌 회피 ⭐⭐⭐
 
@@ -283,18 +283,29 @@ No saxophone, trumpet, horns, brass. No jazz trio, no walking bass, no strong rh
 - Outro: 4줄 (Verse 1 장면 회귀, 1줄 금지)
   - **D 패턴 Outro 예외:** 2~3단어 단편 4줄 (`Still warm / Still still / We left / It will...`)
 
-## ⭐ AABB 라임 강제 (Velmora 검증 — vol.15부터 의무)
+## ⚠️ AABB 라임 강제 해제 (2026-05-03)
 
-**vol.10~14:** 약한 라임 (자유로운 흐름)
-**vol.15~ 신규:** AABB 의무 — 매 절 첫 두 줄 강한 끝운 매칭
+**이전 (vol.15~):** AABB 강제 의무
+**현재 (2026-05-03~):** AABB 권장 — 강제 X
 
-**예시 (Velmora 챔피언 "Tea Time Moments"):**
+**해제 사유:**
+- AABB 강제 시 가사가 인공적·억지스러움
+- 자연스러운 흐름이 BGM에 더 적합
+- Velmora·DeepPocket 둘 다 강한 라임이 시그니처지만, 우리는 자연스러움 우선
+
+**규칙:**
+- 라임 자연스럽게 들어오면 사용 (강한 끝운 = 좋음)
+- 억지로 맞추지 말 것
+- 부정확한 라임(slant rhyme)도 OK
+
+**참고 예시 (Velmora 챔피언):**
 ```
 Tea leaves dancing in the cup     ← cup
-Warmth is slowly rising up         ← up (강한 라임)
+Warmth is slowly rising up         ← up (강한 라임 — 자연스럽게)
 Morning light upon the table       ← table
-Soft and stable                    ← stable (강한 라임)
+Soft and stable                    ← stable
 ```
+→ 자연스럽게 흘러나오면 OK, 억지로 맞추지 말 것
 
 ## ⭐ Verse 첫 줄 공식 (Velmora 검증)
 

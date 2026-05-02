@@ -589,7 +589,7 @@ For now the silence holds the best
 - ✅ 같은 패턴 3곡 연속 금지
 - ✅ D 패턴 Verse 1 오프너 3가지 옵션 분배 (A형 1 / B형 1 / C형 1)
 - ✅ Refrain 사용 (D 패턴 only — Chorus drop 트리거 회피)
-- ✅ AABB 라임 엄격 적용
+- ⚠️ AABB 라임 강제 — 2026-05-03 강제 해제됨 (자연스러운 라임 권장)
 - ✅ Velmora 어휘 70%+ 사용
 - ✅ Verse 첫 줄 공식 (구체사물+동사+위치)
 - ✅ 시그니처 훅 도입 (T02 "take it slow let it flow" / T07 "hold the cup hold the day")

@@ -238,10 +238,10 @@ Velmora 시그니처:
 ```
 → 매 vol 1~2개 트랙에 반복 등장시켜 채널 정체성 형성
 
-### 5️⃣ ⭐⭐ AABB 강한 라임 강제
+### 5️⃣ AABB 라임 권장 (강제 해제 — 2026-05-03)
 ```
 이전 (vol.10~14): 약한 라임, 자유로운 흐름
-신규 (vol.15~):  AABB 의무 — 매 절 첫 두 줄 강한 끝운
+신규 (vol.15~ 2026-05-03 갱신): AABB 권장 (강제 X) — 자연스럽게 들어오면 사용, 억지로 맞추지 말 것
 ```
 
 예시:
@@ -277,7 +277,7 @@ Soft and stable                    ← stable (강한 라임)
 
 - [ ] 제목: `Quiet Morning Cafe Jazz | Relaxing 1940s Home Café Playlist | A Quiet Day` (또는 부제 변형)
 - [ ] 가사 40~50줄 (C 패턴 신설)
-- [ ] AABB 라임 강제
+- [ ] AABB 라임 권장 (강제 X)
 - [ ] Velmora 어휘 라이브러리 70% 사용
 - [ ] 시그니처 훅 1~2개 트랙에 도입 (`Pour it slow, let it stay`)
 - [ ] 설명글 친근 톤 + 트랙리스트 제거 시도
