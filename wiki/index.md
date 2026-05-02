@@ -47,11 +47,12 @@ AI가 매 세션마다 이 위키를 참조하여 일관된 품질의 아웃풋�
 - [[소설-아카이브]] — 각 Vol 소설 전문
 - [[opening-line-formula]] — 5줄 오프닝 문구 공식
 
-**Line 3: Soul Funk** (신규)
+**Line 3: Soul Funk** (2026-04-30 — DeepPocketStudio MAIN 승격)
 - [[소울펑크]] — Vintage/Minimal/Classic Soul Funk
 - 보컬: **남자 Baritone 기본** (차분·그루비)
-- MAIN: BoomSlick / SUB: BOOM PULSE + MonoLux
-- 주제: 자기 성찰·철학·정체성
+- **MAIN: DeepPocketStudio** ⭐ (2026-04-30 변경) / SUB1: Mellow_Funk / SUB2: BoomSlick / SUB3: BOOM PULSE / SUB4: MonoLux
+- 주제: 자기 성찰·철학·정체성 + **메타-가사** (악기 직접 묘사, DeepPocket 시그니처)
+- 카피캣 전략: 패턴·라임·테마 카피, 정확한 가사 표현 변형 (저작권 회피)
 
 **Line 4: Gospel** (신규 분리)
 - [[가스펠]] — 성경·찬양·복음 전용 장르
