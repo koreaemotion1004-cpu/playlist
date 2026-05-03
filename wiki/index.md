@@ -96,6 +96,7 @@ AI가 매 세션마다 이 위키를 참조하여 일관된 품질의 아웃풋�
 - [[archive-vol06-10]] — 가사 아카이브 Vol.6~10
 - [[archive-vol15]] ⭐ — **Cafe Jazz Vol.15** (Velmora 풀 첫 진입 · Mono no Aware 절절한 사랑 소설 첫 적용 · 「届かなかった手紙」)
 - [[archive-vol16]] ⭐⭐ — **Cafe Jazz Vol.16** (A/B/C/D 4 패턴 첫 적용 · 사용자 챔피언 프롬프트 통합 · Refrain · Instrumental Jazz Intro · 10곡)
+- [[archive-vol17]] ⭐ — **Cafe Jazz Vol.17** (A/B/C/D 무작위 + AABB 강제 해제 첫 적용 · Velmora 상위 2공 VPH 조합 제목 · "A Lovely Tea Day")
 - [[archive-soulfunk-vol06]] ⭐ — **Soul Funk Vol.06 (내부) / Vol.05 (채널)** Honey Gold Late Night Bar (10곡 30:05 · Late Night Bar VPH 510 챔피언 풀 직격)
 - [[archive-prompts]] — Suno 프롬프트 아카이브
 
