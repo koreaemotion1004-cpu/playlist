@@ -60,6 +60,17 @@ AI가 매 세션마다 이 위키를 참조하여 일관된 품질의 아웃풋�
 - [[성경기반-가사-공식]] — BOOM PULSE 역분석, 성경 이야기 가사화
 - Soul Funk에서 독립 (에너지·음역·썸네일 전략 다름)
 
+**Line 6: Tribal Lounge Jazz** (2026-05-04 신설)
+- [[트라이벌라운지재즈]] — Tribal Lounge Jazz 통합 공식
+- 보컬: ❌ **인스트루멘탈 전용** (부족 타악기 + 재즈)
+- **MAIN: LushTribalHour** ⭐⭐⭐ (채널 나이 2주 / 챔피언 20만뷰 VPH 296)
+- 케이스 스터디: [[lushtribalhour-case-study]]
+- 제목 공식: `[딥/최면/미드나잇] 트라이벌 재즈 | [아프로/신성한] 리추얼 ~ [분위기]`
+- 해시태그: `#TribalJazz #SacredGrooves #DeepFocus`
+- 영상 길이: **1시간** (챔피언 검증)
+- 업로드 빈도: 주 4회 이상
+- 청중: 글로벌 다국어 (아프리카·동유럽·아시아), 집중·명상·심야 BGM
+
 **Line 5: Neo Soul** (신규 분리)
 - [[네오소울]] — Mac Ayres, Bill Withers 스타일 모던 소울
 - 보컬: **남자 Baritone** (Soul Funk Line 3와 동일)
@@ -73,6 +84,7 @@ AI가 매 세션마다 이 위키를 참조하여 일관된 품질의 아웃풋�
 - [[loopstate-lyrics-analysis]] — **Loopstate 가사 나노 분석** (5개 영상 · 훅 패턴 카탈로그 · 이미지 어휘 사전 · 우리 채널 적용 인사이트)
 - [[loopstate-lyrics-archive]] — **Loopstate 가사 아카이브** (ep.21·06·04·23·22 전 트랙 가사 원문 수록)
 - [[velmorajazz-case-study]] ⭐⭐⭐ — **VelmoraJazz 채널 나노 분석** (Cafe BGM 신규 챔피언 · VPH 377 / 평균 105 · 13편 전수 VPH + 가사 3편 분석 · Cafe Jazz Line 1 vol.15부터 즉시 전환)
+- [[lushtribalhour-case-study]] ⭐⭐⭐ — **LushTribalHour 채널 나노 분석** (Tribal Lounge Jazz 레퍼런스 · 채널 나이 2주 · 챔피언 20만 VPH 296 · 16편 전수 VPH · 설명글·태그 공식 해부)
 - [[mellowfunk-case-study]] ⭐⭐⭐ — **Mellow Funk 채널 나노 분석** (Soul Funk 메인 레퍼런스 · 구독자 4.5K · 7일 +24만 조회 · Late Night Bar 20만 바이럴 60.7x · 제목/공간명/Slow Deep Groove 고정 부제 공식)
 - [[deeppocketstudio-case-study]] ⭐⭐ — **DeepPocketStudio 채널 나노 분석** (Soul Funk 신생 경쟁자 · 1개월 만에 임계점 돌파 · Vol.5 바이럴 36.8x · 12편 전수 VPH · 제목/썸네일/태그 공식 해부)
 
@@ -110,7 +122,7 @@ AI가 매 세션마다 이 위키를 참조하여 일관된 품질의 아웃풋�
 - [[lyrics-meta-tags]] ⭐⭐ — **가사 메타태그 마스터 레퍼런스** (Intro/Verse/Chorus/Bridge/Outro 섹션별 + 4개 라인별 적합도 매핑 + 부정 프롬프트)
 
 ---
-최종 업데이트: 2026-04-28 (VelmoraJazz 케이스 스터디 등록 + lyrics-formula B/C 패턴 무작위 분포 + Velmora 제목 공식 적용)
+최종 업데이트: 2026-05-04 (Line 6 Tribal Lounge Jazz 신설 · LushTribalHour 케이스 스터디 등록) (VelmoraJazz 케이스 스터디 등록 + lyrics-formula B/C 패턴 무작위 분포 + Velmora 제목 공식 적용)
 
 ## 📌 Line 분리 확정 (2026-04-24)
 - 기존 "Line 1: Cafe Jazz + Noir" 통합 구조 → **Line 1 Cafe Jazz / Line 2 Noir Jazz 완전 분리**
