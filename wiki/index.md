@@ -86,7 +86,8 @@ AI가 매 세션마다 이 위키를 참조하여 일관된 품질의 아웃풋�
 - [[velmorajazz-case-study]] ⭐⭐⭐ — **VelmoraJazz 채널 나노 분석** (Cafe BGM 신규 챔피언 · VPH 377 / 평균 105 · 13편 전수 VPH + 가사 3편 분석 · Cafe Jazz Line 1 vol.15부터 즉시 전환)
 - [[lushtribalhour-case-study]] ⭐⭐⭐ — **LushTribalHour 채널 나노 분석** (Tribal Lounge Jazz 레퍼런스 · 채널 나이 2주 · 챔피언 20만 VPH 296 · 16편 전수 VPH · 설명글·태그 공식 해부)
 - [[mellowfunk-case-study]] ⭐⭐⭐ — **Mellow Funk 채널 나노 분석** (Soul Funk 메인 레퍼런스 · 구독자 4.5K · 7일 +24만 조회 · Late Night Bar 20만 바이럴 60.7x · 제목/공간명/Slow Deep Groove 고정 부제 공식)
-- [[deeppocketstudio-case-study]] ⭐⭐ — **DeepPocketStudio 채널 나노 분석** (Soul Funk 신생 경쟁자 · 1개월 만에 임계점 돌파 · Vol.5 바이럴 36.8x · 12편 전수 VPH · 제목/썸네일/태그 공식 해부)
+- [[deeppocketstudio-case-study]] ⭐⭐⭐ — **DeepPocketStudio 채널 나노 분석** (Soul Funk MAIN 레퍼런스 · 1개월 만에 임계점 돌파 · Vol.5 바이럴 36.8x · 12편 전수 VPH · 5대 가사 시그니처)
+- [[softvintage-case-study]] ⭐ — **SOFT VINTAGE 채널 나노 분석** (Soul Funk SUB 5 · 구독 1.5K · 20편/20일 발행 · 챔피언 VPH 137 · 같은 제목 재발행 + 동일 설명글 100% 복붙 + 헤어진 사랑 메타-가사)
 
 ### 음악 제작 (Suno)
 - [[suno-core-dna]] — Core DNA 프롬프트 (고정 세계관)
