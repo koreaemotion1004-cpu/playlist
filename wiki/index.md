@@ -63,13 +63,24 @@ AI가 매 세션마다 이 위키를 참조하여 일관된 품질의 아웃풋�
 **Line 6: Tribal Lounge Jazz** (2026-05-04 신설)
 - [[트라이벌라운지재즈]] — Tribal Lounge Jazz 통합 공식
 - 보컬: ❌ **인스트루멘탈 전용** (부족 타악기 + 재즈)
-- **MAIN: LushTribalHour** ⭐⭐⭐ (채널 나이 2주 / 챔피언 20만뷰 VPH 296)
+- **MAIN: LushTribalHour** ⭐⭐⭐ (채널 나이 2주 / 챔피언 21만뷰 VPH 296)
 - 케이스 스터디: [[lushtribalhour-case-study]]
 - 제목 공식: `[딥/최면/미드나잇] 트라이벌 재즈 | [아프로/신성한] 리추얼 ~ [분위기]`
 - 해시태그: `#TribalJazz #SacredGrooves #DeepFocus`
 - 영상 길이: **1시간** (챔피언 검증)
 - 업로드 빈도: 주 4회 이상
 - 청중: 글로벌 다국어 (아프리카·동유럽·아시아), 집중·명상·심야 BGM
+
+**Line 7: Middle Eastern Jazz** (2026-05-06 신설 — 추후 검토)
+- [[페르시안재즈]] — Persian Jazz 통합 공식 (Persian Twilight + We Are Jazz)
+- [[arabianjazz-case-study]] — Traditional Arabian Jazz 채널 나노 분석
+- 보컬: ❌ **인스트루멘탈 전용**
+- **MAIN: Persian Twilight** ⭐⭐⭐ (챔피언 11만뷰 477VPH 67.1x · Persian Jazz + Deep House 결합)
+- **SUB: Traditional Arabian Jazz** ⭐⭐ (채널 나이 4주 · 챔피언 14만뷰 154VPH · Arabian Jazz + Hip Hop 결합)
+- 핵심 전략: **Middle Eastern 전통 악기 + 현대 장르 결합** → 다중 알고리즘 풀 동시 진입
+- 서브장르: Persian Jazz Fusion / Arabian Oud Jazz / Arabic Hip Hop
+- 영상 길이: **1시간** (두 채널 모두 검증)
+- 결론: **별도 채널 또는 추후 라인으로 검토** (기존 채널 컨셉과 분리 필요)
 
 **Line 5: Neo Soul** (신규 분리)
 - [[네오소울]] — Mac Ayres, Bill Withers 스타일 모던 소울
@@ -88,6 +99,9 @@ AI가 매 세션마다 이 위키를 참조하여 일관된 품질의 아웃풋�
 - [[mellowfunk-case-study]] ⭐⭐⭐ — **Mellow Funk 채널 나노 분석** (Soul Funk 메인 레퍼런스 · 구독자 4.5K · 7일 +24만 조회 · Late Night Bar 20만 바이럴 60.7x · 제목/공간명/Slow Deep Groove 고정 부제 공식)
 - [[deeppocketstudio-case-study]] ⭐⭐⭐ — **DeepPocketStudio 채널 나노 분석** (Soul Funk MAIN 레퍼런스 · 1개월 만에 임계점 돌파 · Vol.5 바이럴 36.8x · 12편 전수 VPH · 5대 가사 시그니처)
 - [[softvintage-case-study]] ⭐ — **SOFT VINTAGE 채널 나노 분석** (Soul Funk SUB 5 · 구독 1.5K · 20편/20일 발행 · 챔피언 VPH 137 · 같은 제목 재발행 + 동일 설명글 100% 복붙 + 헤어진 사랑 메타-가사)
+- [[odelier-case-study]] ⭐⭐ — **Odelier 브랜드 채널 나노 분석** (OdelierJazz 챔피언 46만뷰 22.7x · VPH 전수 27편 · 레트로 일러스트+고양이 썸네일 · 10시간 No Ads 전략 / TheOdelier 챔피언 19만뷰 9.4x · 문학 IP×코지 클래식)
+- [[arabianjazz-case-study]] ⭐⭐ — **Traditional Arabian Jazz 채널 나노 분석** (채널 나이 4주 · 29편 전수 VPH · 챔피언 14만뷰 154VPH · 10만뷰 385VPH · Arabian Jazz × Arabic Hip Hop 이중 풀 전략)
+- [[페르시안재즈]] ⭐⭐⭐ — **Persian Jazz 통합 공식** (Persian Twilight MAIN · 챔피언 11만뷰 477VPH 67.1x · Persian Jazz+Deep House 다중 풀 전략 · We Are Jazz SUB 분석)
 
 ### 음악 제작 (Suno)
 - [[suno-core-dna]] — Core DNA 프롬프트 (고정 세계관)
@@ -123,7 +137,7 @@ AI가 매 세션마다 이 위키를 참조하여 일관된 품질의 아웃풋�
 - [[lyrics-meta-tags]] ⭐⭐ — **가사 메타태그 마스터 레퍼런스** (Intro/Verse/Chorus/Bridge/Outro 섹션별 + 4개 라인별 적합도 매핑 + 부정 프롬프트)
 
 ---
-최종 업데이트: 2026-05-04 (Line 6 Tribal Lounge Jazz 신설 · LushTribalHour 케이스 스터디 등록) (VelmoraJazz 케이스 스터디 등록 + lyrics-formula B/C 패턴 무작위 분포 + Velmora 제목 공식 적용)
+최종 업데이트: 2026-05-06 (Line 7 Middle Eastern Jazz 신설 · 페르시안재즈 + 아라비안재즈 케이스 스터디 등록 · OdelierJazz 케이스 스터디 등록 · LushTribalHour 챔피언 21만뷰로 수정)
 
 ## 📌 Line 분리 확정 (2026-04-24)
 - 기존 "Line 1: Cafe Jazz + Noir" 통합 구조 → **Line 1 Cafe Jazz / Line 2 Noir Jazz 완전 분리**
