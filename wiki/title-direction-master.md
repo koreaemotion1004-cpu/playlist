@@ -1,15 +1,17 @@
-# 🎯 제목 생성 마스터 전략 (A/B 이중 공식)
+# 🎯 제목 생성 마스터 전략 (전 라인 통합)
 
-**확정일:** 2026-04-20
+**확정일:** 2026-04-20 | **Line 1 추가:** 2026-05-06
 **검증:** YouTube 시크릿 모드 실측 완료
 
 ## 핵심 전략 한 줄
 
-**"두 공식을 Vol마다 번갈아 사용 → 대형 에버그린 풀 + 현재 핫 트렌드 풀 동시 장악"**
+**"벤치마크 채널 인기순 상위 제목에서 검증된 키워드 추출 → 시크릿 모드 검색 확인 → 제목 확정"**
 
 ---
 
-## 📊 실측 검증된 트래픽 풀 (2026-04-20)
+## 📊 실측 검증된 트래픽 풀
+
+### Line 2 (Noir Jazz) 풀 — 2026-04-20 실측
 
 | 타겟 채널 | 조회수 | VPH | 상태 |
 |---------|-------|-----|------|
@@ -22,11 +24,108 @@
 | **PinkPantherlounge** (Secrets) | 9.1천 | 22 (10.1x) | 신규 성장 |
 | Pink Panther Deloré | 956 | 3 (38.4x) | 신규 성장 |
 | Fikatone | 9만 | 177 | 상승 중 |
-| **Mysig** | 3~10k | 16~24 | ❄️ 냉각기 (우선순위 ↓) |
+
+### Line 1 (Cafe Jazz) 풀 — 2026-05-06 실측
+
+| 타겟 채널 | 챔피언 VPH | 상태 |
+|---------|-----------|------|
+| **Mysig.** (@Mysig.Sounds) | **61 VPH / >100x** ⭐⭐⭐ | 🔥 활성 (기존 냉각기 오판 — 수정) |
+| **OdelierJazz** (@OdelierJazz) | **130 VPH / 22.7x** ⭐⭐⭐ | 🔥 활성 (46만뷰 챔피언) |
+| **VelmoraJazz** | **377 VPH** ⭐⭐⭐ | 🔥 활성 (Cafe BGM 신규 챔피언) |
 
 ---
 
-## 🎯 A/B 이중 공식
+## 🎯 Line 1 Cafe Jazz 전용 제목 공식 (2026-05-06 신설)
+
+> **핵심 원칙**: 벤치마크 채널(Mysig./OdelierJazz) 인기순 상위 제목에서 검증된 키워드를 직접 추출 → 조합 → 시크릿 모드 검증
+
+### 제목 생성 프로세스
+
+```
+Step 1: YouTube → @Mysig.Sounds 채널 → 인기순 정렬 → 상위 10개 제목 추출
+Step 2: YouTube → @OdelierJazz 채널 → 인기순 정렬 → 상위 10개 제목 추출
+Step 3: 두 채널에서 공통으로 나오는 고성과 키워드 추출
+Step 4: 아래 공식 템플릿에 조합
+Step 5: 시크릿 모드 검색 → Mysig. or OdelierJazz 상위 5위 내 출현 확인
+Step 6: 2개 이상 채널 잡히면 확정
+```
+
+### 📐 Mysig. 제목 공식 (일본어+영어 혼합)
+
+**템플릿:**
+```
+[영어 무드/테마] 🎵 [영어 서브태그] | [일본어 감성 BGM 문구]
+```
+
+**실증 예시 (Mysig. 인기순 상위):**
+```
+Good Mood Jazz 🎵 Vintage Cafe Jazz | おうちカフェでくつろぐBGM
+Warm Cafe Jazz 🎵 Cozy Jazz Vibes | やさしいジャズ時間
+Morning Coffee Jazz 🎵 Slow Swing | 朝日を浴びてくつろぐカフェBGM
+Tea Time Jazz 🎵 Cozy Cafe BGM | 作業用・リラックス・集中
+```
+
+**검증된 영어 앞부분 키워드 (Mysig. 인기순 실측):**
+```
+Good Mood / Home Café / Warm Cafe / Slow Morning
+Morning Coffee / Cozy Cafe / Tea Time / Warm Swing
+Slow Jazz / Bossa Nova Cafe / Rainy Cafe
+```
+
+**검증된 일본어 뒷부분 문구 (Mysig. 인기순 실측):**
+```
+おうちカフェでくつろぐ / やさしいジャズ時間 / ご機嫌な一日
+カフェジャズBGM / 作業用・リラックス / 朝日を浴びて
+心地よい朝 / ゆったりとした午後
+```
+
+### 📐 OdelierJazz 제목 공식 (한국어 감성 명사구)
+
+**템플릿:**
+```
+[분위기 형용사] [재즈 스타일] ☕ [감성 한마디] | [용도] 재즈
+```
+
+**검증된 키워드 (OdelierJazz 인기순 실측):**
+```
+티타임 / 카페 재즈 / 빈티지 / 아늑한 / 코지
+모닝 카페 / 봄날 아침 / 릴렉스 룸 / 포근한
+```
+
+**감성 문구 라이브러리 (OdelierJazz 검증):**
+```
+머물며 녹아드는 시간 / 다정한 재즈의 온도
+커피 테라피 / 조용한 산책 / 침묵 속의 하모니
+```
+
+### 📐 VelmoraJazz 제목 공식 (영어 전용)
+
+**템플릿:**
+```
+Vintage [Year]s Cozy Coffee Shop Jazz for [Use Case]
+```
+
+**검증된 예시:**
+```
+Vintage 1940s Cozy Coffee Shop Jazz for Late Night Relaxation
+Vintage 1950s Coffee Shop Jazz for Work & Relaxation
+```
+
+---
+
+### ⚙️ 제목 선택 기준 (어떤 공식 쓸지)
+
+| 타겟 시장 | 사용 공식 | 이유 |
+|---------|---------|------|
+| 일본 + 글로벌 | Mysig. 공식 (英語+日語) | 일본 시장 강력 유입 |
+| 한국 | OdelierJazz 공식 (한국어) | 한국 감성 유저 직격 |
+| 글로벌 영어권 | VelmoraJazz 공식 (영어) | Coffee Shop Vibes 풀 진입 |
+
+**권장: Mysig. 공식 우선** (글로벌 + 일본 동시, VPH 61 / >100x 검증)
+
+---
+
+## 🎯 Line 2 Noir Jazz — A/B 이중 공식
 
 ### 공식 A: "Rainy 1940s Coffee Shop" (에버그린 대형 타겟)
 
@@ -148,11 +247,15 @@ Neon & Jazz  Vintage Noir Jazz for Late Night Relaxation
 
 ## ⚠️ 금지 사항
 
-1. **Mysig 특수 키워드 사용 금지** — VPH 16~24로 냉각기
-2. **"Neon Gardenia"를 B 공식에 넣지 말 것** — 긴 독창 구문은 B 공식의 짧고 강렬함 해침
-3. **앞부분 독창 구문 5단어 초과 금지** — 100자 한도 깨짐
-4. **한국어 키워드 금지** — 타겟은 영어·일본 시장
-5. **【途中広告なし】 접두사 금지**
+### Line 1 (Cafe Jazz)
+1. **벤치마크 채널 인기순 확인 없이 감성 문구 먼저 짓기 금지** — 시크릿 모드 검증 실패 원인
+2. **시크릿 모드 미검증 제목 사용 금지** — 경쟁 영상 안 뜨면 노출 불가
+3. **【途中広告なし】 접두사 절대 금지** — YouTube 정책 + 브랜드 이미지 훼손
+
+### Line 2 (Noir Jazz)
+1. **"Neon Gardenia"를 B 공식에 넣지 말 것** — 긴 독창 구문은 B 공식의 짧고 강렬함 해침
+2. **앞부분 독창 구문 5단어 초과 금지** — 100자 한도 깨짐
+3. **【途中広告なし】 접두사 절대 금지**
 
 ---
 
@@ -183,13 +286,18 @@ Neon & Jazz  Vintage Noir Jazz for Late Night Relaxation
 
 ---
 
-## 🎯 핵심 원칙 5가지
+## 🎯 핵심 원칙
 
+### Line 1 (Cafe Jazz)
+1. **벤치마크 채널 인기순 → 키워드 추출 먼저** — 감성 문구 창작보다 실증 우선
+2. **시크릿 모드 검증 필수** — 업로드 전 반드시 테스트
+3. **Mysig./OdelierJazz 2개 이상 잡히면 확정**
+
+### Line 2 (Noir Jazz)
 1. **공식 A·B 번갈아 사용** — Vol 홀짝 로테이션
 2. **고정 히트 블록 절대 변경 금지** — 생태계 효과 보존
 3. **Use Case만 순환** — 10가지 라이브러리 활용
 4. **시크릿 모드 검증 필수** — 업로드 전 반드시 테스트
-5. **검증 안 된 키워드 사용 금지** — Mysig 등 냉각 채널 배제
 
 ---
 
@@ -204,8 +312,8 @@ Neon & Jazz  Vintage Noir Jazz for Late Night Relaxation
 - **우리 = Sepia + Lepreezy + Nemo + Timeless + PinkPanther**
 
 ### vs 순수 Mysig 방식
-- Mysig = 현재 냉각기
-- **우리 = 현재 핫한 풀만 선별**
+- Mysig 단독 = 일본 단일 풀
+- **우리 = Mysig(일본) + OdelierJazz(한국) + Velmora(글로벌) 동시 장악**
 
 ---
 
@@ -214,6 +322,8 @@ Neon & Jazz  Vintage Noir Jazz for Late Night Relaxation
 - [[pinkpantherlounge-case-study]] — B 공식 원조 채널
 - [[fikatone-case-study]] — 대안 공식 (참고)
 - [[seo-title-strategy]] — 기초 SEO 원칙
+- [[velmorajazz-case-study]] — Line 1 Cafe Jazz 벤치마크 (VPH 377)
+- [[odelier-case-study]] — OdelierJazz 제목 공식 원본 (챔피언 46만뷰)
 
 ---
-최종 업데이트: 2026-04-20
+최종 업데이트: 2026-05-06 (Line 1 Cafe Jazz 전용 제목 공식 신설 · Mysig. 냉각기 오판 수정 → 활성 VPH 61/>100x · 제목 생성 프로세스 인기순 추출 방식으로 전환)
