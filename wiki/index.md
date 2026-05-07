@@ -41,10 +41,12 @@ AI가 매 세션마다 이 위키를 참조하여 일관된 품질의 아웃풋�
 - 세계관: 1940s 뉴욕·시카고 누아르 바, 탐정·신비한 여자·위스키·네온
 - Vol 히스토리: Vol.13 Noir
 
+**Line 1 (Cafe BGM) 전용 자산** ⚠️ Cafe BGM만 사용 (2026-05-04 정정)
+- [[romance-novel-formula]] — 소설형 설명글 공식 (9-Beat 기본 구조) — **Cafe BGM 전용**
+- [[heart-wrenching-love-novel]] ⭐⭐ — **절절한 사랑 소설 작법** (Mono no Aware + 5가지 기법 + Twist Library, 2026-04-28 신설) — **Cafe BGM 전용**
+- [[소설-아카이브]] — 각 Vol 소설 전문 (Cafe BGM)
+
 **Line 1·2 공용 자산**
-- [[romance-novel-formula]] — 소설형 설명글 공식 (9-Beat 기본 구조)
-- [[heart-wrenching-love-novel]] ⭐⭐ — **절절한 사랑 소설 작법** (Mono no Aware + 5가지 기법 + Twist Library, 2026-04-28 신설)
-- [[소설-아카이브]] — 각 Vol 소설 전문
 - [[opening-line-formula]] — 5줄 오프닝 문구 공식
 
 **Line 3: Soul Funk** (2026-04-30 — DeepPocketStudio MAIN 승격)
