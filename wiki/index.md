@@ -104,6 +104,7 @@ AI가 매 세션마다 이 위키를 참조하여 일관된 품질의 아웃풋�
 - [[odelier-case-study]] ⭐⭐ — **Odelier 브랜드 채널 나노 분석** (OdelierJazz 챔피언 46만뷰 22.7x · VPH 전수 27편 · 레트로 일러스트+고양이 썸네일 · 10시간 No Ads 전략 / TheOdelier 챔피언 19만뷰 9.4x · 문학 IP×코지 클래식)
 - [[arabianjazz-case-study]] ⭐⭐ — **Traditional Arabian Jazz 채널 나노 분석** (채널 나이 4주 · 29편 전수 VPH · 챔피언 14만뷰 154VPH · 10만뷰 385VPH · Arabian Jazz × Arabic Hip Hop 이중 풀 전략)
 - [[페르시안재즈]] ⭐⭐⭐ — **Persian Jazz 통합 공식** (Persian Twilight MAIN · 챔피언 11만뷰 477VPH 67.1x · Persian Jazz+Deep House 다중 풀 전략 · We Are Jazz SUB 분석)
+- [[amber-case-study]] ⭐⭐⭐ — **Amber 채널 나노 분석** (Soul Funk SUB 6 · 구독 713 / 18일 9.4만뷰 · 3시간 Long-form 60+ 트랙 시그니처 · 챔피언 VPH 159 · 댄스플로어 보컬 Soul Funk · KST 15:30 업로드)
 
 ### 음악 제작 (Suno)
 - [[suno-core-dna]] — Core DNA 프롬프트 (고정 세계관)
