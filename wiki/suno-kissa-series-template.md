@@ -135,6 +135,14 @@ Warm acoustic upright piano opens softly as first daylight slips through half-cl
 
 ---
 
+## 📋 YouTube 설명글 규칙
+
+> **소설 쓰지 않음** (2026-05-11 확정)
+> 카페 BGM 설명글 = **가사만** 작성
+> 픽션 스토리텔링 중단
+
+---
+
 ## ⚠️ Prompt 작성 규칙
 
 - Suno 입력 가능한 간결함 유지
