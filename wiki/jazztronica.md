@@ -204,6 +204,42 @@ Jazztronica 라인 파형은 **서클형(방사 바)** 으로 통일.
 
 ---
 
+## 🎯 Suno 아티스트 정조준 프롬프트 (Vol.01 재작업 · 2026-05-25)
+
+**문제:** 초기 프롬프트는 (1) 키워드 과다로 거부감, (2) 단순화하니 무색무취(아티스트 느낌 X).
+**해결:** 트랙마다 **아티스트 1명 정조준** + **짧은 프롬프트**(시그니처 2~3개만). 다 섞으면 평균값=무색무취.
+
+### 핵심 교훈
+- Suno는 아티스트 이름 못 받음 → 장르만 주면 평균값. **시그니처를 평범한 말로** 콕 집기.
+- **프롬프트는 짧게.** 키워드·제외문 과다 = 뭉개짐.
+- "lofi" 단어 자제 → "jazz hop / sampled jazz"로.
+
+### 트랙별 배정 + 프롬프트
+| # | 아티스트 | BPM | 보컬 | 짧은 프롬프트 |
+|---|---|---:|:---:|---|
+| 01 | Nujabes | 72 | 연주 | `Japanese jazz hop, warm dusty boom bap with bouncy swing, melancholic jazz piano and harp loop, soft upright bass, vinyl crackle, instrumental, bittersweet` |
+| 02 | DJ Okawari | 78 | 보컬 | `delicate cinematic jazz hop, gentle classical grand piano, soft strings and harp, mellow hip hop beat, airy soft female vocal, elegant` |
+| 03 | FreeTEMPO | 90 | 연주 | `warm downtempo organic house, soft Rhodes chords, mellow bassline, light shaker groove, summery, instrumental` |
+| 04 | FreeTEMPO | 102 | 보컬 | `summery organic deep house, warm Rhodes chords, soft female vocal, light live percussion, breezy and smooth` |
+| 05 | DJ Kawasaki | 110 | 연주 | `soulful jazzy house, live electric bass groove, Rhodes and warm brass stabs, organic percussion, classy and danceable, instrumental` |
+| 06 | DAISHI DANCE | 118 | 보컬 | `emotional uplifting piano house, big melodic grand piano riff, warm bassline, bright and anthemic, soft vocal hook` |
+| 07 | FreeTEMPO | 106 | 연주 | `warm organic house easing down, soft Rhodes chords, mellow groove, brushed percussion, sunset feel, instrumental` |
+| 08 | Shibuya-kei | 92 | 연주 | `retro shibuya-kei lounge, bossa nova drums, warm vibraphone and Rhodes, playful vintage 60s flavor, nostalgic, instrumental` |
+| 09 | Nujabes (랩) | 80 | 보컬 | `Japanese jazz hop with laid-back spoken rap, dusty swung boom bap, jazz piano loop, upright bass, vinyl crackle, reflective` |
+| 10 | Nujabes | 70 | 연주 | `sleepy Japanese jazz hop, slow dusty boom bap with swing, warm Rhodes and soft flute, deep upright bass, heavy vinyl crackle, instrumental, dreamy` |
+
+### 길이 확보 (3분)
+- 연주곡 가사 칸: `[Intro] [Main Theme] [Variation A] [Break] [Main Theme] [Variation B] [Outro]` (한 줄에 하나)
+- 한 방에 안 늘면 → **최신 모델(v4.5+)** 또는 **CapCut 루프**(BGM 정석, reprise 트릭)
+
+### ✅ 테스트 진행상황 (재개 지점)
+- ✅ 01 Nujabes (연주) — 통과
+- ✅ 02 DJ Okawari (보컬) — 통과
+- ⬜ **03 FreeTEMPO (연주) ← 여기서부터 재시작**
+- ⬜ 04~10 미테스트
+
+---
+
 # Jazztronica Vol.01 — Tokyo Cafe Day (전곡 아카이브)
 
 **컨셉:** 도쿄 카페의 하루 (아침 안개 → 황금시간 → 심야 마감)
