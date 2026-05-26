@@ -217,16 +217,16 @@ Jazztronica 라인 파형은 **서클형(방사 바)** 으로 통일.
 ### 트랙별 배정 + 프롬프트
 | # | 아티스트 | BPM | 보컬 | 짧은 프롬프트 |
 |---|---|---:|:---:|---|
-| 01 | DAISHI DANCE | 118 | 연주 | `emotional uplifting piano house, big melodic grand piano riff, warm bassline, bright and anthemic, instrumental` |
-| 02 | DJ Kawasaki | 110 | 연주 | `soulful jazzy house, live electric bass groove, Rhodes and warm brass stabs, organic percussion, classy and danceable, instrumental` |
-| 03 | FreeTEMPO | 106 | 연주 | `warm organic house easing down, soft Rhodes chords, mellow groove, brushed percussion, sunset feel, instrumental` |
+| 01 | DAISHI DANCE | 118 | 연주 | `emotional uplifting piano house, big melodic grand piano riff, warm bassline, bright and anthemic, instrumental, extended 3 to 4 minute arrangement, no early fade, full outro` |
+| 02 | DJ Kawasaki | 110 | 연주 | `soulful jazzy house, live electric bass groove, Rhodes and warm brass stabs, organic percussion, classy and danceable, instrumental, extended 3 to 4 minute arrangement, no early fade, full outro` |
+| 03 | FreeTEMPO | 106 | 연주 | `warm organic house easing down, soft Rhodes chords, mellow groove, brushed percussion, sunset feel, instrumental, extended 3 to 4 minute arrangement, no early fade, full outro` |
 | 04 | FreeTEMPO | 102 | 보컬 | `summery organic deep house, warm Rhodes chords, soft female vocal, light live percussion, breezy and smooth` |
-| 05 | Shibuya-kei | 92 | 연주 | `retro shibuya-kei lounge, bossa nova drums, warm vibraphone and Rhodes, playful vintage 60s flavor, nostalgic, instrumental` |
-| 06 | FreeTEMPO | 90 | 연주 | `warm downtempo organic house, soft Rhodes chords, mellow bassline, light shaker groove, summery, instrumental` |
+| 05 | Shibuya-kei | 92 | 연주 | `retro shibuya-kei lounge, bossa nova drums, warm vibraphone and Rhodes, playful vintage 60s flavor, nostalgic, instrumental, extended 3 to 4 minute arrangement, no early fade, full outro` |
+| 06 | FreeTEMPO | 90 | 연주 | `warm downtempo organic house, soft Rhodes chords, mellow bassline, light shaker groove, summery, instrumental, extended 3 to 4 minute arrangement, no early fade, full outro` |
 | 07 | Nujabes (랩) | 80 | 보컬 | `Japanese jazz hop with laid-back spoken rap, dusty swung boom bap, jazz piano loop, upright bass, vinyl crackle, reflective` |
 | 08 | DJ Okawari | 78 | 보컬 | `delicate cinematic jazz hop, gentle classical grand piano, soft strings and harp, mellow hip hop beat, airy soft female vocal, elegant` |
-| 09 | Nujabes | 72 | 연주 | `Japanese jazz hop, warm dusty boom bap with bouncy swing, melancholic jazz piano and harp loop, soft upright bass, vinyl crackle, instrumental, bittersweet` |
-| 10 | Nujabes | 70 | 연주 | `sleepy Japanese jazz hop, slow dusty boom bap with swing, warm Rhodes and soft flute, deep upright bass, heavy vinyl crackle, instrumental, dreamy` |
+| 09 | Nujabes | 72 | 연주 | `Japanese jazz hop, warm dusty boom bap with bouncy swing, melancholic jazz piano and harp loop, soft upright bass, vinyl crackle, instrumental, bittersweet, extended 3 to 4 minute arrangement, no early fade, full outro` |
+| 10 | Nujabes | 70 | 연주 | `sleepy Japanese jazz hop, slow dusty boom bap with swing, warm Rhodes and soft flute, deep upright bass, heavy vinyl crackle, instrumental, dreamy, extended 3 to 4 minute arrangement, no early fade, long gentle fade out` |
 
 ### 길이 확보 (3분)
 - 연주곡 가사 칸: `[Intro] [Main Theme] [Variation A] [Break] [Main Theme] [Variation B] [Outro]` (한 줄에 하나)
