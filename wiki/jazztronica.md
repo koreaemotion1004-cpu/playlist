@@ -118,16 +118,23 @@
 
 ## 🏷️ 곡 제목 작명 DNA (아티스트 결 차용)
 
+### ⭐ 절대 규칙 (2026-05-26 확정)
+1. **제목은 항상 레퍼런스 아티스트 작품의 곡 제목을 참고**한다. 임의 작명 금지.
+2. **곡 제목 옆에 레퍼런스 아티스트를 괄호로 명시**한다 — `제목 (아티스트)`
+3. **수노 프롬프트는 변경 금지(lock).** 어제 통과 검증된 형식([대괄호 태그] + 묘사 paragraph) 그대로 유지.
+
 곡 제목은 SEO 나열이 아니라 **시적·이미지 중심 짧은 곡명** (아티스트 트랙명 방식).
 
-| 결 | 작명 특징 | 예시 |
+| 결 | 작명 특징 | 실제 트랙명 예시 (참고용) |
 |---|---|---|
-| Nujabes | 시적·자연/천체 이미지 | Feather, Horizon, Counting Stars |
-| DJ Okawari | 단순·시각적 | Flower Dance, Luv Letter |
-| FreeTEMPO | 소문자·분위기 | tide, sky high, couleur |
-| DJ Kawasaki | 긍정·그루브 | Brand New Day, Spice of Life |
-| DAISHI DANCE | 밝고 고양 | Joyful, Sunrise |
-| 시부야케이 | 레트로·장난기 | Sweet Soul Revue |
+| Nujabes | 시적·자연/천체 이미지 | Feather, Horizon, Counting Stars, Luv(sic), Aruarian Dance, Kumomi, Mystline |
+| DJ Okawari | 단순·시각적 | Flower Dance, Luv Letter, Kalmia, Compass, Sketch, Perfect Blue, Diorama |
+| FreeTEMPO | 소문자·분위기 | tide, sky high, couleur, Sched, Twilight, Holiday, Moonshadow Dance |
+| DJ Kawasaki | 긍정·그루브 | Brand New Day, Spice of Life, Beautiful, Lucky Star, Hold On, Summer Breeze |
+| DAISHI DANCE | 밝고 고양 | Joyful, Sunrise, P.I.A.N.O. star, Kissin' you |
+| 시부야케이 | 레트로·장난기 | Sweet Soul Revue, Twiggy Twiggy, Happy Sad, Tokyo's Coolest Sound |
+
+→ Vol.01 적용 예: Morning **Feather** (Nujabes) ↔ Last **Feather** (Nujabes) 수미상관, Tide Turning (FreeTEMPO `tide` 참고), Dusk **Couleur** (FreeTEMPO `couleur` 참고), Sweet Sunset **Revue** (Pizzicato Five `Sweet Soul Revue` 참고), **Counting** Streetlights (Nujabes `Counting Stars` 참고), **Joyful** Skyline (DAISHI DANCE `Joyful` 참고)
 
 ---
 
@@ -248,7 +255,7 @@ Jazztronica 라인 파형은 **서클형(방사 바)** 으로 통일.
 
 ---
 
-## Track 01 — Morning Feather (연주 · B Lo-Fi Jazz-Hop)
+## Track 01 — Morning Feather (Nujabes) · 연주 · B Lo-Fi Jazz-Hop
 
 ```
 [Lo-Fi Jazz Hop]
@@ -276,7 +283,7 @@ Warm lo-fi jazz hop, dusty boom bap drums laid back behind the beat, mellow Rhod
 
 ---
 
-## Track 02 — あさひ (보컬 · B Neo-Soul · Verse 3 구조)
+## Track 02 — あさひ (DJ Okawari) · 보컬 · B Neo-Soul · Verse 3 구조
 
 ```
 [Lo-Fi Neo Soul]
@@ -334,7 +341,7 @@ soft and warm and slow
 
 ---
 
-## Track 03 — Tide Turning (연주 · B→A 전환)
+## Track 03 — Tide Turning (FreeTEMPO) · 연주 · B→A 전환
 
 ```
 [Downtempo Organic House]
@@ -362,7 +369,7 @@ Downtempo jazz easing into organic house, soft four on the floor kick fading in,
 
 ---
 
-## Track 04 — drift along (보컬 · A Organic House · 표준 Verse 3 구조)
+## Track 04 — drift along (FreeTEMPO) · 보컬 · A Organic House · 표준 Verse 3 구조
 
 ```
 [Organic Jazz House]
@@ -422,7 +429,7 @@ let it carry you
 
 ---
 
-## Track 05 — Golden Avenue (연주 · A Jazz House)
+## Track 05 — Golden Avenue (DJ Kawasaki) · 연주 · A Jazz House
 
 ```
 [Jazzy Deep House]
@@ -450,7 +457,7 @@ Jazzy deep house with a driving four on the floor groove, bright jazzy piano hou
 
 ---
 
-## Track 06 — Joyful Skyline (보컬 · A Piano House 피크 · 표준 Verse 3 구조)
+## Track 06 — Joyful Skyline (DAISHI DANCE) · 보컬 · A Piano House 피크 · 표준 Verse 3 구조
 
 ```
 [Melodic Piano House]
@@ -510,7 +517,7 @@ take us home
 
 ---
 
-## Track 07 — Dusk Couleur (연주 · A→B 하강)
+## Track 07 — Dusk Couleur (FreeTEMPO) · 연주 · A→B 하강
 
 ```
 [Organic House]
@@ -538,7 +545,7 @@ Organic house easing down from the peak, four on the floor softening, jazzy Rhod
 
 ---
 
-## Track 08 — Sweet Sunset Revue (연주 · B Shibuya-kei 결)
+## Track 08 — Sweet Sunset Revue (Shibuya-kei / Pizzicato Five) · 연주 · B Shibuya-kei 결
 
 ```
 [Downtempo Shibuya Kei Jazz]
@@ -565,7 +572,7 @@ Downtempo shibuya kei flavored jazz, soft bossa nova drums, warm vibraphone and 
 
 ---
 
-## Track 09 — Counting Streetlights (보컬 · B Lo-Fi 랩/읊조림 · Verse 3 구조)
+## Track 09 — Counting Streetlights (Nujabes × Shing02) · 보컬 · B Lo-Fi 랩/읊조림 · Verse 3 구조
 
 ```
 [Lo-Fi Jazz Hop]
@@ -627,7 +634,7 @@ slow and warm and low
 
 ---
 
-## Track 10 — Last Feather (연주 · B Lo-Fi 마감)
+## Track 10 — Last Feather (Nujabes) · 연주 · B Lo-Fi 마감
 
 ```
 [Lo-Fi Jazz Hop]
