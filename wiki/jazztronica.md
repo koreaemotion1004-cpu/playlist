@@ -249,7 +249,7 @@ Jazztronica 라인 파형은 **서클형(방사 바)** 으로 통일.
 # Jazztronica Vol.01 — Tokyo Cafe Day (전곡 아카이브)
 
 **컨셉:** 도쿄 카페의 하루 (고에너지 오프닝 → 점진적 이완 → 누자베스 마감)
-**수미상관:** T09 Morning Feather ↔ T10 Last Feather (누자베스 페어)
+**수미상관:** T09 Still Feather ↔ T10 After Hours (누자베스 페어)
 **트랙 순서:** BPM 고→저 (118→70) 순차 하강
 **작성일:** 2026-05-25 / **재편:** 2026-05-26
 
@@ -608,7 +608,7 @@ Warm lo-fi jazz hop, dusty boom bap drums laid back behind the beat, mellow Rhod
 
 ---
 
-## Track 10 — Last Feather (연주 · B Lo-Fi 마감 · Nujabes)
+## Track 10 — After Hours (연주 · B Lo-Fi 마감 · Nujabes)
 
 ```
 [Lo-Fi Jazz Hop]
