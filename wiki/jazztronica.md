@@ -278,6 +278,7 @@ Melodic piano house at peak energy, driving four on the floor groove, bright emo
 [Break]
 [Main Theme]
 [Variation B]
+[Variation C]
 [Outro]
 ```
 
@@ -306,6 +307,7 @@ Jazzy deep house with a driving four on the floor groove, bright jazzy piano hou
 [Break]
 [Main Theme]
 [Variation B]
+[Variation C]
 [Outro]
 ```
 
@@ -334,6 +336,7 @@ Organic house easing down from the peak, four on the floor softening, jazzy Rhod
 [Break]
 [Main Theme]
 [Variation B]
+[Variation C]
 [Outro]
 ```
 
@@ -421,6 +424,7 @@ Downtempo shibuya kei flavored jazz, soft bossa nova drums, warm vibraphone and 
 [Break]
 [Main Theme]
 [Variation B]
+[Variation C]
 [Outro]
 ```
 
@@ -449,6 +453,7 @@ Downtempo jazz easing into organic house, soft four on the floor kick fading in,
 [Break]
 [Main Theme]
 [Variation B]
+[Variation C]
 [Outro]
 ```
 
@@ -597,6 +602,7 @@ Warm lo-fi jazz hop, dusty boom bap drums laid back behind the beat, mellow Rhod
 [Break]
 [Main Theme]
 [Variation B]
+[Variation C]
 [Outro]
 ```
 
@@ -614,7 +620,7 @@ Warm lo-fi jazz hop, dusty boom bap drums laid back behind the beat, mellow Rhod
 [Heavy Vinyl Crackle]
 [Sleepy Late Night Mood]
 [Fading Outro Feel]
-Sleepy lo-fi jazz hop to close the night, soft dusty drums fading, mellow Rhodes chords, deep warm bass, heavy comforting vinyl crackle, a distant muted piano, no vocals, very slow head-nodding groove, intimate and dreamy, the final quiet track as the cafe closes. Extended 3 to 4 minute arrangement, multiple evolving sections, no early fade, long gentle fade out at the very end only.
+Sleepy lo-fi jazz hop to close the night, soft dusty drums fading, mellow Rhodes chords, deep warm bass, heavy comforting vinyl crackle, a distant muted piano, no vocals, very slow head-nodding groove, intimate and dreamy, the final quiet track as the cafe closes. Extended 3 to 4 minute arrangement, multiple evolving sections, no early fade, long gentle fade out.
 ```
 
 **Structure (가사 칸 입력 — 3분+ 확보):**
@@ -625,7 +631,8 @@ Sleepy lo-fi jazz hop to close the night, soft dusty drums fading, mellow Rhodes
 [Break]
 [Main Theme]
 [Variation B]
-[Outro]
+[Variation C]
+[Fade Out]
 ```
 
 ---
