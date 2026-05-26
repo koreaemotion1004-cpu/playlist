@@ -2,6 +2,53 @@
 
 ---
 
+## 🎯 Jazztronica Vol.01 — 15곡 트랙 순서 (2026-05-26 확정)
+
+**원칙:** 비율 골고루 섞고 BPM 자연스럽게 상승 → 10번 피크(90) → **Nujabes 진한 5곡(N70/O30)을 11~15번 후반 배치** → 점진 하강(84→76).
+
+| # | 제목 | 비율 | BPM |
+|---|---|---|---:|
+| 01 | Fading Photograph | N50/O50 | 78 |
+| 02 | Rain on Glass | N50/O50 | 80 |
+| 03 | Sunday Morning Solitude | N50/O50 | 80 |
+| 04 | Chord Memory | O70/N30 | 83 |
+| 05 | Piano Reminiscence | O70/N30 | 84 |
+| 06 | Rooftop at Midnight | N50/O50 | 85 |
+| 07 | After the Last Train | O70/N30 | 86 |
+| 08 | City Lights Reflection | O50/F20/N30 | 88 |
+| 09 | Cafe Window Seat | O50/F20/N30 | 88 |
+| 10 | Glassy Urban Evening ⭐피크 | O50/F30/N20 | 90 |
+| 11 | Night Walk Through Empty Streets | **N70**/O30 | 84 |
+| 12 | Late Study Session | **N70**/O30 | 82 |
+| 13 | Jazz Loop at 3AM | **N70**/O30 | 82 |
+| 14 | Fog on the Canal | **N70**/O30 | 78 |
+| 15 | Dusty Pages | **N70**/O30 | 76 |
+
+---
+
+## 🎼 공통 구조 블록 (가사 칸 입력 · 3분+ 확보)
+
+**모든 연주곡 가사 칸에 아래 블록 그대로 붙여넣기:**
+
+```
+[Intro]
+[Main Theme]
+[Variation A]
+[Break]
+[Main Theme]
+[Variation B]
+[Variation C]
+[Variation D]
+[Outro]
+```
+
+- 9섹션 (이전 7섹션 → Variation **C·D 추가**) → 3분 이상 안정 확보
+- Instrumental 토글 ON 유지
+- Style 프롬프트 끝에 `instrumental, 3 minute track, multiple sections, no early fade` 추가 권장
+- 한 방에 안 늘면 → 최신 모델(v4.5+) 또는 CapCut 루프
+
+---
+
 ## 📋 15개 프롬프트 (Markdown 카드)
 
 ---
