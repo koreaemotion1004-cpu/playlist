@@ -217,16 +217,16 @@ Jazztronica 라인 파형은 **서클형(방사 바)** 으로 통일.
 ### 트랙별 배정 + 프롬프트
 | # | 아티스트 | BPM | 보컬 | 짧은 프롬프트 |
 |---|---|---:|:---:|---|
-| 01 | DAISHI DANCE | 118 | 연주 | `melodic piano house, grand piano lead melody with soaring chord runs, lush string layers, surging four on the floor house beat, warm synth pads, rich textures, sophisticated and uplifting, emotional build toward peak, no vocals, instrumental, extended 3 to 4 minute arrangement, no early fade, full outro` |
-| 02 | DJ Kawasaki | 110 | 연주 | `soulful jazzy deep house, live jazzy Rhodes chords, heavy funky bassline, organic live percussion, warm brass stabs, disco and soul influenced, classy and danceable, no vocals, instrumental, extended 3 to 4 minute arrangement, no early fade, full outro` |
-| 03 | FreeTEMPO | 106 | 연주 | `organic deep house, warm Rhodes chords, throbbing bassline, loose live percussion, ethereal ambient pads, natural acoustic textures blended with electronic pulse, atmospheric and meditative, summery mystery, no vocals, instrumental, extended 3 to 4 minute arrangement, no early fade, full outro` |
-| 04 | FreeTEMPO | 102 | 보컬 | `organic deep house, warm Rhodes chords, rolling bassline, live percussion, dreamy female vocal, airy and breezy, natural acoustic warmth, romantic and summery` |
-| 05 | Shibuya-kei | 92 | 연주 | `shibuya-kei lounge jazz, soft bossa nova drums, warm vibraphone melody, vintage 60s French influenced, light pizzicato strings, playful brass stabs, nostalgic and sophisticated, airy and retro, no vocals, instrumental, extended 3 to 4 minute arrangement, no early fade, full outro` |
-| 06 | FreeTEMPO | 90 | 연주 | `downtempo organic house, soft Rhodes chords, slow warm bassline, gentle live shaker, ambient pads, natural acoustic warmth, romantic lounge feel, meditative and summery, no vocals, instrumental, extended 3 to 4 minute arrangement, no early fade, full outro` |
-| 07 | Nujabes (랩) | 80 | 보컬 | `Japanese jazz hop, silky smooth boom bap beat, modal jazz piano loop, soulful strings and distant saxophone, warm upright bass, soft vinyl crackle, laid-back spoken rap vocal with soft sung hook, bittersweet and peaceful, introspective` |
-| 08 | DJ Okawari | 78 | 보컬 | `cinematic jazz hop, live classical grand piano runs over mellow hip hop beat, vinyl sampled jazz textures, soft strings, airy female vocal, whimsical and introspective, tranquil late-night mood, elegant` |
-| 09 | Nujabes | 72 | 연주 | `Japanese jazz hop, silky smooth boom bap with swing, melancholic jazz piano and harp loop, soulful string texture, warm upright bass, soft vinyl crackle, bittersweet and peaceful, no vocals, instrumental, extended 3 to 4 minute arrangement, no early fade, full outro` |
-| 10 | Nujabes | 70 | 연주 | `sleepy Japanese jazz hop, slow dusty boom bap with swing, warm Rhodes and faint flute melody, deep upright bass, heavy vinyl crackle, bittersweet sentimentality, no vocals, instrumental, extended 3 to 4 minute arrangement, no early fade, long gentle fade out` |
+| 01 | DAISHI DANCE | 118 | 연주 | `[Melodic Piano House] [Instrumental] [118 BPM] [Emotional Uplifting Piano House] [Big Melodic Grand Piano Riff] [Warm Bassline] [Bright And Anthemic] [Extended 3 To 4 Minutes] [No Early Fade] [Full Outro]` |
+| 02 | DJ Kawasaki | 110 | 연주 | `[Soulful Jazzy House] [Instrumental] [110 BPM] [Live Electric Bass Groove] [Rhodes And Warm Brass Stabs] [Organic Percussion] [Classy And Danceable] [Extended 3 To 4 Minutes] [No Early Fade] [Full Outro]` |
+| 03 | FreeTEMPO | 106 | 연주 | `[Organic House] [Instrumental] [106 BPM] [Warm Organic House Easing Down] [Soft Rhodes Chords] [Mellow Groove] [Brushed Percussion] [Sunset Feel] [Extended 3 To 4 Minutes] [No Early Fade] [Full Outro]` |
+| 04 | FreeTEMPO | 102 | 보컬 | `[Organic Deep House] [102 BPM] [Summery Organic Deep House] [Warm Rhodes Chords] [Soft Female Vocal] [Light Live Percussion] [Breezy And Smooth]` |
+| 05 | Shibuya-kei | 92 | 연주 | `[Shibuya-Kei Lounge Jazz] [Instrumental] [92 BPM] [Soft Bossa Nova Drums] [Warm Vibraphone And Rhodes] [Playful Vintage 60s Flavor] [Nostalgic] [Extended 3 To 4 Minutes] [No Early Fade] [Full Outro]` |
+| 06 | FreeTEMPO | 90 | 연주 | `[Downtempo Organic House] [Instrumental] [90 BPM] [Soft Rhodes Chords] [Mellow Bassline] [Light Shaker Groove] [Summery] [Extended 3 To 4 Minutes] [No Early Fade] [Full Outro]` |
+| 07 | Nujabes (랩) | 80 | 보컬 | `[Lo-Fi Jazz Hop] [80 BPM] [Laid-Back Spoken Rap Vocal] [Dusty Swung Boom Bap] [Jazz Piano Loop] [Upright Bass] [Vinyl Crackle] [Reflective]` |
+| 08 | DJ Okawari | 78 | 보컬 | `[Cinematic Jazz Hop] [78 BPM] [Delicate Cinematic Jazz Hop] [Gentle Classical Grand Piano] [Soft Strings And Harp] [Mellow Hip Hop Beat] [Airy Soft Female Vocal] [Elegant]` |
+| 09 | Nujabes | 72 | 연주 | `[Lo-Fi Jazz Hop] [Instrumental] [72 BPM] [Warm Dusty Boom Bap With Bouncy Swing] [Melancholic Jazz Piano And Harp Loop] [Soft Upright Bass] [Vinyl Crackle] [Bittersweet] [Extended 3 To 4 Minutes] [No Early Fade] [Full Outro]` |
+| 10 | Nujabes | 70 | 연주 | `[Lo-Fi Jazz Hop] [Instrumental] [70 BPM] [Sleepy Dusty Boom Bap With Swing] [Warm Rhodes And Soft Flute] [Deep Upright Bass] [Heavy Vinyl Crackle] [Dreamy] [Extended 3 To 4 Minutes] [No Early Fade] [Long Gentle Fade Out]` |
 
 ### 길이 확보 (3분)
 - 연주곡 가사 칸: `[Intro] [Main Theme] [Variation A] [Break] [Main Theme] [Variation B] [Outro]` (한 줄에 하나)
@@ -255,19 +255,19 @@ Jazztronica 라인 파형은 **서클형(방사 바)** 으로 통일.
 
 ---
 
-## Track 01 — Joyful Skyline (연주 · A Piano House · DAISHI DANCE)
+## Track 01 — Skyward (연주 · A Piano House · DAISHI DANCE)
 
 ```
 [Melodic Piano House]
 [Instrumental]
 [118 BPM]
-[Four On The Floor Groove]
-[Bright Piano House Chords]
-[Driving Deep Bassline]
-[Crisp Hi-Hats]
-[Warm Analog Pads]
-[Energetic Opening Mood]
-Melodic piano house at peak energy, driving four on the floor groove, bright emotional piano house chords, deep driving bassline, crisp hi-hats, warm analog pads, no vocals, anthemic and uplifting, powerful energetic opening. Extended 3 to 4 minute arrangement, multiple evolving sections, no early fade, full outro.
+[Emotional Uplifting Piano House]
+[Big Melodic Grand Piano Riff]
+[Warm Bassline]
+[Bright And Anthemic]
+[Extended 3 To 4 Minutes]
+[No Early Fade]
+[Full Outro]
 ```
 
 **Structure (가사 칸 입력 — 3분+ 확보):**
@@ -284,19 +284,19 @@ Melodic piano house at peak energy, driving four on the floor groove, bright emo
 
 ---
 
-## Track 02 — Golden Avenue (연주 · A Jazz House · DJ Kawasaki)
+## Track 02 — Spice Route (연주 · A Jazz House · DJ Kawasaki)
 
 ```
-[Jazzy Deep House]
+[Soulful Jazzy House]
 [Instrumental]
 [110 BPM]
-[Four On The Floor Groove]
-[Jazzy Piano House Chords]
-[Deep Rolling Bassline]
-[Crisp Shaker Hi-Hats]
-[Saxophone Sample Stabs]
-[Afternoon Drive Mood]
-Jazzy deep house with a driving four on the floor groove, bright jazzy piano house chords, deep rolling bassline, crisp shaker hi-hats, occasional warm saxophone sample stabs, soft analog pads, no vocals, uplifting and rolling, feel-good afternoon drive energy, polished but warm. Extended 3 to 4 minute arrangement, multiple evolving sections, no early fade, full outro.
+[Live Electric Bass Groove]
+[Rhodes And Warm Brass Stabs]
+[Organic Percussion]
+[Classy And Danceable]
+[Extended 3 To 4 Minutes]
+[No Early Fade]
+[Full Outro]
 ```
 
 **Structure (가사 칸 입력 — 3분+ 확보):**
@@ -313,19 +313,20 @@ Jazzy deep house with a driving four on the floor groove, bright jazzy piano hou
 
 ---
 
-## Track 03 — Dusk Couleur (연주 · A→B 하강 · FreeTEMPO)
+## Track 03 — after glow (연주 · A→B 하강 · FreeTEMPO)
 
 ```
 [Organic House]
 [Instrumental]
 [106 BPM]
-[Softening Four On The Floor]
-[Jazzy Rhodes Chords]
-[Warm Bassline]
-[Brushed Hi-Hats]
-[Cooling Analog Pads]
-[Sunset Descent Mood]
-Organic house easing down from the peak, four on the floor softening, jazzy Rhodes chords, warm bassline, brushed hi-hats, cooling analog pads, light vinyl texture returning, no vocals, gentle comedown energy, smooth transition from daytime house back toward evening calm. Extended 3 to 4 minute arrangement, multiple evolving sections, no early fade, full outro.
+[Warm Organic House Easing Down]
+[Soft Rhodes Chords]
+[Mellow Groove]
+[Brushed Percussion]
+[Sunset Feel]
+[Extended 3 To 4 Minutes]
+[No Early Fade]
+[Full Outro]
 ```
 
 **Structure (가사 칸 입력 — 3분+ 확보):**
@@ -342,18 +343,16 @@ Organic house easing down from the peak, four on the floor softening, jazzy Rhod
 
 ---
 
-## Track 04 — drift along (보컬 · A Organic House · FreeTEMPO · Verse 3 구조)
+## Track 04 — sky drift (보컬 · A Organic House · FreeTEMPO · Verse 3 구조)
 
 ```
-[Organic Jazz House]
+[Organic Deep House]
 [102 BPM]
-[Four On The Floor Groove]
-[Jazzy Piano House Chords]
-[Deep Rolling Bassline]
-[Soft Shaker Hi-Hats]
-[Warm Analog Pads]
-[Uplifting Female House Vocal]
-Organic jazzy house, warm four on the floor groove, jazzy piano house chords, deep rolling bassline, soft shaker hi-hats, warm analog pads, uplifting female vocal hook sung warm and smooth, repetitive and groove-locked, no vocal belting, feel-good daytime cafe energy.
+[Summery Organic Deep House]
+[Warm Rhodes Chords]
+[Soft Female Vocal]
+[Light Live Percussion]
+[Breezy And Smooth]
 ```
 
 **Lyrics:**
@@ -402,18 +401,19 @@ let it carry you
 
 ---
 
-## Track 05 — Sweet Sunset Revue (연주 · B Shibuya-kei)
+## Track 05 — Velvet Matinée (연주 · B Shibuya-kei)
 
 ```
-[Downtempo Shibuya Kei Jazz]
+[Shibuya-Kei Lounge Jazz]
 [Instrumental]
 [92 BPM]
-[Soft Bossa Drums]
-[Vibraphone And Rhodes]
-[Mellow Upright Bass]
-[Warm String Pads]
-[Nostalgic Sunset Mood]
-Downtempo shibuya kei flavored jazz, soft bossa nova drums, warm vibraphone and Rhodes, mellow upright bass, light nostalgic string pads, a gentle whistle melody sample, no vocals, retro lounge warmth, wistful sunset feeling, smooth and elegant cafe atmosphere. Extended 3 to 4 minute arrangement, multiple evolving sections, no early fade, full outro.
+[Soft Bossa Nova Drums]
+[Warm Vibraphone And Rhodes]
+[Playful Vintage 60s Flavor]
+[Nostalgic]
+[Extended 3 To 4 Minutes]
+[No Early Fade]
+[Full Outro]
 ```
 
 **Structure (가사 칸 입력 — 3분+ 확보):**
@@ -430,19 +430,19 @@ Downtempo shibuya kei flavored jazz, soft bossa nova drums, warm vibraphone and 
 
 ---
 
-## Track 06 — Tide Turning (연주 · B→A 전환 · FreeTEMPO)
+## Track 06 — slow tide (연주 · B→A 전환 · FreeTEMPO)
 
 ```
 [Downtempo Organic House]
 [Instrumental]
 [90 BPM]
-[Soft Four On The Floor Kick]
-[Jazzy Rhodes Chords]
-[Mellow Upright Bass]
-[Brushed Hi-Hats]
-[Warm Analog Pads]
-[Transition Warming Mood]
-Downtempo jazz easing into organic house, soft four on the floor kick fading in, jazzy Rhodes chords, mellow bass, brushed hi-hats, warm analog pads, light vinyl texture, no vocals, gentle build from lo-fi toward house, smooth and unhurried. Extended 3 to 4 minute arrangement, multiple evolving sections, no early fade, full outro.
+[Soft Rhodes Chords]
+[Mellow Bassline]
+[Light Shaker Groove]
+[Summery]
+[Extended 3 To 4 Minutes]
+[No Early Fade]
+[Full Outro]
 ```
 
 **Structure (가사 칸 입력 — 3분+ 확보):**
@@ -459,18 +459,17 @@ Downtempo jazz easing into organic house, soft four on the floor kick fading in,
 
 ---
 
-## Track 07 — Counting Streetlights (보컬 · B Lo-Fi 랩/읊조림 · Nujabes × Verse 3 구조)
+## Track 07 — Neon Reverie (보컬 · B Lo-Fi 랩/읊조림 · Nujabes × Verse 3 구조)
 
 ```
 [Lo-Fi Jazz Hop]
 [80 BPM]
-[Dusty Boom Bap Drums]
-[Jazzy Piano Loop]
-[Warm Upright Bass]
-[Soft Vinyl Crackle]
 [Laid-Back Spoken Rap Vocal]
-[Evening Wind Down Mood]
-Lo-fi jazz hop with a laid-back spoken rap delivery over a soft sung hook, dusty boom bap drums, jazzy piano loop, warm upright bass, soft vinyl crackle, intimate close vocal far from aggressive, mellow head-nodding groove, evening wind down cafe feel.
+[Dusty Swung Boom Bap]
+[Jazz Piano Loop]
+[Upright Bass]
+[Vinyl Crackle]
+[Reflective]
 ```
 
 **Lyrics:**
@@ -521,18 +520,17 @@ slow and warm and low
 
 ---
 
-## Track 08 — あさひ (보컬 · B Neo-Soul · DJ Okawari · Verse 3 구조)
+## Track 08 — Pale Letter (보컬 · B Neo-Soul · DJ Okawari · Verse 3 구조)
 
 ```
-[Lo-Fi Neo Soul]
+[Cinematic Jazz Hop]
 [78 BPM]
-[Dusty Boom Bap Drums]
-[Jazzy Rhodes Chords]
-[Warm Upright Bass]
-[Soft Vinyl Crackle]
-[Laid-Back Neo Soul Female Vocal]
-[Mellow Head-Nodding Groove]
-Warm lo-fi neo soul, dusty boom bap drums behind the beat, jazzy Rhodes chords, soft upright bass, gentle vinyl crackle, laid-back intimate female vocal sung softly and close, no belting, mellow head-nodding groove, warm tape saturation, dreamy morning cafe feel.
+[Delicate Cinematic Jazz Hop]
+[Gentle Classical Grand Piano]
+[Soft Strings And Harp]
+[Mellow Hip Hop Beat]
+[Airy Soft Female Vocal]
+[Elegant]
 ```
 
 **Lyrics:**
@@ -579,19 +577,20 @@ soft and warm and slow
 
 ---
 
-## Track 09 — Morning Feather (연주 · B Lo-Fi Jazz-Hop · Nujabes)
+## Track 09 — Still Feather (연주 · B Lo-Fi Jazz-Hop · Nujabes)
 
 ```
 [Lo-Fi Jazz Hop]
 [Instrumental]
 [72 BPM]
-[Dusty Boom Bap Drums]
-[Jazzy Rhodes Chords]
-[Warm Upright Bass]
-[Soft Vinyl Crackle]
-[Mellow Head-Nodding Groove]
-[Hazy Morning Mood]
-Warm lo-fi jazz hop, dusty boom bap drums laid back behind the beat, mellow Rhodes chords, soft upright bass, gentle vinyl crackle, a faint muted trumpet sample far in the background, no vocals, unhurried head-nodding groove, warm tape saturation, intimate studio warmth, soft and dreamy. Extended 3 to 4 minute arrangement, multiple evolving sections, no early fade, full outro.
+[Warm Dusty Boom Bap With Bouncy Swing]
+[Melancholic Jazz Piano And Harp Loop]
+[Soft Upright Bass]
+[Vinyl Crackle]
+[Bittersweet]
+[Extended 3 To 4 Minutes]
+[No Early Fade]
+[Full Outro]
 ```
 
 **Structure (가사 칸 입력 — 3분+ 확보):**
@@ -614,13 +613,14 @@ Warm lo-fi jazz hop, dusty boom bap drums laid back behind the beat, mellow Rhod
 [Lo-Fi Jazz Hop]
 [Instrumental]
 [70 BPM]
-[Soft Dusty Drums]
-[Mellow Rhodes Chords]
-[Deep Warm Bass]
+[Sleepy Dusty Boom Bap With Swing]
+[Warm Rhodes And Soft Flute]
+[Deep Upright Bass]
 [Heavy Vinyl Crackle]
-[Sleepy Late Night Mood]
-[Fading Outro Feel]
-Sleepy lo-fi jazz hop to close the night, soft dusty drums fading, mellow Rhodes chords, deep warm bass, heavy comforting vinyl crackle, a distant muted piano, no vocals, very slow head-nodding groove, intimate and dreamy, the final quiet track as the cafe closes. Extended 3 to 4 minute arrangement, multiple evolving sections, no early fade, long gentle fade out.
+[Dreamy]
+[Extended 3 To 4 Minutes]
+[No Early Fade]
+[Long Gentle Fade Out]
 ```
 
 **Structure (가사 칸 입력 — 3분+ 확보):**
