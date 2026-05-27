@@ -136,7 +136,7 @@
 | DAISHI DANCE | 밝고 고양 | Joyful, Sunrise, P.I.A.N.O. star, Kissin' you |
 | 시부야케이 | 레트로·장난기 | Sweet Soul Revue, Twiggy Twiggy, Happy Sad, Tokyo's Coolest Sound |
 
-→ Vol.01 적용 예: Morning **Feather** (Nujabes) ↔ Last **Feather** (Nujabes) 수미상관, Tide Turning (FreeTEMPO `tide` 참고), Dusk **Couleur** (FreeTEMPO `couleur` 참고), Sweet Sunset **Revue** (Pizzicato Five `Sweet Soul Revue` 참고), **Counting** Streetlights (Nujabes `Counting Stars` 참고), **Joyful** Skyline (DAISHI DANCE `Joyful` 참고)
+→ Vol.01 적용 예 (2026-05-27 갱신): Pale **Horizon** (Nujabes `Horizon` 참고) ↔ **Mystline** Fade (Nujabes `Mystline` 참고) 수미상관, **Kalmia** Hour (Okawari `Kalmia` 참고), **Sched** Drift (FreeTEMPO `Sched` 참고), **Holiday** in Blue (FreeTEMPO `Holiday` 참고), **Lucky Breeze** (Kawasaki `Lucky Star`+`Summer Breeze` 참고), **Sunrise** Anthem (DAISHI `Sunrise` 참고), Drifting **Twilight** (FreeTEMPO `Twilight` 참고), **Tokyo's Coolest** Dusk (Pizzicato Five 참고), **Battlecry** Whispers (Nujabes×Shing02 `Battlecry` 참고)
 
 ---
 
@@ -252,12 +252,12 @@ Jazztronica 라인 파형은 **서클형(방사 바)** 으로 통일.
 # Jazztronica Vol.01 — Tokyo Cafe Day (전곡 아카이브)
 
 **컨셉:** 도쿄 카페의 하루 (아침 안개 → 황금시간 → 심야 마감)
-**수미상관:** T01 Morning Feather ↔ T10 Last Feather
+**수미상관:** T01 Pale Horizon ↔ T10 Mystline Fade (둘 다 Nujabes 참고)
 **작성일:** 2026-05-25
 
 ---
 
-## Track 01 — Morning Feather (Nujabes) · 연주 · B Lo-Fi Jazz-Hop
+## Track 01 — Pale Horizon (Nujabes — `Horizon` 참고) · 연주 · B Lo-Fi Jazz-Hop
 
 ```
 [Lo-Fi Jazz Hop]
@@ -285,7 +285,7 @@ Warm lo-fi jazz hop, dusty boom bap drums laid back behind the beat, mellow Rhod
 
 ---
 
-## Track 02 — あさひ (DJ Okawari) · 보컬 · B Neo-Soul · Verse 3 구조
+## Track 02 — Kalmia Hour (DJ Okawari — `Kalmia` 참고) · 보컬 · B Neo-Soul · Verse 3 구조
 
 ```
 [Lo-Fi Neo Soul]
@@ -303,47 +303,47 @@ Warm lo-fi neo soul, dusty boom bap drums behind the beat, jazzy Rhodes chords, 
 ```
 [Verse 1]
 [soft, intimate]
-morning light is falling slow
-あさのひかり ゆれている
-coffee warm between my hands
-こころ しずかに ほどけてゆく
+i wake to find your message
+the morning soft and pale
+こころ あたたかい
+the day is just beginning
 
 [Verse 2]
-the city hums a gentle song
-まどのそとは とおくかすむ
-nothing here i have to chase
-ただ このときに とけてゆく
+coffee steam between my fingers
+i think of you again
+あなたを おもう
+the city slowly wakes
 
 [Chorus]
-slow it down stay a while
-ゆっくりと いきをして
-let the morning hold us close
-このまま ときをとめて
+this is my kalmia hour
+soft and slow and true
+こころ ひらいて
+this is just for you
 
 [Bridge]
-no rush no name
-なにも いそがない
+quiet love so simple
+これだけで いい
 
 [Verse 3]
-steam is rising soft and pale
-ゆげが しずかに のぼってく
-i could stay here all day long
-あなたと ここに いたいだけ
+sunlight through the curtain
+warm against my face
+あなたの こえ
+i carry through the day
 
 [Final Chorus]
-slow it down stay a while
-ゆっくりと いきをして
-let the morning hold us close
-このまま ときをとめて
+this is my kalmia hour
+soft and slow and true
+こころ ひらいて
+this is just for you
 
 [Outro]
-あさのひかり ゆれている
-soft and warm and slow
+this is just for you
+あなたへ おくる
 ```
 
 ---
 
-## Track 03 — Tide Turning (FreeTEMPO) · 연주 · B→A 전환
+## Track 03 — Sched Drift (FreeTEMPO — `Sched` 참고) · 연주 · B→A 전환
 
 ```
 [Downtempo Organic House]
@@ -371,7 +371,7 @@ Downtempo jazz easing into organic house, soft four on the floor kick fading in,
 
 ---
 
-## Track 04 — drift along (FreeTEMPO) · 보컬 · A Organic House · 표준 Verse 3 구조
+## Track 04 — Holiday in Blue (FreeTEMPO — `Holiday` 참고) · 보컬 · A Organic House · 표준 Verse 3 구조
 
 ```
 [Organic Jazz House]
@@ -391,47 +391,47 @@ Organic jazzy house, warm four on the floor groove, jazzy piano house chords, de
 [instrumental, piano house chords]
 
 [Verse 1]
-sunlight on the floor
-ゆかに ひかりがおちる
-something soft inside
-むねが あたたかい
+sunshine on the water
+we got no place to be
+ふたりだけの じかん
+just you and me
 
 [Verse 2]
-dancing slow alone
-ひとり ゆれている
-nothing left to hold
-なにも いらないよ
+dancing in the kitchen
+holding nothing tight
+かるく ながれる
+everything feels right
 
 [Chorus]
-feel the morning move
-あさが うごきだす
-let it carry you
-ながれに まかせて
+i just wanna stay with you forever
+holiday with you forever
+ふたりで ずっと
+holiday in blue
 
 [Bridge]
-just let go
-てを はなして
+nowhere else to go
+ここに いたい
 
 [Verse 3]
-morning turns to noon
-あさが ひるに なる
-still i feel it move
-まだ ながれている
+ocean breeze is calling
+hours melt away
+じかんが とけてく
+this perfect day
 
 [Final Chorus]
-feel the morning move
-あさが うごきだす
-let it carry you
-ながれに まかせて
+i just wanna stay with you forever
+holiday with you forever
+ふたりで ずっと
+holiday in blue
 
 [Outro]
-ながれに まかせて
-let it carry you
+holiday in blue
+ふたりで ずっと
 ```
 
 ---
 
-## Track 05 — Golden Avenue (DJ Kawasaki) · 연주 · A Jazz House
+## Track 05 — Lucky Breeze (DJ Kawasaki — `Lucky Star`+`Summer Breeze` 참고) · 연주 · A Jazz House
 
 ```
 [Jazzy Deep House]
@@ -459,7 +459,7 @@ Jazzy deep house with a driving four on the floor groove, bright jazzy piano hou
 
 ---
 
-## Track 06 — Joyful Skyline (DAISHI DANCE) · 보컬 · A Piano House 피크 · 표준 Verse 3 구조
+## Track 06 — Sunrise Anthem (DAISHI DANCE — `Sunrise` 참고) · 보컬 · A Piano House 피크 · 표준 Verse 3 구조
 
 ```
 [Melodic Piano House]
@@ -479,47 +479,47 @@ Melodic piano house at peak energy, driving four on the floor groove, bright emo
 [instrumental, bright piano house]
 
 [Verse 1]
-sky is turning rose and gold
-そらが あかく そまってく
-everything feels so alive
-すべてが かがやいてる
+i was waiting for the sunrise
+you were waiting too
+ひかりに つつまれて
+we are finally true
 
 [Verse 2]
-hands up in the amber air
-てを あげて かんじて
-hold this moment everywhere
-このときを わすれない
+break the dawn together
+break the night in two
+よあけの なかで
+i belong with you
 
 [Chorus]
-hold the light before it goes
-ひかりを いま つかまえて
-golden hour takes us home
-ゆうやけが よんでいる
+this is our sunrise anthem
+shining bright and true
+ふたりの あした
+forever me and you
 
 [Bridge]
-right now is all we have
-いまだけを いきて
+hold me through the morning
+あなただけ
 
 [Verse 3]
-when the colors start to fade
-いろが きえていっても
-we will carry what we made
-このきもち つれてゆく
+golden on your shoulders
+golden in your eyes
+きんいろの あさ
+under endless skies
 
 [Final Chorus]
-hold the light before it goes
-ひかりを いま つかまえて
-golden hour takes us home
-ゆうやけが よんでいる
+this is our sunrise anthem
+shining bright and true
+ふたりの あした
+forever me and you
 
 [Outro]
-ゆうやけが よんでいる
-take us home
+forever me and you
+ふたりの あした
 ```
 
 ---
 
-## Track 07 — Dusk Couleur (FreeTEMPO) · 연주 · A→B 하강
+## Track 07 — Drifting Twilight (FreeTEMPO — `Twilight` 참고) · 연주 · A→B 하강
 
 ```
 [Organic House]
@@ -547,7 +547,7 @@ Organic house easing down from the peak, four on the floor softening, jazzy Rhod
 
 ---
 
-## Track 08 — Sweet Sunset Revue (Shibuya-kei / Pizzicato Five) · 연주 · B Shibuya-kei 결
+## Track 08 — Tokyo's Coolest Dusk (Pizzicato Five — `Tokyo's Coolest Sound` 참고) · 연주 · B Shibuya-kei 결
 
 ```
 [Downtempo Shibuya Kei Jazz]
@@ -574,7 +574,7 @@ Downtempo shibuya kei flavored jazz, soft bossa nova drums, warm vibraphone and 
 
 ---
 
-## Track 09 — Counting Streetlights (Nujabes × Shing02) · 보컬 · B Lo-Fi 랩/읊조림 · Verse 3 구조
+## Track 09 — Battlecry Whispers (Nujabes × Shing02 — `Battlecry` 참고) · 보컬 · B Lo-Fi 랩/읊조림 · Verse 3 구조
 
 ```
 [Lo-Fi Jazz Hop]
@@ -592,41 +592,46 @@ Lo-fi jazz hop with a laid-back spoken rap delivery over a soft sung hook, dusty
 ```
 [Verse 1]
 [laid-back, spoken]
-evening falls on empty streets
-よるが しずかに おりてくる
-footsteps echo soft and slow
-あしおとだけ ひびいてる
+late night thoughts arrive in whispers
+よる ひとり しずか
+patterns of the streetlight
+through my window in the dark
+nothing rushes
+something settles
 
 [Verse 2]
-thoughts are drifting like the smoke
-けむりみたいに ながれてく
-nothing heavy on my mind
-こころは かるく なってゆく
+[laid-back, spoken]
+words that never quite arrived
+わたしの こころに
+fall like quiet rain on tile
+quiet rain becomes a river
+slow and warm and never tired
 
 [Chorus]
 [soft, sung]
-let the night just take its time
-よるに みを あずけて
-everything is gonna be fine
+this is my battlecry whispered low
+よるの こえ
+not a shout but still i know
 だいじょうぶ だから
 
 [Bridge]
 [spoken]
-breathe it in let it go
-すって そして はいて
+hold the silence let it speak
+しずかに きいて
 
 [Verse 3]
 [laid-back, spoken]
-streetlights paint the quiet gold
-あかりが みちを てらす
-walking home without a sound
-ひとり しずかに あるく
+i write the night a love letter
+よるに おくる
+fold it slow and let it scatter
+every street becomes a page
+every shadow turns to matter
 
 [Final Chorus]
 [soft, sung]
-let the night just take its time
-よるに みを あずけて
-everything is gonna be fine
+this is my battlecry whispered low
+よるの こえ
+not a shout but still i know
 だいじょうぶ だから
 
 [Outro]
@@ -636,7 +641,7 @@ slow and warm and low
 
 ---
 
-## Track 10 — Last Feather (Nujabes) · 연주 · B Lo-Fi 마감
+## Track 10 — Mystline Fade (Nujabes — `Mystline` 참고) · 연주 · B Lo-Fi 마감
 
 ```
 [Lo-Fi Jazz Hop]
