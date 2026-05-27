@@ -99,19 +99,19 @@
 | # | 결 | 서브스타일 | BPM | 보컬 | Phase |
 |---|:---:|---|---:|:---:|:---:|
 | 01 | B | Lo-Fi Jazz-Hop (Nujabes) | 72 | 연주 | 起 |
-| 02 | B | Neo Soul (Okawari) | 78 | 🎤 보컬 | 起 |
+| 02 | B | Neo Soul (Okawari) | 78 | 연주 | 起 |
 | 03 | B→A | Downtempo→Organic 전환 | 90 | 연주 | 承 |
-| 04 | A | Organic House (FreeTEMPO) | 102 | 🎤 보컬 | 承 |
+| 04 | A | Organic House (FreeTEMPO) | 102 | 연주 | 承 |
 | 05 | A | Jazz House (DJ Kawasaki) | 110 | 연주 | 轉 |
-| 06 | A | Piano House (DAISHI) | 118 | 🎤 보컬 ⭐피크 | 轉 |
+| 06 | A | Piano House (DAISHI) | 118 | 연주 ⭐피크 | 轉 |
 | 07 | A→B | Organic House 하강 | 106 | 연주 | 轉 |
 | 08 | B | Shibuya-kei Jazz | 92 | 연주 | 結 |
-| 09 | B | Lo-Fi 랩/읊조림 (Nujabes×Shing02) | 80 | 🎤 보컬 | 結 |
+| 09 | B | Lo-Fi Jazz-Hop (Nujabes) | 80 | 연주 | 結 |
 | 10 | B | Lo-Fi Jazz-Hop (Nujabes) | 70 | 연주 | 結 |
 
 **규칙:**
-- 보컬 4곡(02·04·06·09) + 연주 6곡. 시작(01)·끝(10)은 연주로 감싼다.
-- B 6곡 + A 4곡. 전곡에 가사 넣지 않는다 (BGM 유지).
+- **전곡 연주 (인스트루멘탈).** 보컬 없음.
+- B 6곡 + A 4곡. 전곡 BGM.
 - 트랙 03·07이 두 결을 잇는 다리.
 
 ---
@@ -138,34 +138,25 @@
 
 ---
 
-## 📝 가사 규칙
+## 📝 구조 규칙
 
-- **언어:** 일본어 + 영어 혼합
-- **일본어는 히라가나만** (한자·가타카나 금지) — [[feedback-japanese-lyrics-hiragana]]
-- **특수문자 전면 제외** (가사 본문)
-- **송폼 (Verse 3 구조 · 전곡 보컬 통일 · 2026-05-25):**
-  ```
-  [Verse 1] › [Verse 2] › [Chorus] › [Bridge] › [Verse 3] › [Final Chorus] › [Outro]
-  ```
-  - 로파이·하우스 **전 보컬곡 동일 적용** (하우스도 Hook 구조 폐기 → Chorus/Final Chorus로 통일)
-  - Verse 3는 Bridge와 Final Chorus 사이
-  - 하우스 트랙은 맨 앞에 `[Intro]` 연주 리드인만 허용
-- 연주곡은 `[Instrumental]` 태그, 가사 없음
+- **전곡 인스트루멘탈.** 보컬 없음.
+- 가사 칸: 구조 태그만 입력 (3분+ 확보)
 - 모든 Suno Style 프롬프트 1000자 미만 — [[feedback-suno-prompt-limit]]
 
 ---
 
 ## 🎚️ Suno Style DNA (결별)
 
-### B결 — Lo-Fi Jazz-Hop / Neo Soul
+### B결 — Lo-Fi Jazz-Hop
 ```
-[Lo-Fi Jazz Hop] 또는 [Lo-Fi Neo Soul]
+[Lo-Fi Jazz Hop]
 [Dusty Boom Bap Drums]
 [Jazzy Rhodes Chords]
 [Warm Upright Bass]
 [Soft Vinyl Crackle]
 [Mellow Head-Nodding Groove]
-+ 보컬 시 [Laid-Back Neo Soul Female Vocal] / [Laid-Back Spoken Rap Vocal]
+[Instrumental]
 ```
 
 ### A결 — Jazz House / Organic House / Piano House
@@ -176,7 +167,7 @@
 [Deep Rolling Bassline]
 [Soft Shaker Hi-Hats]
 [Warm Analog Pads]
-+ 보컬 시 [Uplifting Female House Vocal] / [Uplifting Vocal Hook]
+[Instrumental]
 ```
 
 ### C결 — Shibuya-kei Jazz
@@ -283,60 +274,29 @@ Warm lo-fi jazz hop, dusty boom bap drums laid back behind the beat, mellow Rhod
 
 ---
 
-## Track 02 — あさひ (DJ Okawari) · 보컬 · B Neo-Soul · Verse 3 구조
+## Track 02 — あさひ (DJ Okawari) · 연주 · B Neo-Soul
 
 ```
 [Lo-Fi Neo Soul]
+[Instrumental]
 [78 BPM]
 [Dusty Boom Bap Drums]
 [Jazzy Rhodes Chords]
 [Warm Upright Bass]
 [Soft Vinyl Crackle]
-[Laid-Back Neo Soul Female Vocal]
 [Mellow Head-Nodding Groove]
-Warm lo-fi neo soul, dusty boom bap drums behind the beat, jazzy Rhodes chords, soft upright bass, gentle vinyl crackle, laid-back intimate female vocal sung softly and close, no belting, mellow head-nodding groove, warm tape saturation, dreamy morning cafe feel.
+Warm lo-fi neo soul, dusty boom bap drums behind the beat, jazzy Rhodes chords, soft upright bass, gentle vinyl crackle, no vocals, mellow head-nodding groove, warm tape saturation, dreamy morning cafe feel. Extended 3 to 4 minute arrangement, multiple evolving sections, no early fade, full outro.
 ```
 
-**Lyrics:**
+**Structure (가사 칸 입력 — 3분+ 확보):**
 ```
-[Verse 1]
-[soft, intimate]
-morning light is falling slow
-あさのひかり ゆれている
-coffee warm between my hands
-こころ しずかに ほどけてゆく
-
-[Verse 2]
-the city hums a gentle song
-まどのそとは とおくかすむ
-nothing here i have to chase
-ただ このときに とけてゆく
-
-[Chorus]
-slow it down stay a while
-ゆっくりと いきをして
-let the morning hold us close
-このまま ときをとめて
-
-[Bridge]
-no rush no name
-なにも いそがない
-
-[Verse 3]
-steam is rising soft and pale
-ゆげが しずかに のぼってく
-i could stay here all day long
-あなたと ここに いたいだけ
-
-[Final Chorus]
-slow it down stay a while
-ゆっくりと いきをして
-let the morning hold us close
-このまま ときをとめて
-
+[Intro]
+[Main Theme]
+[Variation A]
+[Break]
+[Main Theme]
+[Variation B]
 [Outro]
-あさのひかり ゆれている
-soft and warm and slow
 ```
 
 ---
@@ -369,62 +329,29 @@ Downtempo jazz easing into organic house, soft four on the floor kick fading in,
 
 ---
 
-## Track 04 — drift along (FreeTEMPO) · 보컬 · A Organic House · 표준 Verse 3 구조
+## Track 04 — drift along (FreeTEMPO) · 연주 · A Organic House
 
 ```
 [Organic Jazz House]
+[Instrumental]
 [102 BPM]
 [Four On The Floor Groove]
 [Jazzy Piano House Chords]
 [Deep Rolling Bassline]
 [Soft Shaker Hi-Hats]
 [Warm Analog Pads]
-[Uplifting Female House Vocal]
-Organic jazzy house, warm four on the floor groove, jazzy piano house chords, deep rolling bassline, soft shaker hi-hats, warm analog pads, uplifting female vocal hook sung warm and smooth, repetitive and groove-locked, no vocal belting, feel-good daytime cafe energy.
+Organic jazzy house, warm four on the floor groove, jazzy piano house chords, deep rolling bassline, soft shaker hi-hats, warm analog pads, no vocals, feel-good daytime cafe energy. Extended 3 to 4 minute arrangement, multiple evolving sections, no early fade, full outro.
 ```
 
-**Lyrics:**
+**Structure (가사 칸 입력 — 3분+ 확보):**
 ```
 [Intro]
-[instrumental, piano house chords]
-
-[Verse 1]
-sunlight on the floor
-ゆかに ひかりがおちる
-something soft inside
-むねが あたたかい
-
-[Verse 2]
-dancing slow alone
-ひとり ゆれている
-nothing left to hold
-なにも いらないよ
-
-[Chorus]
-feel the morning move
-あさが うごきだす
-let it carry you
-ながれに まかせて
-
-[Bridge]
-just let go
-てを はなして
-
-[Verse 3]
-morning turns to noon
-あさが ひるに なる
-still i feel it move
-まだ ながれている
-
-[Final Chorus]
-feel the morning move
-あさが うごきだす
-let it carry you
-ながれに まかせて
-
+[Main Theme]
+[Variation A]
+[Break]
+[Main Theme]
+[Variation B]
 [Outro]
-ながれに まかせて
-let it carry you
 ```
 
 ---
@@ -457,62 +384,29 @@ Jazzy deep house with a driving four on the floor groove, bright jazzy piano hou
 
 ---
 
-## Track 06 — Joyful Skyline (DAISHI DANCE) · 보컬 · A Piano House 피크 · 표준 Verse 3 구조
+## Track 06 — Joyful Skyline (DAISHI DANCE) · 연주 · A Piano House 피크
 
 ```
 [Melodic Piano House]
+[Instrumental]
 [118 BPM]
 [Four On The Floor Groove]
 [Bright Piano House Chords]
 [Driving Deep Bassline]
 [Crisp Hi-Hats]
-[Uplifting Vocal Hook]
 [Golden Hour Peak Mood]
-Melodic piano house at peak energy, driving four on the floor groove, bright emotional piano house chords, deep driving bassline, crisp hi-hats, warm analog pads, uplifting vocal hook sung bright and warm, anthemic but smooth, golden hour sunset peak energy.
+Melodic piano house at peak energy, driving four on the floor groove, bright emotional piano house chords, deep driving bassline, crisp hi-hats, warm analog pads, no vocals, anthemic but smooth, golden hour sunset peak energy. Extended 3 to 4 minute arrangement, multiple evolving sections, no early fade, full outro.
 ```
 
-**Lyrics:**
+**Structure (가사 칸 입력 — 3분+ 확보):**
 ```
 [Intro]
-[instrumental, bright piano house]
-
-[Verse 1]
-sky is turning rose and gold
-そらが あかく そまってく
-everything feels so alive
-すべてが かがやいてる
-
-[Verse 2]
-hands up in the amber air
-てを あげて かんじて
-hold this moment everywhere
-このときを わすれない
-
-[Chorus]
-hold the light before it goes
-ひかりを いま つかまえて
-golden hour takes us home
-ゆうやけが よんでいる
-
-[Bridge]
-right now is all we have
-いまだけを いきて
-
-[Verse 3]
-when the colors start to fade
-いろが きえていっても
-we will carry what we made
-このきもち つれてゆく
-
-[Final Chorus]
-hold the light before it goes
-ひかりを いま つかまえて
-golden hour takes us home
-ゆうやけが よんでいる
-
+[Main Theme]
+[Variation A]
+[Break]
+[Main Theme]
+[Variation B]
 [Outro]
-ゆうやけが よんでいる
-take us home
 ```
 
 ---
@@ -572,64 +466,29 @@ Downtempo shibuya kei flavored jazz, soft bossa nova drums, warm vibraphone and 
 
 ---
 
-## Track 09 — Counting Streetlights (Nujabes × Shing02) · 보컬 · B Lo-Fi 랩/읊조림 · Verse 3 구조
+## Track 09 — Counting Streetlights (Nujabes) · 연주 · B Lo-Fi Jazz-Hop
 
 ```
 [Lo-Fi Jazz Hop]
+[Instrumental]
 [80 BPM]
 [Dusty Boom Bap Drums]
 [Jazzy Piano Loop]
 [Warm Upright Bass]
 [Soft Vinyl Crackle]
-[Laid-Back Spoken Rap Vocal]
 [Evening Wind Down Mood]
-Lo-fi jazz hop with a laid-back spoken rap delivery over a soft sung hook, dusty boom bap drums, jazzy piano loop, warm upright bass, soft vinyl crackle, intimate close vocal far from aggressive, mellow head-nodding groove, evening wind down cafe feel.
+Lo-fi jazz hop, dusty boom bap drums, jazzy piano loop, warm upright bass, soft vinyl crackle, no vocals, mellow head-nodding groove, evening wind down cafe feel. Extended 3 to 4 minute arrangement, multiple evolving sections, no early fade, full outro.
 ```
 
-**Lyrics:**
+**Structure (가사 칸 입력 — 3분+ 확보):**
 ```
-[Verse 1]
-[laid-back, spoken]
-evening falls on empty streets
-よるが しずかに おりてくる
-footsteps echo soft and slow
-あしおとだけ ひびいてる
-
-[Verse 2]
-thoughts are drifting like the smoke
-けむりみたいに ながれてく
-nothing heavy on my mind
-こころは かるく なってゆく
-
-[Chorus]
-[soft, sung]
-let the night just take its time
-よるに みを あずけて
-everything is gonna be fine
-だいじょうぶ だから
-
-[Bridge]
-[spoken]
-breathe it in let it go
-すって そして はいて
-
-[Verse 3]
-[laid-back, spoken]
-streetlights paint the quiet gold
-あかりが みちを てらす
-walking home without a sound
-ひとり しずかに あるく
-
-[Final Chorus]
-[soft, sung]
-let the night just take its time
-よるに みを あずけて
-everything is gonna be fine
-だいじょうぶ だから
-
+[Intro]
+[Main Theme]
+[Variation A]
+[Break]
+[Main Theme]
+[Variation B]
 [Outro]
-だいじょうぶ だから
-slow and warm and low
 ```
 
 ---
@@ -665,9 +524,8 @@ Sleepy lo-fi jazz hop to close the night, soft dusty drums fading, mellow Rhodes
 ## 체크리스트 (QA)
 
 - ✅ 하이브리드 큐레이션 (B 6곡 + A 4곡, 에너지 아크)
-- ✅ 보컬 4곡(02·04·06·09) 전부 표준 Verse 3 구조 통일 (`V1›V2›Chorus›Bridge›Verse3›Final Chorus›Outro`)
-- ✅ 연주 6곡 [Instrumental] 태그
-- ✅ 일본어 히라가나만 / 특수문자 없음
+- ✅ **전곡 인스트루멘탈** — 보컬 없음
+- ✅ 전 트랙 [Instrumental] 태그
 - ✅ 곡 제목 아티스트 작명 결 차용 / T01↔T10 수미상관
 - ✅ 모든 Suno Style 프롬프트 1000자 미만
 - ✅ 썸네일 = 부조리 밈/무자막 신박 전략 (Café del Mar 폐기)
