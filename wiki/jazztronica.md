@@ -118,34 +118,24 @@
 
 ## 🏷️ 곡 제목 작명 DNA (아티스트 결 차용)
 
-### ⭐ 절대 규칙 (2026-05-26 확정)
-- **수노 프롬프트는 변경 금지(lock).** 통과 검증된 형식([대괄호 태그] + 묘사 paragraph) 그대로 유지.
-
-### 제목 가이드 (참고용 · 변경 가능)
-- 레퍼런스 아티스트 작품의 곡 제목 스타일을 참고해 짓는다.
-- 곡 제목 옆에 레퍼런스 아티스트를 괄호로 표기 — `제목 (아티스트)`
-
 곡 제목은 SEO 나열이 아니라 **시적·이미지 중심 짧은 곡명** (아티스트 트랙명 방식).
 
-| 결 | 작명 특징 | 실제 트랙명 예시 (참고용) |
+| 결 | 작명 특징 | 예시 |
 |---|---|---|
-| Nujabes | 시적·자연/천체 이미지 | Feather, Horizon, Counting Stars, Luv(sic), Aruarian Dance, Kumomi, Mystline |
-| DJ Okawari | 단순·시각적 | Flower Dance, Luv Letter, Kalmia, Compass, Sketch, Perfect Blue, Diorama |
-| FreeTEMPO | 소문자·분위기 | tide, sky high, couleur, Sched, Twilight, Holiday, Moonshadow Dance |
-| DJ Kawasaki | 긍정·그루브 | Brand New Day, Spice of Life, Beautiful, Lucky Star, Hold On, Summer Breeze |
-| DAISHI DANCE | 밝고 고양 | Joyful, Sunrise, P.I.A.N.O. star, Kissin' you |
-| 시부야케이 | 레트로·장난기 | Sweet Soul Revue, Twiggy Twiggy, Happy Sad, Tokyo's Coolest Sound |
-
-→ Vol.01 적용 예 (2026-05-27 갱신): Pale **Horizon** (Nujabes `Horizon` 참고) ↔ **Mystline** Fade (Nujabes `Mystline` 참고) 수미상관, **Kalmia** Hour (Okawari `Kalmia` 참고), **Sched** Drift (FreeTEMPO `Sched` 참고), **Holiday** in Blue (FreeTEMPO `Holiday` 참고), **Lucky Breeze** (Kawasaki `Lucky Star`+`Summer Breeze` 참고), **Sunrise** Anthem (DAISHI `Sunrise` 참고), Drifting **Twilight** (FreeTEMPO `Twilight` 참고), **Tokyo's Coolest** Dusk (Pizzicato Five 참고), **Battlecry** Whispers (Nujabes×Shing02 `Battlecry` 참고)
+| Nujabes | 시적·자연/천체 이미지 | Feather, Horizon, Counting Stars |
+| DJ Okawari | 단순·시각적 | Flower Dance, Luv Letter |
+| FreeTEMPO | 소문자·분위기 | tide, sky high, couleur |
+| DJ Kawasaki | 긍정·그루브 | Brand New Day, Spice of Life |
+| DAISHI DANCE | 밝고 고양 | Joyful, Sunrise |
+| 시부야케이 | 레트로·장난기 | Sweet Soul Revue |
 
 ---
 
 ## 📝 가사 규칙
 
-- **언어:** **일본어 전용 / 히라가나 전용** (2026-05-27 재확정) — JP-EN 혼합도 아니고 영어 전용도 아닌, **히라가나만**으로 일본인 보컬이 본토 일본어로 부르게 함 — [[feedback-japanese-lyrics-hiragana]]
-- **금지:** 한자·가타카나·romaji·영어 라인·특수문자(— … · ★ 괄호 등) 전면 제외
-- **카타카나 외래어 처리:** 히라가나로 풀어쓰기 (예: コーヒー → こーひー, カーテン → かーてん, ホリデイ → ほりでい, ラブレター → らぶれたー)
-- **보컬 톤:** **본토 일본인 보컬리스트가 일본어로 노래** (Authentic Tokyo pronunciation). 보컬 태그에 명시: `Native Japanese Female Vocal` / `Native Japanese Rapper`
+- **언어:** 일본어 + 영어 혼합
+- **일본어는 히라가나만** (한자·가타카나 금지) — [[feedback-japanese-lyrics-hiragana]]
+- **특수문자 전면 제외** (가사 본문)
 - **송폼 (Verse 3 구조 · 전곡 보컬 통일 · 2026-05-25):**
   ```
   [Verse 1] › [Verse 2] › [Chorus] › [Bridge] › [Verse 3] › [Final Chorus] › [Outro]
@@ -168,7 +158,7 @@
 [Warm Upright Bass]
 [Soft Vinyl Crackle]
 [Mellow Head-Nodding Groove]
-+ 보컬 시 [Soft Japanese Female Vocal Singing English] / [Laid-Back Japanese Rapper English Verses]
++ 보컬 시 [Laid-Back Neo Soul Female Vocal] / [Laid-Back Spoken Rap Vocal]
 ```
 
 ### A결 — Jazz House / Organic House / Piano House
@@ -179,7 +169,7 @@
 [Deep Rolling Bassline]
 [Soft Shaker Hi-Hats]
 [Warm Analog Pads]
-+ 보컬 시 [Uplifting Japanese Female Vocal Singing English] / [Anthemic Japanese Female Vocal Singing English]
++ 보컬 시 [Uplifting Female House Vocal] / [Uplifting Vocal Hook]
 ```
 
 ### C결 — Shibuya-kei Jazz
@@ -253,12 +243,12 @@ Jazztronica 라인 파형은 **서클형(방사 바)** 으로 통일.
 # Jazztronica Vol.01 — Tokyo Cafe Day (전곡 아카이브)
 
 **컨셉:** 도쿄 카페의 하루 (아침 안개 → 황금시간 → 심야 마감)
-**수미상관:** T01 Pale Horizon ↔ T10 Mystline Fade (둘 다 Nujabes 참고)
+**수미상관:** T01 Morning Feather ↔ T10 Last Feather
 **작성일:** 2026-05-25
 
 ---
 
-## Track 01 — Pale Horizon (Nujabes — `Horizon` 참고) · 연주 · B Lo-Fi Jazz-Hop
+## Track 01 — Morning Feather (연주 · B Lo-Fi Jazz-Hop)
 
 ```
 [Lo-Fi Jazz Hop]
@@ -286,7 +276,7 @@ Warm lo-fi jazz hop, dusty boom bap drums laid back behind the beat, mellow Rhod
 
 ---
 
-## Track 02 — Kalmia Hour (DJ Okawari — `Kalmia` 참고) · 보컬 · B Neo-Soul · Verse 3 구조
+## Track 02 — あさひ (보컬 · B Neo-Soul · Verse 3 구조)
 
 ```
 [Lo-Fi Neo Soul]
@@ -295,56 +285,56 @@ Warm lo-fi jazz hop, dusty boom bap drums laid back behind the beat, mellow Rhod
 [Jazzy Rhodes Chords]
 [Warm Upright Bass]
 [Soft Vinyl Crackle]
-[Soft Native Japanese Female Vocal]
+[Laid-Back Neo Soul Female Vocal]
 [Mellow Head-Nodding Groove]
-Warm lo-fi neo soul, dusty boom bap drums behind the beat, jazzy Rhodes chords, soft upright bass, gentle vinyl crackle, native Japanese female vocalist singing in Japanese with authentic Tokyo pronunciation, intimate close mic, no belting, mellow head-nodding groove, dreamy morning cafe feel.
+Warm lo-fi neo soul, dusty boom bap drums behind the beat, jazzy Rhodes chords, soft upright bass, gentle vinyl crackle, laid-back intimate female vocal sung softly and close, no belting, mellow head-nodding groove, warm tape saturation, dreamy morning cafe feel.
 ```
 
 **Lyrics:**
 ```
 [Verse 1]
 [soft, intimate]
-あさの ひかりに めざめて
-あなたの ことばを みつけた
-むねの なかが あたたかい
-いちにちが はじまる
+morning light is falling slow
+あさのひかり ゆれている
+coffee warm between my hands
+こころ しずかに ほどけてゆく
 
 [Verse 2]
-こーひーの ゆげの むこう
-また あなたを おもう
-しずかな この きもち
-まちが ゆっくり めを さます
+the city hums a gentle song
+まどのそとは とおくかすむ
+nothing here i have to chase
+ただ このときに とけてゆく
 
 [Chorus]
-これが わたしの かるみあ あわー
-やわらかくて まっすぐな じかん
-こころを ひらいて
-あなたの ために
+slow it down stay a while
+ゆっくりと いきをして
+let the morning hold us close
+このまま ときをとめて
 
 [Bridge]
-しずかな あい それだけで
-それだけで いい
+no rush no name
+なにも いそがない
 
 [Verse 3]
-かーてん ごしの ひざし
-ほおを あたためて くれる
-きこえる あなたの こえ
-いちにちを だいて あるく
+steam is rising soft and pale
+ゆげが しずかに のぼってく
+i could stay here all day long
+あなたと ここに いたいだけ
 
 [Final Chorus]
-これが わたしの かるみあ あわー
-やわらかくて まっすぐな じかん
-こころを ひらいて
-あなたの ために
+slow it down stay a while
+ゆっくりと いきをして
+let the morning hold us close
+このまま ときをとめて
 
 [Outro]
-あなたへ おくる
-わたしの すべて
+あさのひかり ゆれている
+soft and warm and slow
 ```
 
 ---
 
-## Track 03 — Sched Drift (FreeTEMPO — `Sched` 참고) · 연주 · B→A 전환
+## Track 03 — Tide Turning (연주 · B→A 전환)
 
 ```
 [Downtempo Organic House]
@@ -372,7 +362,7 @@ Downtempo jazz easing into organic house, soft four on the floor kick fading in,
 
 ---
 
-## Track 04 — Holiday in Blue (FreeTEMPO — `Holiday` 참고) · 보컬 · A Organic House · 표준 Verse 3 구조
+## Track 04 — drift along (보컬 · A Organic House · 표준 Verse 3 구조)
 
 ```
 [Organic Jazz House]
@@ -382,8 +372,8 @@ Downtempo jazz easing into organic house, soft four on the floor kick fading in,
 [Deep Rolling Bassline]
 [Soft Shaker Hi-Hats]
 [Warm Analog Pads]
-[Uplifting Native Japanese Female Vocal]
-Organic jazzy house, warm four on the floor groove, jazzy piano house chords, deep rolling bassline, soft shaker hi-hats, warm analog pads, native Japanese female vocalist singing in Japanese with authentic Tokyo pronunciation, smooth and warm not belting, repetitive hook-driven, feel-good daytime cafe energy.
+[Uplifting Female House Vocal]
+Organic jazzy house, warm four on the floor groove, jazzy piano house chords, deep rolling bassline, soft shaker hi-hats, warm analog pads, uplifting female vocal hook sung warm and smooth, repetitive and groove-locked, no vocal belting, feel-good daytime cafe energy.
 ```
 
 **Lyrics:**
@@ -392,47 +382,47 @@ Organic jazzy house, warm four on the floor groove, jazzy piano house chords, de
 [instrumental, piano house chords]
 
 [Verse 1]
-みなもに ひが おどって
-ふたりだけの じかん
-ただ あなたと わたし
-それだけで いい
+sunlight on the floor
+ゆかに ひかりがおちる
+something soft inside
+むねが あたたかい
 
 [Verse 2]
-きっちんで おどろう
-なにも にぎらずに
-かろやかに ながれて
-すべてが ただしい
+dancing slow alone
+ひとり ゆれている
+nothing left to hold
+なにも いらないよ
 
 [Chorus]
-あなたと いつまでも
-ずっと そばに いたい
-ふたり ずっと
-ほりでい いん ぶるー
+feel the morning move
+あさが うごきだす
+let it carry you
+ながれに まかせて
 
 [Bridge]
-どこにも いかない
-ここに いたい
+just let go
+てを はなして
 
 [Verse 3]
-しおかぜが よんでいる
-じかんが とけてゆく
-すべてが とけてゆく
-かんぺきな いちにち
+morning turns to noon
+あさが ひるに なる
+still i feel it move
+まだ ながれている
 
 [Final Chorus]
-あなたと いつまでも
-ずっと そばに いたい
-ふたり ずっと
-ほりでい いん ぶるー
+feel the morning move
+あさが うごきだす
+let it carry you
+ながれに まかせて
 
 [Outro]
-ほりでい いん ぶるー
-ふたりだけ
+ながれに まかせて
+let it carry you
 ```
 
 ---
 
-## Track 05 — Lucky Breeze (DJ Kawasaki — `Lucky Star`+`Summer Breeze` 참고) · 연주 · A Jazz House
+## Track 05 — Golden Avenue (연주 · A Jazz House)
 
 ```
 [Jazzy Deep House]
@@ -460,7 +450,7 @@ Jazzy deep house with a driving four on the floor groove, bright jazzy piano hou
 
 ---
 
-## Track 06 — Sunrise Anthem (DAISHI DANCE — `Sunrise` 참고) · 보컬 · A Piano House 피크 · 표준 Verse 3 구조
+## Track 06 — Joyful Skyline (보컬 · A Piano House 피크 · 표준 Verse 3 구조)
 
 ```
 [Melodic Piano House]
@@ -469,9 +459,9 @@ Jazzy deep house with a driving four on the floor groove, bright jazzy piano hou
 [Bright Piano House Chords]
 [Driving Deep Bassline]
 [Crisp Hi-Hats]
-[Anthemic Native Japanese Female Vocal]
+[Uplifting Vocal Hook]
 [Golden Hour Peak Mood]
-Melodic piano house at peak energy, driving four on the floor groove, bright emotional piano house chords, deep driving bassline, crisp hi-hats, warm analog pads, native Japanese female vocalist singing in Japanese with authentic Tokyo pronunciation, anthemic but smooth, not over-belted, golden hour sunset peak energy.
+Melodic piano house at peak energy, driving four on the floor groove, bright emotional piano house chords, deep driving bassline, crisp hi-hats, warm analog pads, uplifting vocal hook sung bright and warm, anthemic but smooth, golden hour sunset peak energy.
 ```
 
 **Lyrics:**
@@ -480,47 +470,47 @@ Melodic piano house at peak energy, driving four on the floor groove, bright emo
 [instrumental, bright piano house]
 
 [Verse 1]
-あのよあけを まっていた
-あなたも まっていた
-ひかりに つつまれて
-いま やっと ほんとうに なる
+sky is turning rose and gold
+そらが あかく そまってく
+everything feels so alive
+すべてが かがやいてる
 
 [Verse 2]
-よあけを いっしょに あけよう
-よるを ふたつに わって
-あさの はじまりの なかで
-あなたと いるべきと しる
+hands up in the amber air
+てを あげて かんじて
+hold this moment everywhere
+このときを わすれない
 
 [Chorus]
-これが ふたりの さんらいず あんせむ
-あかるく まっすぐ かがやく
-ふたりの あした
-えいえんに あなたと わたし
+hold the light before it goes
+ひかりを いま つかまえて
+golden hour takes us home
+ゆうやけが よんでいる
 
 [Bridge]
-あさまで だきしめて
-あなただけ あなただけ
+right now is all we have
+いまだけを いきて
 
 [Verse 3]
-かたに ふる こがね
-ひとみに うつる こがね
-すべてが こがねいろの あさ
-はてしない そらの したで
+when the colors start to fade
+いろが きえていっても
+we will carry what we made
+このきもち つれてゆく
 
 [Final Chorus]
-これが ふたりの さんらいず あんせむ
-あかるく まっすぐ かがやく
-ふたりの あした
-えいえんに あなたと わたし
+hold the light before it goes
+ひかりを いま つかまえて
+golden hour takes us home
+ゆうやけが よんでいる
 
 [Outro]
-えいえんに あなたと わたし
-ふたりの あした
+ゆうやけが よんでいる
+take us home
 ```
 
 ---
 
-## Track 07 — Drifting Twilight (FreeTEMPO — `Twilight` 참고) · 연주 · A→B 하강
+## Track 07 — Dusk Couleur (연주 · A→B 하강)
 
 ```
 [Organic House]
@@ -548,7 +538,7 @@ Organic house easing down from the peak, four on the floor softening, jazzy Rhod
 
 ---
 
-## Track 08 — Tokyo's Coolest Dusk (Pizzicato Five — `Tokyo's Coolest Sound` 참고) · 연주 · B Shibuya-kei 결
+## Track 08 — Sweet Sunset Revue (연주 · B Shibuya-kei 결)
 
 ```
 [Downtempo Shibuya Kei Jazz]
@@ -575,7 +565,7 @@ Downtempo shibuya kei flavored jazz, soft bossa nova drums, warm vibraphone and 
 
 ---
 
-## Track 09 — Battlecry Whispers (Nujabes × Shing02 — `Battlecry` 참고) · 보컬 · B Lo-Fi 랩/읊조림 · Verse 3 구조
+## Track 09 — Counting Streetlights (보컬 · B Lo-Fi 랩/읊조림 · Verse 3 구조)
 
 ```
 [Lo-Fi Jazz Hop]
@@ -584,59 +574,60 @@ Downtempo shibuya kei flavored jazz, soft bossa nova drums, warm vibraphone and 
 [Jazzy Piano Loop]
 [Warm Upright Bass]
 [Soft Vinyl Crackle]
-[Laid-Back Native Japanese Rapper]
+[Laid-Back Spoken Rap Vocal]
 [Evening Wind Down Mood]
-Lo-fi jazz hop with a laid-back native Japanese rapper delivering verses in Japanese with authentic Tokyo pronunciation in the Shing02 spirit, dusty boom bap drums, jazzy piano loop, warm upright bass, soft vinyl crackle, intimate close mic, reflective and conversational, mellow head-nodding groove, evening wind down cafe feel.
+Lo-fi jazz hop with a laid-back spoken rap delivery over a soft sung hook, dusty boom bap drums, jazzy piano loop, warm upright bass, soft vinyl crackle, intimate close vocal far from aggressive, mellow head-nodding groove, evening wind down cafe feel.
 ```
 
 **Lyrics:**
 ```
 [Verse 1]
 [laid-back, spoken]
-しんやの しこうが ささやきで とどく
-がいとうの もよう まどの むこうがわ
-いそがない おちついてゆく
-ちんもくが ことばいじょうを かたる
+evening falls on empty streets
+よるが しずかに おりてくる
+footsteps echo soft and slow
+あしおとだけ ひびいてる
 
 [Verse 2]
-[laid-back, spoken]
-とどかなかった ことばたちが
-たいるに ふる しずかな あめのように
-あめは やがて かわに なる
-ゆっくり あたたかく つかれを しらずに
+thoughts are drifting like the smoke
+けむりみたいに ながれてく
+nothing heavy on my mind
+こころは かるく なってゆく
 
 [Chorus]
 [soft, sung]
-これが ささやいた ぼくの さけび
-さけばないけど たしかに しっている
-ふかく ふかく しっている
+let the night just take its time
+よるに みを あずけて
+everything is gonna be fine
+だいじょうぶ だから
 
 [Bridge]
 [spoken]
-ちんもくに みみを すませ
-かたらせてくれ
+breathe it in let it go
+すって そして はいて
 
 [Verse 3]
 [laid-back, spoken]
-よるに らぶれたーを かく
-ゆっくり おって しずかに ちらす
-すべての とおりが いちまいの ぺーじ
-すべての かげが いみを もつ
+streetlights paint the quiet gold
+あかりが みちを てらす
+walking home without a sound
+ひとり しずかに あるく
 
 [Final Chorus]
 [soft, sung]
-これが ささやいた ぼくの さけび
-さけばないけど たしかに しっている
-ふかく ふかく しっている
+let the night just take its time
+よるに みを あずけて
+everything is gonna be fine
+だいじょうぶ だから
 
 [Outro]
-ゆっくり あたたかく
-ふかく しっている
+だいじょうぶ だから
+slow and warm and low
 ```
 
 ---
 
-## Track 10 — Mystline Fade (Nujabes — `Mystline` 참고) · 연주 · B Lo-Fi 마감
+## Track 10 — Last Feather (연주 · B Lo-Fi 마감)
 
 ```
 [Lo-Fi Jazz Hop]
