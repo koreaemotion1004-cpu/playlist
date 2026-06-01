@@ -142,9 +142,10 @@
 
 ## 📝 가사 규칙
 
-- **언어:** **영어 전용** (2026-05-27 확정) — 일본어 라인 없음. Suno에서 JP-EN 혼합 시 "영어권 사람이 일본어 하는 느낌" 어색함 발생 → 영어로 통일하고 보컬 톤으로 일본 느낌 살림
-- **보컬 톤:** **일본인 보컬리스트가 영어로 노래하는 느낌** (Yusa/Emily/Shing02 정공법). 보컬 태그에 명시: `Japanese Female Vocal Singing English` / `Japanese Rapper English Verses`
-- **특수문자 전면 제외** (가사 본문)
+- **언어:** **일본어 전용 / 히라가나 전용** (2026-05-27 재확정) — JP-EN 혼합도 아니고 영어 전용도 아닌, **히라가나만**으로 일본인 보컬이 본토 일본어로 부르게 함 — [[feedback-japanese-lyrics-hiragana]]
+- **금지:** 한자·가타카나·romaji·영어 라인·특수문자(— … · ★ 괄호 등) 전면 제외
+- **카타카나 외래어 처리:** 히라가나로 풀어쓰기 (예: コーヒー → こーひー, カーテン → かーてん, ホリデイ → ほりでい, ラブレター → らぶれたー)
+- **보컬 톤:** **본토 일본인 보컬리스트가 일본어로 노래** (Authentic Tokyo pronunciation). 보컬 태그에 명시: `Native Japanese Female Vocal` / `Native Japanese Rapper`
 - **송폼 (Verse 3 구조 · 전곡 보컬 통일 · 2026-05-25):**
   ```
   [Verse 1] › [Verse 2] › [Chorus] › [Bridge] › [Verse 3] › [Final Chorus] › [Outro]
@@ -294,51 +295,51 @@ Warm lo-fi jazz hop, dusty boom bap drums laid back behind the beat, mellow Rhod
 [Jazzy Rhodes Chords]
 [Warm Upright Bass]
 [Soft Vinyl Crackle]
-[Soft Japanese Female Vocal Singing English]
+[Soft Native Japanese Female Vocal]
 [Mellow Head-Nodding Groove]
-Warm lo-fi neo soul, dusty boom bap drums behind the beat, jazzy Rhodes chords, soft upright bass, gentle vinyl crackle, native Japanese female vocalist singing softly in English with light Japanese inflection, intimate close mic, no belting, mellow head-nodding groove, dreamy morning cafe feel.
+Warm lo-fi neo soul, dusty boom bap drums behind the beat, jazzy Rhodes chords, soft upright bass, gentle vinyl crackle, native Japanese female vocalist singing in Japanese with authentic Tokyo pronunciation, intimate close mic, no belting, mellow head-nodding groove, dreamy morning cafe feel.
 ```
 
 **Lyrics:**
 ```
 [Verse 1]
 [soft, intimate]
-i wake to find your message
-the morning soft and pale
-something warm inside
-the day is just beginning
+あさの ひかりに めざめて
+あなたの ことばを みつけた
+むねの なかが あたたかい
+いちにちが はじまる
 
 [Verse 2]
-coffee steam between my fingers
-i think of you again
-i hold this quiet feeling
-the city slowly wakes
+こーひーの ゆげの むこう
+また あなたを おもう
+しずかな この きもち
+まちが ゆっくり めを さます
 
 [Chorus]
-this is my kalmia hour
-soft and slow and true
-opening my heart
-this is just for you
+これが わたしの かるみあ あわー
+やわらかくて まっすぐな じかん
+こころを ひらいて
+あなたの ために
 
 [Bridge]
-quiet love so simple
-this is all i need
+しずかな あい それだけで
+それだけで いい
 
 [Verse 3]
-sunlight through the curtain
-warm against my face
-i hear your voice in silence
-i carry through the day
+かーてん ごしの ひざし
+ほおを あたためて くれる
+きこえる あなたの こえ
+いちにちを だいて あるく
 
 [Final Chorus]
-this is my kalmia hour
-soft and slow and true
-opening my heart
-this is just for you
+これが わたしの かるみあ あわー
+やわらかくて まっすぐな じかん
+こころを ひらいて
+あなたの ために
 
 [Outro]
-this is just for you
-sending it to you
+あなたへ おくる
+わたしの すべて
 ```
 
 ---
@@ -381,8 +382,8 @@ Downtempo jazz easing into organic house, soft four on the floor kick fading in,
 [Deep Rolling Bassline]
 [Soft Shaker Hi-Hats]
 [Warm Analog Pads]
-[Uplifting Japanese Female Vocal Singing English]
-Organic jazzy house, warm four on the floor groove, jazzy piano house chords, deep rolling bassline, soft shaker hi-hats, warm analog pads, native Japanese female vocalist singing English with light Japanese inflection, smooth and warm not belting, repetitive hook-driven, feel-good daytime cafe energy.
+[Uplifting Native Japanese Female Vocal]
+Organic jazzy house, warm four on the floor groove, jazzy piano house chords, deep rolling bassline, soft shaker hi-hats, warm analog pads, native Japanese female vocalist singing in Japanese with authentic Tokyo pronunciation, smooth and warm not belting, repetitive hook-driven, feel-good daytime cafe energy.
 ```
 
 **Lyrics:**
@@ -391,42 +392,42 @@ Organic jazzy house, warm four on the floor groove, jazzy piano house chords, de
 [instrumental, piano house chords]
 
 [Verse 1]
-sunshine on the water
-we got no place to be
-just the two of us
-just you and me
+みなもに ひが おどって
+ふたりだけの じかん
+ただ あなたと わたし
+それだけで いい
 
 [Verse 2]
-dancing in the kitchen
-holding nothing tight
-flowing gently through the day
-everything feels right
+きっちんで おどろう
+なにも にぎらずに
+かろやかに ながれて
+すべてが ただしい
 
 [Chorus]
-i just wanna stay with you forever
-holiday with you forever
-just the two of us forever
-holiday in blue
+あなたと いつまでも
+ずっと そばに いたい
+ふたり ずっと
+ほりでい いん ぶるー
 
 [Bridge]
-nowhere else to go
-i wanna stay right here
+どこにも いかない
+ここに いたい
 
 [Verse 3]
-ocean breeze is calling
-hours melt away
-time is melting all around us
-this perfect day
+しおかぜが よんでいる
+じかんが とけてゆく
+すべてが とけてゆく
+かんぺきな いちにち
 
 [Final Chorus]
-i just wanna stay with you forever
-holiday with you forever
-just the two of us forever
-holiday in blue
+あなたと いつまでも
+ずっと そばに いたい
+ふたり ずっと
+ほりでい いん ぶるー
 
 [Outro]
-holiday in blue
-just the two of us
+ほりでい いん ぶるー
+ふたりだけ
 ```
 
 ---
@@ -468,9 +469,9 @@ Jazzy deep house with a driving four on the floor groove, bright jazzy piano hou
 [Bright Piano House Chords]
 [Driving Deep Bassline]
 [Crisp Hi-Hats]
-[Anthemic Japanese Female Vocal Singing English]
+[Anthemic Native Japanese Female Vocal]
 [Golden Hour Peak Mood]
-Melodic piano house at peak energy, driving four on the floor groove, bright emotional piano house chords, deep driving bassline, crisp hi-hats, warm analog pads, native Japanese female vocalist singing English with light Japanese inflection, anthemic but smooth, not over-belted, golden hour sunset peak energy.
+Melodic piano house at peak energy, driving four on the floor groove, bright emotional piano house chords, deep driving bassline, crisp hi-hats, warm analog pads, native Japanese female vocalist singing in Japanese with authentic Tokyo pronunciation, anthemic but smooth, not over-belted, golden hour sunset peak energy.
 ```
 
 **Lyrics:**
@@ -479,42 +480,42 @@ Melodic piano house at peak energy, driving four on the floor groove, bright emo
 [instrumental, bright piano house]
 
 [Verse 1]
-i was waiting for the sunrise
-you were waiting too
-wrapped in the morning light
-we are finally true
+あのよあけを まっていた
+あなたも まっていた
+ひかりに つつまれて
+いま やっと ほんとうに なる
 
 [Verse 2]
-break the dawn together
-break the night in two
-in the early daybreak
-i belong with you
+よあけを いっしょに あけよう
+よるを ふたつに わって
+あさの はじまりの なかで
+あなたと いるべきと しる
 
 [Chorus]
-this is our sunrise anthem
-shining bright and true
-just the two tomorrows
-forever me and you
+これが ふたりの さんらいず あんせむ
+あかるく まっすぐ かがやく
+ふたりの あした
+えいえんに あなたと わたし
 
 [Bridge]
-hold me through the morning
-only you only you
+あさまで だきしめて
+あなただけ あなただけ
 
 [Verse 3]
-golden on your shoulders
-golden in your eyes
-golden morning everywhere
-under endless skies
+かたに ふる こがね
+ひとみに うつる こがね
+すべてが こがねいろの あさ
+はてしない そらの したで
 
 [Final Chorus]
-this is our sunrise anthem
-shining bright and true
-just the two tomorrows
-forever me and you
+これが ふたりの さんらいず あんせむ
+あかるく まっすぐ かがやく
+ふたりの あした
+えいえんに あなたと わたし
 
 [Outro]
-forever me and you
-just the two tomorrows
+えいえんに あなたと わたし
+ふたりの あした
 ```
 
 ---
@@ -583,53 +584,54 @@ Downtempo shibuya kei flavored jazz, soft bossa nova drums, warm vibraphone and 
 [Jazzy Piano Loop]
 [Warm Upright Bass]
 [Soft Vinyl Crackle]
-[Laid-Back Japanese Rapper English Verses]
+[Laid-Back Native Japanese Rapper]
 [Evening Wind Down Mood]
-Lo-fi jazz hop with a laid-back Japanese rapper delivering English verses with light Japanese inflection in the Shing02 spirit, dusty boom bap drums, jazzy piano loop, warm upright bass, soft vinyl crackle, intimate close mic, reflective and conversational, mellow head-nodding groove, evening wind down cafe feel.
+Lo-fi jazz hop with a laid-back native Japanese rapper delivering verses in Japanese with authentic Tokyo pronunciation in the Shing02 spirit, dusty boom bap drums, jazzy piano loop, warm upright bass, soft vinyl crackle, intimate close mic, reflective and conversational, mellow head-nodding groove, evening wind down cafe feel.
 ```
 
 **Lyrics:**
 ```
 [Verse 1]
 [laid-back, spoken]
-late night thoughts arrive in whispers
-patterns of the streetlight through my window
-nothing rushes, something settles
-silence carries more than words could
+しんやの しこうが ささやきで とどく
+がいとうの もよう まどの むこうがわ
+いそがない おちついてゆく
+ちんもくが ことばいじょうを かたる
 
 [Verse 2]
 [laid-back, spoken]
-words that never quite arrived
-fall like quiet rain on tile
-quiet rain becomes a river
-slow and warm and never tired
+とどかなかった ことばたちが
+たいるに ふる しずかな あめのように
+あめは やがて かわに なる
+ゆっくり あたたかく つかれを しらずに
 
 [Chorus]
 [soft, sung]
-this is my battlecry whispered low
-not a shout but still i know
-deep inside i know
+これが ささやいた ぼくの さけび
+さけばないけど たしかに しっている
+ふかく ふかく しっている
 
 [Bridge]
 [spoken]
-hold the silence let it speak
+ちんもくに みみを すませ
+かたらせてくれ
 
 [Verse 3]
 [laid-back, spoken]
-i write the night a love letter
-fold it slow and let it scatter
-every street becomes a page
-every shadow turns to matter
+よるに らぶれたーを かく
+ゆっくり おって しずかに ちらす
+すべての とおりが いちまいの ぺーじ
+すべての かげが いみを もつ
 
 [Final Chorus]
 [soft, sung]
-this is my battlecry whispered low
-not a shout but still i know
-deep inside i know
+これが ささやいた ぼくの さけび
+さけばないけど たしかに しっている
+ふかく ふかく しっている
 
 [Outro]
-slow and warm and low
-deep inside i know
+ゆっくり あたたかく
+ふかく しっている
 ```
 
 ---
