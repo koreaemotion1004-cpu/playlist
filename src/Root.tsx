@@ -104,6 +104,83 @@ const tracks: { file: string; duration: number }[] = [
   { file: "260429/Cinnamon-in-the-Air.mp3", duration: 148.20 },
   { file: "260429/The-Old-Jukebox-Hums-Low.mp3", duration: 182.32 },
   { file: "260429/The-Last-Light-Holds-the-Room.mp3", duration: 165.00 },
+  // 260512 cafe-vol18
+  { file: "260512/cafe-vol18/Keys-in-the-Door.mp3", duration: 181.584 },
+  { file: "260512/cafe-vol18/First-Cup-Still-Hot.mp3", duration: 125.712 },
+  { file: "260512/cafe-vol18/The-Regulars-Chair.mp3", duration: 153.312 },
+  { file: "260512/cafe-vol18/Second-Pour.mp3", duration: 156.312 },
+  { file: "260512/cafe-vol18/The-Booth-in-the-Back.mp3", duration: 145.344 },
+  { file: "260512/cafe-vol18/Rain-Finds-the-Roof.mp3", duration: 157.2 },
+  { file: "260512/cafe-vol18/Afternoon-Becomes-Evening.mp3", duration: 154.944 },
+  { file: "260512/cafe-vol18/The-Lamp-by-the-Window.mp3", duration: 174.504 },
+  { file: "260512/cafe-vol18/The-Door-Doesnt-Lock-Loud.mp3", duration: 159.624 },
+  { file: "260512/cafe-vol18/Last-Light-on-the-Counter.mp3", duration: 157.032 },
+  // 260512 (Soul Funk Vol.07 — final render)
+  { file: "260512/You-Already-Carry-It.mp3", duration: 219.48 },
+  { file: "260512/Nothing-Needs-Naming.mp3", duration: 189.72 },
+  { file: "260512/You-Dont-Have-to-Reach.mp3", duration: 203.16 },
+  { file: "260512/It-Found-You-First.mp3", duration: 195.84 },
+  { file: "260512/No-Need-to-Hold-On.mp3", duration: 220.92 },
+  { file: "260512/You-Dont-Have-to-Wait.mp3", duration: 215.784 },
+  { file: "260512/You-Already-Heard-It.mp3", duration: 194.952 },
+  { file: "260512/No-Need-to-Speak.mp3", duration: 192.48 },
+  { file: "260512/It-Was-Always-Yours.mp3", duration: 229.872 },
+  { file: "260512/You-Already-Belong.mp3", duration: 190.824 },
+  // 260507 (Soul Funk Vol.07)
+  { file: "260507/You-Already-Carry-It.mp3", duration: 211.64 },
+  { file: "260507/Nothing-Needs-Naming.mp3", duration: 202.52 },
+  { file: "260507/You-Dont-Have-to-Reach.mp3", duration: 219.32 },
+  { file: "260507/It-Found-You-First.mp3", duration: 209.84 },
+  { file: "260507/No-Need-to-Hold-On.mp3", duration: 207.4 },
+  { file: "260507/No-Need-to-Hold.mp3", duration: 186.36 },
+  { file: "260507/You-Already-Felt-It.mp3", duration: 204.56 },
+  { file: "260507/It-Was-Always-in-the-Bass.mp3", duration: 192.48 },
+  { file: "260507/You-Already-Found-It.mp3", duration: 223.4 },
+  { file: "260507/No-Need-to-Move.mp3", duration: 219.48 },
+  // 260602 (Lo-fi R&B x Jazztronica Vol.01)
+  { file: "260602/01-Wasting-My-20s.mp3", duration: 132.44 },
+  { file: "260602/02-Still-Water.mp3", duration: 124.92 },
+  { file: "260602/03-Aint-Mine.mp3", duration: 122.48 },
+  { file: "260602/04-Amber-Hour.mp3", duration: 137.48 },
+  { file: "260602/05-Love-Me-On-Purpose.mp3", duration: 159.96 },
+  { file: "260602/06-Low-Light.mp3", duration: 118.12 },
+  { file: "260602/07-Talking-Reckless.mp3", duration: 156.32 },
+  { file: "260602/08-Soft-Static.mp3", duration: 168.44 },
+  { file: "260602/09-You-Lost-Me-Slow.mp3", duration: 142.80 },
+  { file: "260602/10-Heavy-Peace.mp3", duration: 147.88 },
+  // 260605 (Lo-fi R&B x Jazztronica Vol.02)
+  { file: "260605/01-Fine-Is-Pulling-Overtime.mp3", duration: 120.32 },
+  { file: "260605/02-3AM.mp3", duration: 157.24 },
+  { file: "260605/03-Missing-You-In-The-Room.mp3", duration: 181.20 },
+  { file: "260605/04-First-Cold-Snap.mp3", duration: 142.56 },
+  { file: "260605/05-Wrote-And-Deleted.mp3", duration: 213.76 },
+  { file: "260605/06-Vacancy.mp3", duration: 183.76 },
+  { file: "260605/07-You-Got-Up-First.mp3", duration: 292.04 },
+  { file: "260605/08-Cloudy-No-Rain.mp3", duration: 184.32 },
+  { file: "260605/09-Now-I-See-The-Start.mp3", duration: 239.84 },
+  { file: "260605/10-Everything-Fades-Slowly.mp3", duration: 158.24 },
+  // 260608 (Jazztronica DJ Okawari/FreeTEMPO/DAISHI DANCE)
+  { file: "260608/01-Paper-Boats.mp3", duration: 164.72 },
+  { file: "260608/02-Letter-In-Blue.mp3", duration: 154.48 },
+  { file: "260608/03-Morning-Tide.mp3", duration: 229.04 },
+  { file: "260608/04-Sun-Drift.mp3", duration: 193.32 },
+  { file: "260608/05-First-Light-Rising.mp3", duration: 184.40 },
+  { file: "260608/06-Skyline-Bloom.mp3", duration: 179.80 },
+  { file: "260608/07-Golden-Descent.mp3", duration: 169.68 },
+  { file: "260608/08-Evening-Haze.mp3", duration: 219.60 },
+  { file: "260608/09-Quiet-Compass.mp3", duration: 174.00 },
+  { file: "260608/10-Last-Page.mp3", duration: 479.40 },
+  // jazztronica-vol01
+  { file: "jazztronica-vol01/01-Morning-Feather.mp3", duration: 479.40 },
+  { file: "jazztronica-vol01/02-Asahi.mp3", duration: 165.76 },
+  { file: "jazztronica-vol01/03-Tide-Turning.mp3", duration: 142.36 },
+  { file: "jazztronica-vol01/04-Drift-Along.mp3", duration: 139.52 },
+  { file: "jazztronica-vol01/05-Golden-Avenue.mp3", duration: 188.40 },
+  { file: "jazztronica-vol01/06-Joyful-Skyline.mp3", duration: 218.48 },
+  { file: "jazztronica-vol01/07-Dusk-Couleur.mp3", duration: 199.12 },
+  { file: "jazztronica-vol01/08-Sweet-Sunset-Revue.mp3", duration: 134.68 },
+  { file: "jazztronica-vol01/09-Counting-Streetlights.mp3", duration: 133.96 },
+  { file: "jazztronica-vol01/10-Last-Feather.mp3", duration: 136.28 },
 ];
 
 const toId = (filename: string) =>
@@ -209,6 +286,7 @@ export const RemotionRoot: React.FC = () => {
                 height={720}
                 fps={FPS}
                 durationInFrames={Math.ceil(track.duration * FPS)}
+                backgroundColor={null}
               />
             );
           })
