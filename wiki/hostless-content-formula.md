@@ -49,6 +49,34 @@
 
 ---
 
+## 🎤 보컬곡 가사 규칙 — 길게 쓴다 (3분+ 확보 · 2026-06-11 확정)
+
+**문제:** 가사가 짧으면 보컬곡이 1분대로 나옴.
+**해결:** 가사 자체를 길게 쓴다. 구조 태그만으로는 부족.
+
+### 분량 기준
+| 섹션 | 분량 |
+|---|---|
+| [Intro] | `[instrumental, ...]` 연주 리드인 명시 |
+| [Verse 1] | **8줄** |
+| [Verse 2] | **8줄** |
+| [Chorus] | **10줄** |
+| [Verse 3] | **8줄** (신설 필수 — 반전/시점 전환 담기) |
+| [Bridge] | 4~7줄 (`[soft, almost spoken]` 등 창법 지시) |
+| [Final Chorus] | **12줄** (확장 + 마무리 반전) |
+| [Outro] | `[instrumental, fading]` + 짧은 반복구 |
+
+### Style 프롬프트 끝에 추가
+```
+Extended 3 to 4 minute full song arrangement, no early fade, full outro.
+```
+
+### 검증 예시
+Vol.03 T01 「Highlight Reel」 — Verse 4줄 버전 1분대 → 위 분량으로 확장 후 3분+ 확보.
+그래도 짧으면 Suno **Extend** 기능으로 이어붙이기.
+
+---
+
 ## 📖 설명글 공식
 
 ### 패턴 A — 짧은 시/에세이 (2~3분 읽기)
