@@ -170,6 +170,17 @@ const tracks: { file: string; duration: number }[] = [
   { file: "260608/08-Evening-Haze.mp3", duration: 219.60 },
   { file: "260608/09-Quiet-Compass.mp3", duration: 174.00 },
   { file: "260608/10-Last-Page.mp3", duration: 479.40 },
+  // 260611 (Lo-fi R&B x Jazztronica Vol.03)
+  { file: "260611/01-Highlight-Reel.mp3", duration: 208.96 },
+  { file: "260611/02-Sunday-Night.mp3", duration: 144.00 },
+  { file: "260611/03-Numb.mp3", duration: 171.84 },
+  { file: "260611/04-Half-Open-Window.mp3", duration: 148.80 },
+  { file: "260611/05-Too-Good.mp3", duration: 134.92 },
+  { file: "260611/06-Last-Streetlight.mp3", duration: 180.96 },
+  { file: "260611/07-Read-At-1142.mp3", duration: 180.96 },
+  { file: "260611/08-Cold-Coffee.mp3", duration: 173.32 },
+  { file: "260611/09-Still-Guessing.mp3", duration: 179.92 },
+  { file: "260611/10-Folding-The-Day.mp3", duration: 182.76 },
   // jazztronica-vol01
   { file: "jazztronica-vol01/01-Morning-Feather.mp3", duration: 479.40 },
   { file: "jazztronica-vol01/02-Asahi.mp3", duration: 165.76 },
